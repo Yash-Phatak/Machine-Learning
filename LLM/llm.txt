@@ -1,0 +1,6 @@
+Steps for working on LLM Models:
+1. Choosing Architecture and Tokens
+2. Training Method
+3. RLHF - Reinforcement Learning through Human Feedback
+4. Optional Fine Tuning
+5. Inference, Prompting and Prompt Engineering
