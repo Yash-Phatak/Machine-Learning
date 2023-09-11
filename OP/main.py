@@ -1,5 +1,4 @@
 import cv2
-
 img = cv2.imread('mypic.jpeg',0) #0-grayscale
 
 print(img)
