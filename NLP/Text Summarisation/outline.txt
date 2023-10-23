@@ -1,0 +1,6 @@
+Text Summarisation using Vectors (TF IDF) 
+1. Split document into sentences.
+2. Score each sentence.
+3. Rank each sentences by those scores.
+4. Summary =  top scoring sentences.
+5. It is an extractive method. (Text is directly extracted from the Original Document)

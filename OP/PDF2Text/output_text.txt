@@ -1,0 +1,2519 @@
+FLOOD INSURANCE 
+FUNDAMENTALS: NFIP 
+TRAINING FOR PRODUCERS 
+ 
+© 2013, 2015, 2020  by International Risk Management Institute, Inc.® 
+ALL RIGHTS RESERVED.  THIS COURSE OR ANY PART THEREOF MAY NOT BE REPRODUCED 
+IN ANY FORM OR BY ANY MEANS WITHOUT THE WRITTEN PERMISSION OF THE 
+PUBLISHER. 
+ 
+All course materials relating to this course are c opyrighted by IRMI. Purchase of a course includes a 
+license for one person to use the course materials. Absent specific written permission from IRMI, it is not 
+permissible to distribute files containing course mate rials or printed versions of course materials to 
+individuals who have not purchased the courses. It is  also not permissible to make the course materials 
+available to others over a computer network, Intran et, Internet, or any other storage, transmittal, or 
+retrieval system. 
+This publication is designed to provide accurate and authoritative information in regard to the subject 
+matter covered. It is sold with the understanding that the publisher is  not engaged in rendering legal, 
+accounting, or other professional service. If professional advice is required, the services of a competent professional should be sought. 
+  
+IRMI 
+® 
+International Risk Management Institute, Inc. ® 
+12222 Merit Drive, Suite 1600 
+Dallas, TX 75251-2266 
+(972) 960-7693 
+www.IRMI.com 
+International Risk Management Institute, Inc. ,® and IRMI® are registered trademarks. 
+ 
+    
+i Flood Insurance Fundamentals:  
+NFIP Training for Producers 
+Contents  
+Introduction .................................................................................................................. ............................... 1  
+Course Objectives ............................................................................................................. ........................ 2 
+Chapter 1 Overview of NFIP .................................................................................................... ................. 3  
+Overview ...................................................................................................................... ............................ 3 
+Chapter Objectives ............................................................................................................ ................... 3 
+Floods and Flood Insurance .................................................................................................... .................. 3 
+What Is a Flood? .............................................................................................................. .................... 4 
+Loss Control Measures ......................................................................................................... ................ 4 
+Need for Flood Insurance ...................................................................................................... ............... 4 
+Flooding and Probability ...................................................................................................... ................ 5 
+Why Flood Insurance Is Better Than Disaster Assistance ................................................................... 5 
+The National Flood Insurance Program (NFIP) ................................................................................... .... 5 
+NFIP Coverage Forms ........................................................................................................... ............... 5 
+Where Property Is Eligible for Flood Insurance ................................................................................ ....... 5 
+Participating Communities ..................................................................................................... .............. 5 
+Flood Insurance Rate Maps (FIRMs) ............................................................................................. .......... 6 
+Base Flood Elevation (BFE) .................................................................................................... ............. 6 
+Flood Zones ................................................................................................................... ....................... 6 
+Community Participation/Eligibility ........................................................................................... ............. 9 
+Community Rating System (CRS) ................................................................................................. ...... 9 
+Building Property Eligibility ................................................................................................. ................... 9 
+Manufactured Homes ............................................................................................................ ............... 9 
+Other Structures .............................................................................................................. .................... 10 
+Ineligible Buildings .......................................................................................................... .................. 10 
+Contents Eligibility .......................................................................................................... ....................... 11 
+Arranging NFIP Flood Insurance Coverage ....................................................................................... .... 11 
+Write-Your-Own (WYO) Program .................................................................................................. .. 12 
+Chapter 1 Review Questions .................................................................................................... .......... 13 
+Chapter 2 Flood Maps and Rating ............................................................................................... ........... 15  
+Overview ...................................................................................................................... .......................... 15 
+Chapter Objectives ............................................................................................................ ................. 15 
+Flood Hazard Boundary Map (FHBM) .............................................................................................. .... 15 
+Flood Insurance Rate Map (FIRM) ............................................................................................... ......... 16 
+Base Flood Elevation (BFE) .................................................................................................... ............... 16 
+Zone Determination ............................................................................................................ .................... 16 
+Types of Buildings ............................................................................................................ ..................... 16 
+Premium Calculation ........................................................................................................... ................... 17 
+Emergency Program ............................................................................................................. .............. 17 
+Regular Program ............................................................................................................... ................. 17 
+Special Rating Situations ..................................................................................................... ................... 18 
+Tentative Rates ............................................................................................................... .................... 18 
+Alternative Rates ............................................................................................................. ................... 18 
+Grandfathering ................................................................................................................ ................... 19 
+Chapter 2 Review Questions .................................................................................................... .......... 21  
+ 
+ii Chapter 3 General Rules ....................................................................................................... ................... 23  
+Overview ...................................................................................................................... .......................... 23 
+Chapter Objectives ............................................................................................................ ................. 23 
+Standard NFIP Forms ........................................................................................................... .................. 23 
+Eligibility ................................................................................................................... ......................... 24 
+Scheduled Building Policy ..................................................................................................... ............ 26 
+Preferred Risk Policy (PRP) ................................................................................................... ............ 26 
+General Application Procedures ................................................................................................ ............. 26 
+Waiting Period/Effective Date of Policy ....................................................................................... ......... 27 
+Exceptions .................................................................................................................... ...................... 28 
+Statutory Coverage Limits ..................................................................................................... ................. 28 
+Deductibles ................................................................................................................... .......................... 29 
+Cancellation .................................................................................................................. .......................... 29 
+Miscellaneous Rules ........................................................................................................... .................... 31 
+Policy Term ................................................................................................................... ..................... 31 
+Assignment .................................................................................................................... ..................... 31 
+Chapter 3 Review Questions .................................................................................................... .......... 32 
+Chapter 4 Covered Property and Additional Coverages ...................................................................... 34  
+Overview ...................................................................................................................... .......................... 34 
+Chapter Objectives ............................................................................................................ ................. 34 
+Building Property (Coverage A) ................................................................................................ ............. 35 
+Personal Property (Coverage B) ................................................................................................ ............. 36 
+Improvements and Betterments .................................................................................................. ........ 36 
+Items Specifically C overed as Contents ........................................................................................ ..... 36 
+Items Subject to Limitations .................................................................................................. ............. 36 
+Limitations on Property in Basements or Enclosures ............................................................................ . 37 
+Excluded Property ............................................................................................................. ..................... 39 
+Other Coverages (Coverage C)................................................................................................... ............ 40 
+Debris Remova l Expenses ....................................................................................................... ........... 41 
+Expenses of Removing Property to Safety ....................................................................................... .. 41 
+Sandbagging Expenses .......................................................................................................... ............. 41 
+Condominium Loss Assessments .................................................................................................. ..... 41 
+Pollution Damage .............................................................................................................. ................. 41 
+Increased Cost of Complia nce (ICC) (Coverage D) ...............................................................................  42 
+No Time Element Coverage ...................................................................................................... ............. 42 
+Disclosures ................................................................................................................... .......................... 42 
+Chapter 4 Review Questions .................................................................................................... .......... 43 
+Chapter 5 Covered Peril and Other Provisions .................................................................................. ... 46  
+Overview ...................................................................................................................... .......................... 46 
+Chapter Objectives ............................................................................................................ ................. 46 
+Definition of Flood ........................................................................................................... ...................... 46 
+Mudflow ....................................................................................................................... ...................... 47 
+Exclusions .................................................................................................................... .......................... 47 
+Key Conditions and Provisions ................................................................................................. ............. 48 
+Reduction and Reforma tion of Coverage ......................................................................................... .. 48 
+Concealment or Fraud and Policy Voidance ......................................................................................  48 
+Conditions Suspending or Restricting Insurance ............................................................................... 48 
+Loss Settlement Valuation and Coinsurance for Dwelling Form and RCBAP Form ........................ 49 
+Actual Cash Value (ACV) ....................................................................................................... ........... 50 
+Loss Settlement Valuation for th e General Property Form ................................................................ 51  
+iii Coinsurance Penalty in the RCBAP .............................................................................................. ..... 51 
+Chapter 5 Review Questions .................................................................................................... .......... 52 
+Chapter 6 Flood Insurance Legislation ......................................................................................... .......... 55  
+Overview ...................................................................................................................... .......................... 55 
+Chapter Objectives ............................................................................................................ ................. 55 
+NFIP Background ............................................................................................................... .................... 55 
+Coastal Barrier Resources Act ................................................................................................. ............... 56 
+National Flood Insurance Reform  Act (NFIRA) of 1994 ....................................................................... 56 
+Flood Insurance Reform Act of 2004 ............................................................................................ ......... 56 
+Purposes of the Act ........................................................................................................... ................. 57 
+Flood Insurance Claims Handbook ............................................................................................... ..... 57 
+Acknowledgement Form .......................................................................................................... .......... 57 
+Supplemental Form ............................................................................................................. ............... 57 
+Biggert-Waters Flood Insurance Reform and Modernization Act of 2012 ............................................ 58 
+Homeowner Flood Insurance Affordab ility Act of 2014 (HFIAA) ........................................................ 59 
+More Recent De velopments ...................................................................................................... ............. 60 
+Chapter 6 Review Questions .................................................................................................... .......... 61 
+Chapter 7 Responsibilities .................................................................................................... .................... 64  
+Overview ...................................................................................................................... .......................... 64 
+Chapter Objectives ............................................................................................................ ................. 64 
+Insured’s Responsibilities .................................................................................................... ................... 64 
+What To Do before a Flood ..................................................................................................... ........... 64 
+What To Do after a Flood ...................................................................................................... ............. 65 
+Handling the Claim ............................................................................................................ ................ 65 
+Appeals Process ............................................................................................................... ................... 65 
+Agency Responsibility ......................................................................................................... ................... 66 
+Helpful FEMA Websites ......................................................................................................... ............... 66 
+Flood Insurance Manual ........................................................................................................ ................. 66 
+Chapter 7 Review Questions .................................................................................................... .......... 67 
+Glossary ...................................................................................................................... ............................... 69  
+End Notes ..................................................................................................................... .............................. 76  
+ 
+ 
+     
+ 
+  
+1 Introduction 
+ 
+Standard residential and commercial property insurance policies that cover buildings and their contents 
+normally exclude coverage for flood losses. Flood dama ge was traditionally considered uninsurable due 
+to the widespread and catastrophic nature of many floods, and individuals and businesses had no way to 
+insure themselves against the fina ncial consequences of a flood loss. 
+In response to the need for flood insurance that pr ivate insurers could not meet, Congress passed the 
+National Flood Insurance Act of 1968 . This Act established a form of government insurance against flood 
+losses and created the National Flood Insurance Program (NFIP) . Coverage under the NFIP is 
+administered by the Federal Emergency Management Agency (FEMA)  and underwritten by the federal 
+government. NFIP insurance policies can be sold to individuals, families, and businesses by regular 
+insurance agents and brokers who also sell other types of property insurance. 
+This course covers topics in FEMA’s outline of “m inimum training and edu cation requirements, as 
+required by Section 207 of the Flood Insurance Reform Act of 2004, for all insurance agents who sell 
+Standard Flood Insurance Policies issued thro ugh the National Flood Insurance Program (NFIP).”1 This 
+course goes beyond the minimum requirements by adding u seful information that makes the details more 
+understandable.  
+The NFIP is unusual in several ways. Unlike most in surance programs that were developed by private 
+insurers, the NFIP was designed by the government b ased on legislation developed in Congress, so it does 
+not always follow conventional insurance practice. Th e unique nature of the flooding hazard also requires 
+approaches that address both risk financing and risk  control. The NFIP is designed not only to 
+compensate people whose property has been damaged by a flood but also to recognize, encourage, and 
+reward efforts to mitigate flood damage. 
+The language of flood insurance is unique, involving  specialized jargon and heavy use of acronyms. The 
+NFIP’s Flood Insurance Manual2 and other resources include technical terms and acronyms that the agent 
+must understand and some common in surance terms that take on a sp ecial meaning when used by the 
+NFIP. The key terms are defined as they are introduced  and are also defined in the course’s Glossary. 
+ 
+ 
+ 
+2 Course Objectives 
+By completing this course, you should meet a nd exceed FEMA’s minimum training and education 
+requirements for agents who sell flood insuran ce. More specifically, you should be able to 
+ identify, define, and use key techni cal terms associated with the NFIP; 
+ explain the background, purposes, and development of the NFIP; 
+ identify events that do or do not fall within an NFIP policy’s definition of “flood”; 
+ explain what properties are eligible for NFIP  coverage under the emer gency program and the 
+regular program; 
+ describe the important role of flood insurance rate maps (FIRMs) and distinguish among various 
+flood zones shown on rate maps; 
+ describe in general the process of obtaining cove rage directly from NFIP or through the Write-
+Your-Own (WYO) Program; 
+ outline the process for determining flood insurance rates and describ e the factors considered in 
+rating; 
+ describe general rules and procedures associated with handling NFIP applications and policies; 
+ identify the types of property and describe the pe ril that can be covered under a standard NFIP 
+policy; and 
+ describe the respective responsib ilities of NFIP policyholders and agents in handling flood 
+claims. 
+   
+3 Chapter 1 
+Overview of NFIP 
+Overview 
+ 
+This chapter begins with the technical definition of “flood” and explains why flood insurance is needed. It 
+then explains what property is eligible for flood insurance and the role of flood maps. The chapter 
+concludes by explaining how flood insurance coverage can be arranged.  
+Chapter Objectives 
+On completion of this chapter, you should be able to 
+ identify, define, and use key techni cal terms associated with the NFIP; 
+ explain the background, purposes, and development of the NFIP; 
+ explain what properties are eligible for NFIP  coverage under the emer gency program and the 
+regular program; 
+ describe the important role of FIRMs and dis tinguish among various flood zones shown on rate 
+maps; and 
+ describe in general the process of obtaining cove rage directly from NFIP or through the WYO 
+Program. 
+Floods and Flood Insurance 
+First we must understand what is meant by “flood ” and why floods require a special approach to 
+insurance. 
+ 
+ 
+ 
+4 What Is a Flood? 
+A flood  is a great flowing or overflowing of water, esp ecially over land areas that are normally dry. NFIP 
+flood insurance policies use a more specific definition.  
+Flood  is a general and temporary condition of partial or complete inundation of two or more acres 
+of normally dry land area or of two or more properti es (one of which is your property) from one of 
+the following:  
+ Overflow of inland or tidal waters   
+ Unusual and rapid accumulation or runoff of surface waters from any source   
+ Mudflow  
+ Collapse or subsidence of land along the shore of a lake or similar body of water as a 
+result of erosion or undermining caused by waves or currents of water exceeding 
+anticipated cyclical levels that result in a flood as defined above   
+A water event that does not meet this definition is not, for purposes of the National Flood Insurance 
+Program (NFIP), a “flood.”  
+There are several types of flooding.  
+ Coastal flooding  occurs when hurricanes and storms pr oduce heavy rains or drive ocean water 
+onto land. Storms, earthquakes, and volcanoes can create tidal waves that produce coastal 
+flooding. The force of the water from tidal waves often sweeps away  beaches and houses. 
+ River flooding  is normally seasonal because of snowmelt or  heavy rains. Water fills the river 
+basin too quickly, and the river flows over its banks. Water then covers the floodplain , often 
+damaging homes, and other property.  
+ Flash flooding  is caused when small and powerful fast-fl owing rivers are quickly formed because 
+of excessive rainfall or dam failure, sometimes triggering catastrophic mudslides. Flash floods 
+can be powerful enough to carry away roads, bri dges, and other structures, and they can occur 
+with little advance warning.  
+Loss Control Measures 
+Floods cause major water damage to homes, and they can cause walls and entire buildings to collapse. 
+Many homes caught in a flood are total losses. Property ow ners can take various measures to protect their 
+homes and businesses, incl uding the following: 
+ Elevate the structure. 
+ Relocate the structure. 
+ Relocate or elevate electrical panel boxes, fu rnaces, washers/dryers, and water heaters to a 
+location less likely to be flooded. 
+ Seal the structure. 
+FEMA provides detailed informa tion in its publication titled Design Manual for Retrofitting Flood Prone 
+Residential Structures , which can be ordered from FEMA. 
+Need for Flood Insurance  
+Most property insurance coverage forms exclude fl ood coverages. (Notable exceptions include auto 
+insurance policies and inland marine floaters, which often include flood coverage.) Since most property 
+forms do not typically cover flood losses, all propert y owners should seriously  consider procuring 
+separate flood insurance.   
+5 Flooding and Probability  
+Many locations have a 1 percent or more probability  that that location will experience a flood in any 
+given year. It’s important to understand exactly  what this means and what it doesn’t mean. 
+A 1 percent probability is the same as saying they can expect 1 flood every 100 years on average in the 
+long run.  This is no guarantee that the property will not have  2 or more floods within a 2- or 3-year period 
+or even within the same year.  
+Why Flood Insurance Is Better Than Disaster Assistance 
+Disaster assistance might become available, but it is  available only if a disaster is federally declared. 
+When it is available, assistance is usually a loan that mu st be repaid in full with interest. Flood insurance, 
+however, indemnifies the insured for covered losses—e ven when a disaster is not federally declared. 
+The National Flood Insurance Program (NFIP) 
+The National Flood Insurance Act of 1968  established the NFIP as a federally funded and operated 
+program. Flood insurance is available from the NFIP , which is administered by the Federal Emergency 
+Management Agency (FEMA).  
+The National Flood Insurance Act was amended in 1969 to provide coverage for mudslides. A 1973 
+amendment required mortgage lenders, in most cases, to ensure that flood-plain property was covered by 
+flood insurance. 1994 legislation tightened the enforcement of flood insurance requirements.  
+The Biggert-Waters Flood Insurance Reform Act of 2012 (Biggert-Waters)3 made further modifications to 
+various aspects of the NFIP. But in passing the Ho meowner Flood Insurance Affordability Act of 2014, 
+Congress rescinded some of the changes that Biggert-Waters had called for. 
+NFIP Coverage Forms 
+There are three different NFIP coverage forms: 
+ The dwelling form  can be used to cover one- to four-fa mily dwellings. It cannot be used for 
+residential structures with five or more residential units. 
+ The general property form  covers other residential buildings of five families or more and 
+nonresidential buildings. This flood form insures most businesses. 
+ The residential condominium buildi ng association policy (RCBAP)  provides coverage for the 
+condominium association, not individual unit owne rs. This policy covers the common elements 
+and all structural items of the residential condom inium units within a building. It also covers 
+personal property owned by the condominium association. 
+Where Property Is Eligible for Flood Insurance 
+FEMA has identified high-risk flood areas, known as special flood hazard areas (SFHAs) where flood 
+insurance is essentially mandatory. Pr operties in these areas have a 1 percent or greater chance of being 
+flooded in any given year ( 100-year floodplain ).  
+Participating Communities 
+Properties do not need to be located in SFHAs to qua lify for NFIP flood coverage. However, they do need 
+to be located in a participating community . To become a participating community, a community must 
+adopt a floodplain management ordinance that meet s or exceeds minimum NFIP criteria and have a Flood 
+Insurance Rate Map (FIRM) or a Fl ood Hazard Boundary Map (FHBM).  
+ 
+6 Participation in NFIP is a two-stage process, be ginning with the community’s participation in the 
+emergency flood program . The second stage of participation is the regular flood program . Higher limits 
+of coverage are available under the regular program. 
+Emergency Program 
+The emergency program, the initial phase of a community ’s participation in the NFIP, exists when the 
+community has adopted floodplain management standard s, but no Flood Insurance Rate Map (FIRM) is 
+yet available. Pending the creation of a FIRM, which will identify all of the flood hazard zones in the 
+community, properties in an emergency program commun ity are eligible for flood insurance at emergency 
+program rates and subject to em ergency program maximum limits.  
+The same emergency program rates apply to all insured properties, whether or not they are located within 
+a floodplain. However, the maximum amount of insurance available is limited.  
+Regular Program 
+Once a detailed engineering study is completed fo r the community and a Flood Insurance Rate Map 
+(FIRM) is issued, the community is brought into the regular program of the NFIP. Under the regular 
+program, higher amounts of flood insurance coverage  are provided than under the emergency program. 
+Regular program communities must agree to adopt  and enforce certain floodplain management 
+regulations, including building cons truction and zoning laws that minimize the risks of flood damage.  
+Flood Insurance Rate Maps (FIRMs) 
+A FIRM  is an official map of a community on whic h the FEMA has delineated the SFHAs, the base flood 
+elevations (BFEs), and the flood zones applicable to the community.  
+Base Flood Elevation (BFE) 
+The BFE is the elevation of surface water resulting from a flood that has a 1 percent chance of equaling or 
+exceeding that level in any given year. The BFE is shown on the FIRM zones AE, AH, A1–A30, AR, 
+AR/A, AR/AE, AR/A1–A30, AR/AH, AR/AO, V1–V30, and VE. 
+In essence, the BFE outlines the border of the 100-year floodplain. Property below th is line is in the 100-
+year floodplain, also known as the Special Flood Hazar d Area (SFHA); property above this line is not. 
+However, property outside the 100-year floodplain is not immune from flooding. It only means that the probability of a flood is a bit lower. Over the past decade, approximately 20 percent of all NFIP claims 
+came from properties in low- to moderate-risk areas. 
+Flood Zones 
+Flood maps of communities that participate in the NF IP indicate the degree of flood hazard in various 
+specific areas referred to as zones .  
+Special Hazard Flood Areas (SFHAs) are defined as th e areas that will be inundated by the flood event 
+having a 1-percent chance of being equaled or exceed ed in any given year. The 1-percent annual chance 
+flood is also referred to as the base flood or 100-year flood. SFHAs are labeled as zones A, AO, AH, A1–
+A30, AE, A99, AR, AR/AE, AR/AO, AR/A1–A30, AR/A, V, VE, and V1–V30.  
+Moderate flood hazard areas , labeled Zone B or Zone X (shaded)  are also shown on the FIRM and are 
+the areas between the limits of the base flood and th e 0.2-percent-annual-chance (or 500-year) flood. The 
+areas of minimal flood hazard , which are the areas outside the SFHA a nd higher than the elevation of the 
+0.2-percent-annual-chance flood, are labeled Zone C or Zone X. 
+A more specific description of these map zones is shown in Exhibit 1.1.  
+7 Exhibit 1.1  
+Definitions of FEMA Flood Zone Designations  
+Flood zones are geographic areas that FEMA has define d according to varying levels of flood risk. These 
+zones are depicted on a community’s FIRM. Each zone  reflects the severity or type of flooding in the 
+area.  
+Moderate- to Low-Risk Areas  
+In communities that participate in the NFIP, flood insurance is available to all property owners and 
+renters in these zones:  
+ZONE DESCRIPTION 
+B and X (shaded)   Area of moderate flood hazard, usually  the area between the limits of the 
+100-year and 500-year floods. Are also used to designate base floodplains of lesser hazards, such as areas protected by levees from 
+100-year flood, or shallow flooding areas with average depths of less than 
+one foot or drainage areas less than one square mile.  
+C and X (unshaded)   Area of minimal flood hazard, usually depicted on FIRMs as above the 
+500-year flood level  
+ 
+ 
+ 
+ 
+    
+ 
+     
+ 
+    
+ 
+  
+ 
+8 High-Risk Areas  
+In communities that participate in the NFIP, mandatory flood insurance purchase requirements 
+apply to all of these zones:  
+ZONE  DESCRIPTION  
+A  Areas with a 1% annual chance of flooding and a 26% chance of flooding over the life of a 
+30-year mortgage. Because detailed analyses ar e not performed for such areas, no depths 
+or BFEs are shown within these zones.  
+AE  The base floodplain where BFEs are provided. AE zones are now used on new format 
+FIRMs instead of A1–A30 zones.  
+A1–30   These are known as numbered A zones (e.g., A7  or A14). This is the base floodplain where 
+the FIRM shows a BFE (old format).  
+AH  Areas with a 1% annual chance of shallow flooding, usually in the form of a pond, with an 
+average depth ranging from 1 to 3 feet. These areas have a 26% chance of flooding over 
+the life of a 30-year mortgage. BFEs derived from detailed analyses are shown at selected 
+intervals within these zones.  
+AO  River or stream flood hazard areas and areas with a 1% or greater chance of shallow 
+flooding each year, usually in the form of sheet flow, with an average depth ranging from 1 
+to 3 feet. These areas have a 26% chance of flooding over the life of a 30-year mortgage. 
+Average flood depths derived from detailed analyses are shown within these zones.  
+AR  Areas with a temporarily increased flood risk due to the building or restoration of a flood 
+control system (such as a levee or a dam). Mandatory flood insurance purchase 
+requirements will apply, but rates will not exceed the rates for unnumbered A zones if the structure is built or restored in compliance with Zone AR floodplain management regulations.  
+A99  Areas with a 1% annual chance of flooding that will be protected by a federal flood control 
+system where construction has reached specified legal requirements. No depths or BFEs are shown within these zones.  
+ 
+High Risk: Coastal Areas  
+In communities that participate in the NFIP, mandatory flood insurance purchase requirements 
+apply to all of these zones:  
+ZONE  DESCRIPTION  
+V  Coastal areas with a 1% or greater chance of flooding and an additional hazard associated 
+with storm waves. These areas have a 26% c hance of flooding over the life of a 30-year 
+mortgage. No BFEs are shown within these zones.  
+VE, V1–30  Coastal areas with a 1% or greater chance of flooding and an additional hazard associated 
+with storm waves. These areas have a 26% c hance of flooding over the life of a 30-year 
+mortgage. BFEs derived from detailed analys es are shown at selected intervals within 
+these zones.  
+ 
+ 
+   
+9 Undetermined Risk Areas  
+ZONE DESCRIPTION  
+D  Areas with possible but undetermined flood hazards. No flood hazard analysis has been 
+conducted. Flood insurance rates are commensurat e with the uncertainty of the flood risk.  
+Community Participation/Eligibility 
+A community has many incentives to pa rticipate in the NFIP. For exampl e, if an officially declared 
+disaster occurs as a result of flooding in a nonparticipa ting community, no federal financial assistance will 
+be granted for the permanent repair or reconstruction of insurable build ings in these areas. In addition, a 
+lender can offer only a conventional loan (a loan no t guaranteed or insured by the federal government) in 
+a community that does not participate in the NFIP. The lender is still required to inspect any flood maps 
+to determine flood hazard risk and provide notice of this risk. A lender that recognizes the flood risk to 
+financed property may require a borrower to obtain flood insurance even without a federally mandated 
+requirement.  
+Community Rating System (CRS) 
+The CRS, a voluntary program for NFIP-particip ating communities, encourages flood mitigation 
+activities, by providing financial incentives (premium di scounts) for policyholders in communities that go 
+beyond the minimum floodplain management require ments and develop extra measures to provide 
+protection from flooding. More than 1,300 communities currently participate in the CRS. 
+For a community to be eligible, it must be in full co mpliance with the NFIP and be in the regular phase of 
+the program.  
+CRS classes range from class 1 to class 10. All commun ities begin with a class 10 rating, which provides 
+no discount. A class 1 rating earns the largest premium discount of 45 percent.  
+Eighteen activities in four categories—public info rmation, mapping and regul ation, flood damage 
+reduction, and flood preparedness – are recognized as measures for reducing the exposure to floods. 
+Credit points are assigned to each activity. Once a comm unity applies to the appropriate FEMA region for 
+the CRS program and its implementation is verifi ed, FEMA establishes the CRS classification based on 
+the credit points allowed.  
+Building Property Eligibility 
+Flood insurance may be written only on a structure with  two or more outside rigid walls and a fully 
+secured roof affixed to a permanent site. Structures must  resist flotation, collapse, and sideways motion. 
+Usually at least 51 percent of the actual cash valu e (ACV) of the property, including machinery and 
+equipment that are a part of the building, must be above ground level.4 4  
+Manufactured Homes 
+Manufactured or mobile homes , along with travel trailers, may be  eligible, but they have separate 
+eligibility standards. A manufactured or mobile home is defined as a structure built on a permanent 
+chassis, transported to its site in one or more sections, and affixed to a permanent foundation.  
+A travel trailer without wheels is also eligible if it is built on a chassis and affixed to a permanent 
+foundation, provided it is regulated under the co mmunity’s floodplain management and building 
+ordinances or laws.  
+  
+ 
+10 Two different eligibility rules that apply to manuf actured homes are based on how long the flood policy 
+has been in force. 
+ For manufactured homes insured under policies that were effective on or after October 1, 1982, 
+the home must be affixed to a permanent foundation.  It must also be anchored if located in an 
+SFHA.  
+ For manufactured homes on a foundation that have been continuously insured since September 
+30, 1982, the requirements are not as rigorous.  
+Other Structures 
+Numerous other structures are considered eligible buildings, including the following. 
+ Appurtenant structures  
+ Silos and grain storage buildings 
+ Cisterns 
+ Buildings entirely over water that were construc ted or substantially impr oved before October 1, 
+1982 
+ Buildings partially over water,  under certain circumstances 
+ Boathouses located partially over water, under certain circumstances 
+ Buildings in the course of construction that ha ve yet to be walled and roofed except when 
+construction has been stopped or delayed for more th an 90 days and/or if the lowest floor used for 
+rating purposes is below the BFE 
+ Severe repetitive loss properties5 
+Ineligible Buildings 
+The following buildings are among those typica lly ineligible for flood insurance coverage. 
+ Buildings that are constructed or altered in a wa y that places them in violation of state or local 
+floodplain management laws or regulations. C ontents and personal property located in these 
+buildings are also ineligible.  
+ Container-type structures, such as gas and liquid tanks, chemical or reactor container tanks and 
+brick kilns, including their contents 
+ Buildings entirely over water if they were newly constructed or substantia lly improved on or after 
+October 1, 1982 
+ Buildings partially underground, if 50 percent or  more of the structure’s ACV, including the 
+machinery and equipment that are part of the building, is below ground level 
+ Boat repair docks 
+ Greenhouses (unless the structure has at least two rigid walls and a roof) 
+     
+11 Contents Eligibility 
+To be eligible for coverage, contents must be locat ed in a fully enclosed bu ilding or secured to prevent 
+flotation out of the building. Additional categor ies of eligible property include the following. 
+ Vehicles and equipment—self-propelled vehicles or machines are eligible, provided they are not 
+licensed for use on public roads and are (a) used pr imarily to service the described location or (b) 
+designed and used to assist handicapped persons. Coverage applies only while the vehicles or 
+machines are inside a building at the described location. 
+ Contents located inside silos, gr ain storage buildings, and cisterns 
+Arranging NFIP Flood Insurance Coverage 
+Flood insurance is mandatory for most owners of mortgaged property located in an SFHA. This is 
+because lenders that are federally regulated, supervi sed, or insured by federal agencies are not legally 
+permitted to lend money on property in a flood plain z one when the community is participating in the 
+NFIP unless the property is covered by flood insurance.  The amount of flood insurance required in this 
+situation must be at least equal to the smallest of these three amounts: 
+ The outstanding principal balance of the loan  
+ The insurable value of the structure (not including land). (Under the dwelling form and the 
+RCBAP, the insurable value is based on the build ing’s replacement cost; the general property 
+form provides actual cash coverage on the building,  so the building’s insurable value is its ACV.) 
+ The maximum amount of insurance available from th e NFIP. (Property is often worth more than 
+the maximum amount of flood insurance offered by the NFIP.) 
+This legal requirement has been poorly enforced in the past, partly because mort gages are often sold by 
+one bank to another, and the pena lty for noncompliance has been only $350. Biggert-Waters encourages 
+lenders to comply with flood insurance requireme nts by increasing the penalty to $2,000 per violation 
+with no limit on annual penalties.6 
+Biggert-Waters permits the use of private insurance to satisfy the mandatory purchase  requirement.7 
+“Private flood insurance” does not refer to NFIP pol icies that private insurers issue under the WYO 
+Program, but rather to insurance underwritten by a pr ivate insurance company using a different policy 
+form. 
+Lenders may purchase flood insurance on behalf of hom e owners who fail to buy it themselves and then 
+bill the home owners for covera ge. This is referred to as force-placed insurance.  Within 30 days after 
+receiving confirmation that a property owner has pur chased his or her own flood insurance, Biggert-
+Waters requires mortgage lenders a nd servicers to terminate the for ce-placed insurance and refund any 
+premiums or fees paid for any period of duplicate coverage.8 
+At a real estate settlement, home buyers must now be  made aware that flood insurance is available under 
+the NFIP or from a private insurer, and they must also be notified if the property they are buying is 
+located in an SFHA.9 
+Home owners with homes in moderate- to low-risk  flood zones may not be compelled to purchase flood 
+insurance. But residential and commercial properties not subject to such obvious risks of flood damage 
+can and do suffer flood losses. There is a tendency of those whose property is not subject to an obvious 
+flood hazard (such as a nearby river that floods relia bly every spring or hurricane-related flooding in 
+seaside communities) to discount the possibility of flood damage.  
+Another reason why relatively fe w property owners purchase flood insurance is that many insurance 
+agents find it difficult to arrange NFIP policies. The application and rating procedures for NFIP flood insurance are entirely separate from t hose used in arranging other coverages, and the program has some  
+ 
+12 requirements that are burdensome for agents. Neverthel ess, the NFIP is often the only available source of 
+flood insurance, particularly for home owners a nd commercial property owners with an obvious flood 
+exposure.  
+Agents who do not recommend or suggest flood insuran ce, when it is available, face the possibility of 
+serious errors and omissions (E&O) claims.  
+Write-Your-Own (WYO) Program 
+NFIP flood policies can be issued directly by the NFIP or  by a private insurer that participates in NFIP’s 
+WYO Program. WYO participating insurers write the c overage on their own “paper”—that is, policies are 
+issued in the participating insurer’s name—but the NFIP reinsures the coverage 100 percent, so losses are 
+borne entirely by the federal government. Policy langua ge and coverage are the same whether the policy 
+is issued directly by the NFIP or by a WYO insurer. More information about the WYO Program is provided later in this course.   
+13 Chapter 1 Review Questions 
+1. When the snow melts, a creek overflows and cove rs six low-lying acres of property that also 
+contain some buildings. This is an example of 
+A. coastal flooding. 
+B. erosion. 
+C. river flooding 
+D. water damage that does not meet the definition of a flood. 
+2. After hearing that many people qualify for federal disaster assistance following flood damage to 
+their homes, Mari decides not to buy flood insu rance. Mari apparently does not realize that 
+A. federal disaster assistance is available in the same amounts as flood insurance. 
+B. federal disaster assistance is mandatory for property in an SFHA. 
+C. federal disaster relief is available onl y to people who buy flood insurance. 
+D. the assistance will be a loan that she has to repay 
+3. As a member of the Seaside Condominium Associa tion, Christa approves the association board of 
+directors' proposal to purchase flood insurance. At a later meeting, Christa is shocked to discover 
+that the flood policy, known as an RCBAP, does not cover flood damage to 
+A. personal property in common areas that the association owns. 
+B. personal property in her condominium unit 
+C. structural elements such as supporting beam s within the walls of her condominium unit. 
+D. the condominium building itself. 
+4. Before signing a purchase agreement on the home she is considering, Toni checks to determine 
+what flood zone the property is in. When she finds out that it is in Zone B, Toni realizes that 
+A. she should not buy flood insurance on this house. 
+B. the house is in a moderate risk area 
+C. the house is within the 100-year floodplain. 
+D. the house is outside the 500-year floodplain. 
+5. An insurance agent speaking at a countrywide c onvention of agents and brokers informs them 
+about the common reasons why only a fraction of pr operties exposed to the risk of flood damage 
+is actually insured against flood. First, he points out that those who own properties that are not 
+subject to an obvious flood hazard tend to disc ount the possibility of flood damage. The other 
+reason why not many properties are insured is that 
+A. agents find it difficult to arrange NFIP policies for their customers. 
+B. flood insurance is extremely expensive for home owners. 
+C. flood insurance is not widely advertised. 
+D. flood losses are too unpredictable and therefore hard to insure.  
+ 
+14 Answers to Chapter 1 Review Questions 
+1. C. The type of flood involved here is river flooding. 
+2. D. Federal disaster assistance usually takes the form of a loan that must be repaid in full with 
+interest. 
+3. B. An RCBAP covers the association’s building pr operty and personal property; individual condo 
+owners can purchase coverage for their personal property under a dwelling form. 
+4. B. Zone B denotes a moderate- to low-risk ar ea that is not immune from flooding but has a 
+chance of flood damage, in any given year, between 0.2 percent and 1.0 percent.  
+5. A. Many agents find it difficult to deal with the NFIP’s application and rating procedures that are 
+burdensome in comparison with othe r insurance-handling procedures. 
+ 
+   
+15 Chapter 2 
+Flood Maps and Rating 
+Overview 
+ 
+Understanding the different flood maps and the factors involved in rate determin ation are important in 
+understanding how the National Floo d Insurance Program operates. 
+Chapter Objectives 
+On completion of this chapter, you should be able to 
+ describe the important role of flood insurance maps and distinguish am ong various flood zones 
+shown on rate maps; 
+ outline the process for determining flood insurance rates and describ e the factors considered in 
+rating; and 
+ identify, define, and use key techni cal terms associated with the NFIP. 
+Flood Hazard Boundary Map (FHBM) 
+An FHBM is the official map of a community, i ssued by FEMA, in which the boundaries of the flood, 
+mudflow, and related erosion areas possessing special h azards have been identified. It shows approximate 
+areas of 100-year flood hazard. An FHBM is genera lly used for emergency program communities, but 
+some communities with minimal flood hazards that ente r the regular program continue to use an FHBM, 
+renamed as a FIRM. 
+ 
+ 
+16 Flood Insurance Rate Map (FIRM) 
+A FIRM is the official map of a community on wh ich FEMA has delineated both the special hazard areas 
+and the risk premium zones for the designated comm unity. The date of an initial FIRM may determine 
+whether a property is categorized as pre-FIRM or post-FIRM. This is relevant because flood insurance 
+rates are different for pre-FIRM and post-FIRM properties. 
+ A pre-FIRM  building is one for which construction or  substantial improvement occurred on or 
+before December 31, 1974, or before th e effective date of an initial FIRM. 
+ A post-FIRM  building is one for which construction or  substantial improvement occurred after 
+December 31, 1974, or on or after the effective date of an initial FIRM, whichever is later. 
+Pre-FIRM buildings that are substantially improved can continue to be rated as pre-FIRM if certain 
+conditions are met.  
+Base Flood Elevation (BFE) 
+A base flood is often referred to as a 100-year flood. This is not a flood that will only occur once every 
+100 years. Rather it refers to a flood having a 1 per cent or greater probability of occurring in any given 
+year. At a given location, a 100-year flood could happ en more than once in a relatively short period of 
+time, or it could not happen for hundreds of years.  
+BFE refers to the height of a base flood, usually in feet above sea level.10 When building a new structure 
+in a flood hazard zone, the best way to protect prope rty and minimize damage is to build above the BFE 
+and strictly follow all building codes. 
+Zone Determination 
+A zone—a geographical area shown on an FHBM or FI RM—reflects the severity or type of flooding in 
+the area. Zone determination is one of the key step s necessary to determine the appropriate rate for flood 
+insurance. For example, Zone V is a coastal area that tidal floods with a high wind velocity can inundate. 
+(“V” stands for “velocity.”) Property in SFHAs w ould be classified in one of the numerous Zone A 
+locales. Zones B, C, and X are in areas of moderate or minimal hazard, and Zone D consists of areas in 
+which the flood hazard is undetermined.  
+Types of Buildings 
+The lowest level of any building is the level most susceptible to flood damage. For rating purposes, the 
+NFIP distinguishes among the followi ng “building types” categories. 
+ No basement/enclosure 
+ With basement 
+ With enclosure 
+ Elevated on crawlspace 
+ Non-elevated with subgrade crawlspace 
+ Manufactured (mobile) homes 
+Any building area with a floor below grade level on all sides qualifies as a basement . 
+An elevated building  is a building that has no basement and that has its lowest elevated floor raised above 
+ground level by foundation walls, posts , piers, pilings, or columns. An  enclosure such as a shed or a 
+utility room might be found in the space under an elevated building.  
+17 A crawlspace  is a space under the building where one must crawl because there is not enough room to 
+stand. 
+Premium Calculation 
+The premium calculation steps for flood insurance po licies differ depending on whether the emergency 
+program or the regular program is in effect.  
+Emergency Program 
+The emergency program is designed for communities that do not yet have a FIRM. The same emergency 
+program rates apply to all insure d properties without regard to the flood hazard. Limited dollar amounts 
+of coverage are available in this first phase.  
+The rate structure for properties in emergency progr am communities is simple. The only variables are the 
+nature of the insured property (building or cont ents) and whether the property is residential or 
+nonresidential. 
+Steps in Premium Calculation 
+The emergency program calculation steps are as follows. 
+1. Determine occupancy type: resi dential or nonresidential.  
+2. Calculate premium using appropriate rates. 
+3. Apply appropriate deductible factor if  an optional deductible is chosen. 
+4. Add the reserve fund assessment fee. 
+5. Add HFIAA surcharge and the federal policy fee. 
+Introduced in the Homeowner Flood Insu rance Affordability Act (HFIAA), the HFIAA surcharge  fee is a 
+flat fee intended to offset some of the other ch anges made by that act. Policies on primary residences 
+include a $25 surcharge, and all other policies include a $250 surcharge. The federal policy fee  is a flat 
+administrative charge that applies to all flood policies. The reserve fund assessment fee  is an amount 
+dedicated to the NFIP Reserve Fund as authorized by  the Biggert-Waters Flood Insurance Reform Act of 
+2012. 
+Regular Program  
+The second and final stage of a community’s particip ation is the regular flood program. A community 
+becomes a participant in the regular program on ce its flood hazard zones have been identified and 
+published in a FIRM. Regular program communities must agree to adopt and enforce certain  floodplain 
+management  regulations, including building construction and zoning laws that minimize the risks of flood 
+damage.  
+Rates applicable to properties in regular program communities vary based on a number of factors. The 
+most important is the flood hazard zone in which the property is located.  
+The applicable zone can be found on the FIRM for the community in which the property is located. 
+Alternatively, the applicable zone for a particular  property can be obtained from the permits or building 
+department of the community’s city or county gove rnment office. Flood maps are available from these 
+offices or the NFIP.  
+Sections of flood maps (referred to as FIRMettes ) are also available free of charge via the Internet on the 
+NFIP’s website. Instructions on how to access and print a FIRMette are provided in the “FEMA Flood 
+Map Service Center” section of the NFIP website.11  
+ 
+18 Rates applicable to properties constructed after the date the initial flood map of the community was issued 
+and located in the most hazardous zones also vary depending on the elevation of the building’s lowest 
+floor  above the area’s BFE.  
+Steps in Premium Calculation 
+The regular program premium calculation steps are as follows. 
+1. Determine whether the property to be covered is pre-FIRM or post-FIRM.  
+2. Determine the appropriate zone.  
+3. Determine occupancy: single fam ily, two- to four-family, other residential, nonresidential, or 
+manufactured home. 
+4. Determine building type, including the number of floors. 
+5. Determine whether building has a basement (or enclosed area below an elevated building): none, 
+finished, or unfinished. 
+6. Determine elevation difference. 
+7. Calculate premium using the appropriate rates. 
+8. Apply appropriate deductible if an optiona l deductible is chosen. Note that the increased cost of 
+compliance (ICC)  premium is not subject to deductible factors. 
+9. Add the ICC amount to the premium. 
+10. Apply community rating system (CRS) credit if applicable. 
+11. Add a 15 percent reserve fund assessment fee. 
+12. Add $50 probation surcharge  if structure is located in a community on probation. 
+13. Add HFIAA surcharge and the federal policy fee.  
+Special Rating Situations 
+Special rating situations include circumstances that involve tentative rates, alternative rates, or 
+grandfathering. 
+Tentative Rates 
+Insurers use tentative rates  to issue policies when th e insurance agent fails to  provide the necessary rating 
+information. Tentative rates are typically higher than  the NFIP published rates. When tentative rates are 
+used, a declarations page and a tentative rate lette r will be forwarded to the policyholder, agent, and 
+mortgagee (if any) requesting the necessary informati on so that the proper rate can be ascertained.  
+Tentatively rated policies cannot be endorsed to in crease policy limits or renewe d for another policy term 
+until the insurer has received the necessary actuarial rating informa tion and full premium payment.  
+If a loss occurs on a tentatively rated property, the lo ss payment is limited by the amount of coverage that 
+the initially submitted premium would have purchased using the correct actuarial rating information. 
+Alternative Rates 
+When a structure is pre-FIRM and the FIRM zone is unknown, an alternative rating  process can be used 
+for noncoastal high-hazard areas. In these cases, the NF IP will assume that the building is located in an 
+SFHA.   
+19 The NFIP also uses the alternative rating procedur e for renewing policies in communities that have 
+converted from the emergency program to the regul ar program during a policy’s term. When initially 
+using alternative rates, the agent should determin e the actual FIRM zone as soon as possible during the 
+initial policy term and submit a gene ral change endorsement to correct the FIRM zone and premium. 
+Unless the correct flood zone is provided, the policy cannot be renewed.  
+Grandfathering  
+Grandfathering  is a situation in which an old rule continues to apply. With flood insurance, grandfathered 
+property that had lower rates under some previous situ ation continues to qualify for lower rates even after 
+the situation changes. 
+A community’s flood risk potential can change for many different reasons. For example:  
+ One community might install structural impr ovements (dams, levees, etc.) to decrease the 
+potential effects of flooding.  
+ Another community might engage in new commer cial or residential development that could 
+aggravate the flooding situation.  
+ Communities sometimes revise their geographical boundaries, resulting in the designation of 
+additional or reduced flood hazard areas.  
+When situations like these occur, the FIRM is re vised and republished. When this happens, flood 
+insurance premiums can dramatica lly increase for policyholders who se property is reclassified. The 
+NFIP’s grandfather rules give the insured the opt ion of using the new and updated rating criteria or 
+having the premium rate determined  using the BFE and/or flood zone on the FIRM in effect when the 
+building was originally constructed or wh en flood insurance was first procured.  
+Effect of Biggert-Waters  
+In order to ensure that flood insurance rates more accurately reflect the risk, Biggert-Waters presumably 
+phased out subsidized rates for non-primary (sec ondary) residences such as a vacation home occupied 
+only during the summer months. Subsidized rates for ot her property classes were also to be eliminated 
+over time, beginning in late 2013. 
+These subsidies were to be phased out by imposing a 25  percent premium increase every year until rates 
+increase the true risk. These changes would affect the following property owners.12 
+ Owners of non-primary (secondary) residences in an SFHA  
+ Owners of business properties in an SFHA  
+ Owners of property that has experienced severe or repeated losses 
+The owners of primary  residences located in SFHAs would retain  their subsidized rates unless or until 
+one of the following conditions occurs. 
+ The property is sold. 
+ The policy lapses. 
+ The property suffers severe repeated flood losses. 
+ A new policy is purchased. 
+Grandfathered rates were to be phased out for mo st properties whenever a community adopts a new 
+FIRM. The phase-out would happen gradually over a 5- year period, with a 20 percent rate increase each 
+year.13  
+ 
+20 Effect of the Homeowner Flood Insuranc e Affordability Act (HFIAA) of 2014  
+It probably could have been predicted that ma ny policyholders strenuously objected to increased flood 
+insurance premiums, and they let their congr essional representatives know. In March 2014, Congress 
+reduced some of the rate increases that had alr eady been implemented and prevented some future 
+increases. Among other things, the 2014 law requires pr emium increases for most subsidized properties of 
+at least 5 percent annually until the premium reache s its full-risk rate. However, it prevents most 
+policyholders from experiencing annual rate increases of more than 18 percent.  
+The 2014 law also reinstated grandfathering, with th e effect that properties recategorized as being at a 
+higher risk of flooding under FEMA’s revised maps woul d not be subject to large increases. In addition, 
+the 2014 law terminated a Biggert-Waters provisi on that removed a subsidy once a home was sold. 
+According to FEMA, more than 80 percent of NFIP  policyholders were not affected by either Biggert-
+Waters or the later rollback. The properties most affect ed were located in high-risk flood zones, were pre-
+FIRM properties, or were second homes. 
+The 2014 law also instituted an HFIAA surcharge fo r all policyholders of $25 on primary residence and 
+$250 on all other policies.  
+21 Chapter 2 Review Questions 
+1. Tom is considering purchasing flood insurance but first wants to obtain a FIRM. What does 
+FIRM stand for? 
+A. Flood insurance rate map 
+B. Flood insurance regular map 
+C. Flood insurance revision map 
+D. Flood insurance risk map 
+2. The first FIRMs in Ben's community were comple ted in 2002. The apartment building he owns 
+was originally built in 1969, but it was comple tely renovated in 2010. Into what category does 
+Ben's building fall? 
+A. Non-FIRM 
+B. Nonconforming 
+C. Post-FIRM 
+D. Pre-FIRM 
+3. Rupert is building a house that is located in an SFHA. When Rupert asks his agent what base 
+flood means, the agent tells him that 
+A. it means the probability of a flood occurring in  any given year is 1 percent or greater. 
+B. it means the property will flood once every 100 years. 
+C. it means the probability of a flood within 100 years is 1 percent. 
+D. it means the elevation of the property is above sea level. 
+4. Blake's new home has three bedrooms upstairs; a living room, a dining room, and a kitchen on the 
+first floor, which is at ground level; and a finish ed family room and a storage area on the lower 
+level. For flood insurance rating purposes, the low est level of Blake's house is considered a(n) 
+A. basement. 
+B. crawl space. 
+C. enclosure. 
+D. flood zone. 
+5. Rating Erin's flood insurance policy is relativel y simple, because Erin's community currently 
+qualifies for flood insurance under the emergency program. Which one of the following factors 
+will not have a bearing on the premium she must pay? 
+A. The date on her community's initial FIRM 
+B. The deductible she selects 
+C. The federal policy fee 
+D. Whether the property is a residence  
+ 
+22 Answers to Chapter 2 Review Questions 
+1. A. The official map of a community  on which FEMA has delineated spec ial hazard areas and risk premium 
+zones is known as a flood insurance rate map, or FIRM. 
+2. C. Ben’s building is post-FIRM because it was substantia lly improved after the eff ective date of an initial 
+FIRM. 
+3. A. Base flood, while often referred to as a 100-year flood, actually refers to a flood having a 1 percent or 
+greater probability of occurring in any given year. 
+4. A. Because this part of Blake’s house is below ground level on all sides, it qualifies as a basement. 
+5. A. A community in the emergency program does not yet have a FIRM, so no FIRM date is available. 
+ 
+   
+23 Chapter 3 
+General Rules 
+Overview 
+ 
+Many of the complicated rules in the frequently revised Flood Insurance Manual  may raise questions. 
+This chapter examines some of the general rules a nd procedures but does not cover every rule or nuances 
+of the rules.  
+Chapter Objectives 
+On completion of this chapter, you should be able to 
+ describe various rules and procedures associated with handling NFIP applications and policies 
+and 
+ identify, define, and use key techni cal terms associated with the NFIP. 
+Standard NFIP Forms 
+Each of the following three NFIP forms is referred to as a standard flood insurance policy (SFIP). 
+ Dwelling form 
+ General property form 
+ RCBAP  
+Despite their somewhat misleading titles, scheduled building policies  and preferred risk policies (PRPs) , 
+discussed later this chapter, are not additional, different coverage forms.  A policyholder who has a 
+scheduled building policy or a PRP has coverage unde r one of the three standard insurance policies 
+(forms) mentioned above.  
+ 
+ 
+ 
+24 Eligibility  
+Exhibit 3.1 describes each SFIP form and the types of risks each form may be used to insure. 
+One significant distinction between these forms invol ves the valuation provisions that apply to building 
+coverage. The dwelling form and the RCBAP provide replacement cost  coverage, while the general 
+property form provides actual cash coverage on th e building. All forms provide ACV coverage on 
+contents. 
+Exhibit 3.1  
+Flood Form Description and Eligibility 
+Flood Policy Form  Description  Eligibility  
+Dwelling Form   Applicable to home owner, 
+residential renter, or owner of 
+residential building with two, 
+three, or four units  In the NFIP regular program or 
+emergency program, the dwelling form 
+provides building and/or contents 
+coverage for: 
+ Detached, single-family, non-
+condominium residences with 
+incidental occupancy limited to under 50 percent of the total floor area 
+ Two- to four-family, non-
+condominium building with incidental occupancy limited to 
+under 25 percent of the total floor 
+area 
+ Dwelling unit in residential 
+condominium building 
+ Residential town house or row 
+house 
+General Property Form Issued to owner of residential 
+building with five or more units In the NFIP regular program or 
+emergency program, the general property 
+form provides building and/or contents 
+coverage for these and similar “other residential” risks: 
+ Hotel/motel with normal guest 
+occupancy of 6 months or longer 
+ Tourist home or rooming house 
+with five or more lodgers 
+ Apartment building 
+ Residential cooperative building 
+ Dormitory 
+ Assisted living facility 
+ 
+ 
+ 
+  
+25 Exhibit 3.1 (cont.) 
+Flood Form Description and Eligibility 
+Flood Policy Form  Description  Eligibility  
+General Property 
+Form Issued to owner or lessee 
+of nonresidential 
+(commercial) building or 
+unit In the NFIP regular program or emergency 
+program, the general property form provides 
+building coverage and/or contents coverage for 
+these and similar nonresidential risks: 
+ Hotel or motel with standard guest 
+occupancy of less than 6 months 
+ Licensed bed-and-breakfast  
+ Retail shop, restaurant, or other 
+business 
+ Mercantile building 
+ Grain bin, silo, or other farm building 
+ Agricultural or industrial processing 
+facility 
+ Factory 
+ Warehouse 
+ Pool house, clubhouse, or other 
+recreational building 
+ House of worship 
+ School 
+ Nursing home 
+ Nonresidential condominium 
+ Condominium building with less than 75 
+percent of its total floor area in 
+residential use 
+ Detached garage 
+ Toolshed 
+Stock, inventory, or ot her commercial contents 
+Residential 
+Condominium Building 
+Association Policy (RCBAP) Issued to residential 
+condominium association 
+on behalf of association and unit owners In the regular program only, the RCBAP 
+provides building coverage such as the common 
+elements of the condominiums and, if requested, coverage for commonly owned 
+contents for a residential condominium building 
+with 75 percent or more of its total floor area used for residential purposes. In addition, it 
+covers the structural items of the condominium 
+units inside the building. The RCBAP is not 
+designed to cover the individual contents of each unit owner. 
+  
+ 
+26 Structures at separate locations need separate NFIP  policies, with one exception, referred to as a 
+scheduled building policy . 
+Scheduled Building Policy 
+As many as 10 buildings can be covered under a single sch eduled building policy if all buildings have the 
+same ownership and the properties on which the insure d buildings are located are contiguous. Blanket 
+limits are not available; separate limits of insurance apply to each  covered property. 
+Preferred Risk Policy (PRP)  
+A PRP is available for properties located in Zones B, C, X, AR, or A99 in a regular program NFIP 
+community that meet certain loss history requirements. A PRP is an SFIP (dwelling, general, or RCBAP) 
+with lower rates. 
+SFIP insurance buyers who insure their building and it s contents outside the PRP program normally select 
+a dollar limit of coverage on the building and a dolla r limit of coverage on their contents. The PRP, 
+however, provides fixed combined building/contents limits, such as $200,000/$80,000 ($200,000 on the building and $80,000 on the contents).  
+The PRP makes combined building/contents limits of  up to $250,000/$100,000 available for owners of 
+residential properties and up to $500,000/$500,000 fo r nonresidential properties. Contents-only coverage 
+is available for tenants and owners of  all eligible occupancies, except wh en the contents are all located in 
+a basement. Multi-unit residential condominium buildi ngs eligible for coverage under an RCBAP are not 
+eligible for the PRP. 
+Only one building can be insured by each PRP po licy, and only one policy can be written on each 
+building. To be eligible, a building must be located within a B, C, X, A99, or AR flood zone on the 
+current effective FIRM and must meet certain loss-history requirements.  
+General Application Procedures 
+The NFIP flood insurance application form, or a simila r form for WYO insurers, must be used to apply 
+for all flood insurance policies except a PRP, which uses a shorter application form. A separate 
+application must be submitted for each structure for which building and/or contents insurance is being 
+requested.  
+Applications for coverage on properties that were cons tructed in the most hazardous zones after the date 
+of issuance of the initial flood map for the community must include an elevation certificate  showing the 
+elevation of the building’s lowest floor.  
+NFIP community participation rules require the prep aration of elevation certificates for all buildings 
+constructed in the community’s SFHAs after the initial FIRM date. Elevation certificates for these 
+properties should be readily available from the building or permits department of the community’s city or 
+county government office. If a certificate was not pr epared as required at the time the building was 
+constructed, the property owner must arrange to ha ve a certificate prepared by a qualified surveyor or 
+engineer.  
+The NFIP community number and the flood zone a pplicable to the property must be shown on the 
+application. An up-to-date Community Status Book, showing the names, number, and FIRM dates of all 
+participating communities is available on FEMA’s webs ite. Also, the permits or building department of 
+the community’s city or county government office s hould be able to provide this information.  
+The applicable flood zone can also be determined from a review of the flood map for the community. 
+Flood maps can be obtained from the community’s city or county government office or by contacting the 
+NFIP. Many WYO insurers offer free zone determinat ion services. Agents whose flood insurance policies  
+27 are issued directly by the NFIP can contact th e NFIP servicing office for assistance with zone 
+determination. 
+The correct annual premium for the amount of coverage  being requested must be submitted along with the 
+application. (Biggert-Waters14 allows for the premium to be paid in installments.) 
+If the premium submitted with the application is inade quate due to a rating or calculation error, but the 
+application is otherwise in order, the policy will be  issued with the maximum coverage limits that the 
+premium submitted will purchase. The insured will then be  notified of the amount of additional premium 
+required to purchase the requested limits, and if the NF IP receives the additional premium within 30 days, 
+the policy limits will be amended to pr ovide the originally requested limits  of coverage, effective as of the 
+policy inception date.15 
+The flood insurance application collects information su ch as the type of property, occupancy, description 
+of the building, and the use, as well as information a bout risk factors affecting the building, occupancy 
+information, and elevation data relative to the ground level.  
+After all parts of the application are complete, the ag ent should attach all require d certifications and other 
+documents to the applicant’s check, draft, or money order, payable to the insurer for the required amount. 
+A credit card payment is also acceptable if the in sured signs a disclaimer form stipulating that 
+cancellation of the policy in matters involving a billin g dispute is allowable only for a billing error or 
+fraud. The original copy of the application and relate d documents with the total prepaid amount is mailed 
+to the insurer. Copies of the application should be di stributed to the agency file, the applicant, and the 
+mortgagee. A copy of the application and a copy of  the premium payment will satisfy the mortgagee’s 
+proof-of-purchase requirements.  
+After the insurer receives the application and premium,  it will process the application and issue the policy. 
+The policy contract and declarations page will then  be mailed to the agent and the mortgagee(s).  
+If the application is incomplete or contains incorrect  data, the application will not be processed but will be 
+placed into a pending file until the agent provides the missing or correct data. For NFIP direct business, if 
+the missing information is not provided, the policy wi ll be issued with tentative rates. If insufficient 
+information is available to tentatively rate the polic y, the flood insurance application will be rejected and 
+the premium payment return ed to the applicant. 
+Waiting Period/Effective Date of Policy 
+Flood coverage can be purchased at any time, but it usually does not provide immediate coverage on the 
+date of its purchase.  
+Flood insurance does not cover a loss in progress . To avoid the adverse selection that would result if 
+coverage was purchased in anticipation of an imminent flood, a waiting period applies.  
+There is a standard 30-day waiting period  from the time a policy is purch ased until coverage applies. The 
+effective date of a new policy will be 12:01 a.m. local  time on the 30th calendar day after the application 
+date and the presentment of premium.  
+Coverage will not begin until the waiting period h as passed, so the NFIP does not recognize or accept 
+binders. This means that the agent normally has no authority to make flood insurance effective 
+immediately. However, there are a few exceptions to that rule. 
+    
+ 
+28 Exceptions 
+Key exceptions to the 30-day wa iting period include the following. 
+ There is no waiting period for an existing flood in surance policy in which an additional amount of 
+coverage is required with making, increasing, extending, or renewing a loan, such as a second 
+mortgage, home equity loan, or refinancing. C overage is effective immediately, as long as the 
+premium payment is made at or prior to the loan closing. 
+ There is no waiting period when flood insurance is  mandated as a result of a lender determining 
+that a loan that does not have flood insurance shoul d have this coverage (e.g., property in a high-
+risk area). The insurance is eff ective immediately, as long as the pr emium payment is made at the 
+completion of a loan application. 
+ There is a 1-day waiting period when an additiona l amount of insurance is required due to a map 
+revision. This rule applies when the map revi sion results in a non-SFHA becoming an SFHA and 
+only if the application for increased coverage is received within 13 months following the map 
+revision. The increased amount of coverage w ill be available 24 hours after the amount of 
+coverage is applied for and th e additional premium is made. 
+Statutory Coverage Limits 
+The maximum flood insurance limits available from the NFIP are based on the type of program 
+(emergency or regular), whether the property is resi dential or nonresidential, the size of the residential 
+property (e.g., one-family dwelling as compared to a five-family dwelling), and the jurisdiction, as shown 
+in Exhibits 3.2, 3.3, and 3.4. 
+Exhibit 3.2 
+Building Coverage—Lower 48 States 
+Building Coverage—All Lower 48 States   Regular Program Emergency Program 
+Single or 2–4 family dwelling $250,000 $35,000 
+Other residential* $250,000 $100,000 
+Nonresidential or commercial $500,000 $100,000 
+*Biggert-Waters16 provides that multifamily residential propertie s of five or more residences may purchase flood 
+insurance up to the limits for commercial properties.  
+ 
+Exhibit 3.3 
+Building Coverage—Alaska, Hawaii, Guam, and US Virgin Islands 
+Building Coverage—Alaska, Hawaii, Guam, 
+and US Virgin Islands   Regular Program   Emergency Program   
+Single or 2–4 family dwelling $250,000 $50,000 
+Other residential* $250,000 $150,000 
+Nonresidential or commercial $500,000 $150,000 
+*Biggert-Waters17 provides that multifamily residential propertie s of five or more residences may purchase flood 
+insurance up to the limits for commercial properties.  
+  
+29 Exhibit 3.4 
+Contents Coverage—All Jurisdictions 
+Contents Coverage—All States   Regular Program Emergency Program 
+Residential $100,000 $10,000 
+Nonresidential or commercial $500,000 $100,000 
+ 
+For a flood insurance policy on condominium propert y owned by a residential condominium building 
+association, distinct maximum limits apply. The ma ximum amount of building coverage that can be 
+procured on a condominium is the replacement cost va lue of the building or the total number of units in 
+the condominium building multiplied by  $250,000, whichever is less. The maximum allowable contents 
+coverage is the ACV of the commonly owned conten ts up to a maximum of $100,000 per building.  
+Residential condominium unit owners who want flood c overage on the contents of their units must to 
+purchase their own dwelling policies. 
+Deductibles 
+When a loss occurs under the flood policy, the amount pa yable by the insurer is subject to a standard 
+deductible shown on the policy’s declarations page. Deductibles apply separately to buildings coverage 
+and contents coverage. Therefore, an insured with flood damage to both buildin g and contents will have 
+two deductibles. No deductible appli es to coverage for (a) expenses in curred to protect personal property 
+against flooding, (b) condominium loss assessments, or (c) ICC.  
+Biggert-Waters18 provides for minimum annual deductibles for s ubsidized and nonsubsidized properties:  
+ Subsidized (pre-FIRM) properties: $1,500 for st ructures insured for $100, 000 or less and $2,000 
+for structures insured for higher amounts. 
+ Nonsubsidized (post-FIRM) prope rties: $1,000 for structures insured for $100,000 or less and 
+$1,250 for structures insured for higher amounts. 
+Higher deductibles of up to $10,000 are available for one- to four-family dwelli ngs, and deductibles up to 
+$50,000 are available for other residential and nonres idential property. Deductibles can be increased at 
+any time during the policy term by submitting a co mpleted general change  endorsement form. 
+Deductibles cannot be reduced mid-term unless require d by the mortgagee and written authorization is 
+provided by the mortgagee. A 30-day waiting period w ill be applied to reducing the deductible, unless the 
+request is in connection with making, increasing, extending, or renewing a loan.  
+The form’s deductible provision specifies that the de ductible for buildings under construction that do not 
+have at least two rigid exterior walls and a fully secured roof at the time of loss will be twice the deductible that would otherwise apply.  
+Cancellation 
+The insured may cancel the policy at any time. Howeve r, return premiums in connection with midterm 
+cancellations are payable only when the reason for the cancellation is one of those established in the NFIP 
+Flood Insurance Manual  as qualifying for a return premium. The insured may be entitled to no refund, a 
+pro rata refund, or a full refund. Some situa tions involve a time limit or other restrictions. 
+The restrictions on payment of return premiums in  connection with midterm cancellations are necessary 
+because of the seasonal nature of flooding. Without these restrictions, it would be possible to purchase 
+coverage at the beginning of the flood season and can cel the policy a few months later once the threat of 
+flooding has passed.  
+ 
+30 The Flood Insurance Manual  lists cancellation reason codes that are to be used when completing an NFIP 
+cancellation/nullification request form and indicates the type of refund for which each type of cancellation 
+qualifies. These codes are shown in Exhibit 3.5. 
+Exhibit 3.5 
+Cancellation Reason Codes 
+Reason Code  Premium Refund 
+Provisions  
+1. Building sold, removed, or physically altered and no longer meets the 
+definition of an eligible building Pro rata 
+2. Contents sold, removed, or destroyed Pro rata 
+3. Policy canceled and rewritten to establish common expiration date with 
+other insurance coverage for the same building Pro rata 
+4. Duplicate NFIP policies Pro rata 
+5. Nonpayment of premium Full 
+6. Risk not eligible for coverage Full 
+7. Property closing did not occur  Full 
+8. Policy not required by lender Pro rata 
+9. Insurance no longer required by lender because property no longer in 
+SFHA because of a physical map revision Full 
+10. Condominium unit or association policy converting to RCBAP Pro rata 
+11. Cancellation reason code 11 has been deactivated    
+12. Mortgage paid off  Pro rata 
+13. Voidance prior to effective date Full 
+14. Code 14 has been deactivated   
+15. Insurance no longer required based on FEMA review of lender’s 
+SFHA determination  Full 
+16. Duplicate policies from sources other than the NFIP  Pro rata 
+17. Cancellation reason code 17 has been deactivated    
+18. Mortgage paid off on MPPP policy [Mortgage Protection Portfolio 
+Program—refers to force-placed insurance]  Pro rata 
+19. Insurance no longer required by mortgagee because structure 
+removed from SFHA by means of LOMA [LOMA refers to map revision]  Full 
+20. Policy written to wrong facility (severe repetitive loss property)  Full 
+21. Continuous lake flooding or closed basin lakes  No refund allowed 
+22. Cancel/rewrite due to misrating Full  
+31 Exhibit 3.5 
+Cancellation Reason Codes 
+23. Fraud  No refund allowed 
+24. Cancel/rewrite due to map revision, LOMA, or LOMR  Full 
+25. HFIAA Section 28 refund ( used to cancel and rewrite policies subject 
+to Homeowner Flood Insurance Affordability Act)  Full 
+26. Duplicate policy from  source other than NFIP   Full 
+ 
+Source: NFIP Flood Insurance Manual . 
+Miscellaneous Rules 
+Miscellaneous rules include policy term and assignment. 
+Policy Term 
+The only policy term available is 1 year for both NFIP direct business flood policies and policies issued 
+through WYO insurers.  
+Assignment 
+Once the transfer of title occurs, a property owner’s  flood insurance building policy may be assigned in 
+writing to a purchaser of the insured property without  the written consent of the NFIP. Most other types 
+of insurance permit assignment only with the consent of  the insurer and, as a practical matter, the seller’s 
+policy is usually canceled and replaced with a ne w policy purchased by the buyer. Exercising the NFIP 
+approach to assignment eliminates waiting-period issu es that might otherwise be involved when property 
+is sold. 
+Policies on buildings in the course of constructi on and policies insuring contents only may not be 
+assigned. A new application is warranted in these circumstances.  
+ 
+32 Chapter 3 Review Questions 
+1. Catherine and her fellow condominium unit owne rs hold a condominium association meeting. 
+Their building is located on th e coast in a community that h as just joined the NFIP. A FEMA 
+representative tells them that their association can procure flood insurance written on the RCBAP and that this policy will cover all of the following except 
+A. the common elements of the condominiums. 
+B. the contents of the building owned in common. 
+C. the individual personal property of each owner 
+D. the structural items of the condominium units within a building. 
+2. When she applies for flood insuran ce, Noelle is pleased to hear that her home qualifies for a PRP, 
+because a PRP 
+A. has lower premiums. 
+B. permanently guarantees premium rates will be discounted. 
+C. permits the purchase of higher limits than they could get with a dwelling form. 
+D. provides broader coverage than a dwelli ng form, a general form, or an RCBAP. 
+3. Bobby and Annette are in the process of applying fo r flood insurance. On June 1, they submit the 
+application. They suffered some flood damage on May 25, just 1 week before submitting the 
+application. What coverage for the May 25 da mage will be available under their flood policy? 
+A. They will have coverage minus a proportion of the payable limit. 
+B. They will have coverage once they meet their deductible. 
+C. They will have full cove rage for this damage. 
+D. They will not have cove rage for this damage 
+4. Kelli owns the building that houses her retail st ore. The building currently has an ACV of 
+$500,000. Kelli's community participates in th e regular NFIP program. How much flood 
+insurance can Kelli purchase on this building? 
+A. She must purchase limits of at least $250,000. 
+B. She may purchase limits of up to $500,000 
+C. She may purchase limits of up to $800,000. 
+D. She may purchase limits of  up to $1 million. 
+5. The restriction on payment of return premiums  should the insured cancel the flood policy is 
+necessary because of 
+A. the catastrophic nature of flooding. 
+B. the high probability of flooding. 
+C. the seasonal nature of flooding 
+D. the unpredictable nature of flooding.  
+33 Answers to Chapter 3 Review Questions 
+1. C. The RCBAP is not designed to cover the individual contents of each unit owner. 
+2. A. A PRP offers coverage at lower premiums for eligib le buildings in moderate risk flood zones in regular 
+program communities. 
+3. D. Coverage applies to losses occurring after a 30-day waiting period—from the time of purchase—has 
+elapsed but not to a flood already occurring before the policy term begins. 
+4. B. The maximum amount of flood insurance available under the regular program on a commercial building 
+is $500,000. 
+5. C. Without restrictions, people could buy flood coverage before the flood season and cancel it for a partial 
+refund after the flood season has ended. 
+ 
+    
+ 
+34 Chapter 4 
+Covered Property and Additional Coverages 
+Overview 
+ 
+This chapter offers an overview of the covered prope rty and additional coverage provided under the NFIP 
+dwelling form, the most commonly used NFIP form.  
+Most of the main characteristics of an NFIP dwelling form also apply to the general property form and the 
+RCBAP. The chapter notes some situations in which these other policies differ from the dwelling form. 
+For example, the dwelling form and the RCBAP provide  replacement cost coverage, while the general 
+property form provides actual cash coverage on th e building. All forms provide ACV coverage on 
+contents. 
+The chapter addresses the coverage on building proper ty (Coverage A), personal property (Coverage B), 
+other coverages (Coverage C), and ICC (Coverage D). Unlike standard Insurance Services Office, Inc., 
+homeowners or dwelling policies, the NFIP provi des no additional living expense coverage. This 
+discussion also describes the types of property  not covered under the NFIP dwelling form.  
+Chapter Objectives 
+On completion of this chapter, you should be able to 
+ identify the types of property that can and ca nnot be covered under a standard NFIP policy and 
+ identify, define, and use key technical terms associ ated with the coverage of a standard NFIP 
+policy. 
+ 
+35 Building Property (Coverage A) 
+A flood insurance policy can cover the building, the cont ents, or both. Which coverages apply is indicated 
+in the declarations. 
+In the dwelling form that includes building coverage, covera ge on building property (Coverage A) applies 
+to the dwelling  described on the policy declarations page . (The general property form’s Coverage A 
+applies to the building  described, and the RCBAP’s Coverage A applies to the residential condominium 
+building  described.) Covered building property includes add itions and extensions attached to the building 
+by a common wall, a stairway, a walkway, or a roof. An  attached garage or other appurtenant structure 
+falls into this category. 
+Manufactured homes and travel trailers that are attach ed to a permanent foundation can also be insured as 
+building property. However, manufactured homes and travel  trailers that are located in an SFHA must be 
+anchored in a way that complies with specific policy provisions for coverage to apply.  
+Buildings under construction or unde rgoing alteration or repair can also qualify as covered property. 
+Restrictions, however, apply to coverage on structures that are not yet walled or roofed. Such structures 
+are covered only while work is in progress and for up to 90 days after work is halted. Unwalled or 
+unroofed structures in specified zones have no covera ge until the building is walled and roofed if the 
+lowest floor is below the base flood elevation (BFE).  
+The following fixtures, machinery, and equipment are covered as building property. 
+ Awnings and canopies 
+ Blinds 
+ Built-in dishwashers and microwave ovens 
+ Carpet permanently installed over unfinished flooring 
+ Central air conditioners 
+ Elevator equipment 
+ Fire sprinkler systems 
+ Walk-in freezers 
+ Furnaces and radiators 
+ Garbage disposals 
+ Water heaters, including solar water heaters 
+ Light fixtures 
+ Outdoor antennas attached to buildings 
+ Permanently installed cabinets, cupboards, book cases, paneling, wallpaper, and wall mirrors  
+ Plumbing apparatus 
+ Pumps and their operating machinery 
+ Refrigerators, ranges, and ovens 
+Coverage applies only at the location described on the d eclarations page or at another location (for up to 
+45 days) if the property is moved to protect it from the imminent danger of flood. For coverage to apply, 
+the removed property must then be placed in a fully enclosed building “or otherwise reasonably protected 
+from the elements.” Furthermore, the removed propert y must be placed above ground level or outside an 
+SFHA.  
+ 
+36 Personal Property (Coverage B) 
+Personal property  is everything that is subject to ownership, other than real estate. Personal property for a 
+home owner includes not only what is usually cont ained in a home, such as a television, a washing 
+machine, and clothing, but also items stored in the garage such as a lawn mower. Personal property for a 
+business includes furniture, inventory, office supplies,  and other business personal property. Property 
+permanently attached to the foundation or the ground , or property such as wall-to-wall carpeting or a 
+central air conditioner, would be considered real pr operty. A key test to determine whether property is 
+personal property might be whether a person would reasonably take the item along when he or she moves. 
+If so, it would be considered personal property. 
+When a flood policy covers a building’s contents, th e personal property covera ge (Coverage B) applies 
+only to personal property that is inside the fully encl osed building at the location described in the policy. 
+Coverage is provided for propert y owned by the named insured or household family members. The 
+dwelling form also covers, at the insured’s option, property owned by guests or servants.  
+Improvements and Betterments 
+If the insured is a tenant, improvements to the build ing made or acquired at the insured’s expense are 
+covered under the personal property c overage. However, this coverage is subject to a maximum of 10 
+percent of the personal property coverage limit.  
+If the insured is a condominium unit owner (not an associ ation), up to 10 percent of the personal property 
+coverage limit can be applied to cover losses to interior walls, floors,  and ceilings that are not covered 
+under a flood policy issued to the condominium association.  
+Items Specifically Covered as Contents 
+To clarify whether building coverage or contents c overage applies to certain items, the policy explicitly 
+states that the following items are covere d under the personal property coverage. 
+ Air-conditioning units—portable or window units  
+ Carpets not permanently installed, over unfinished flooring  
+ Carpets over finished flooring  
+ Clothes washers and dryers  
+ Food freezers (other than walk-in freezers) and frozen food  
+ Ovens and cookout grills  
+ Portable dishwashers and microwave ovens  
+ Outdoor equipment and furniture stored inside the insured building (RCBAP and general property 
+form only) 
+Items Subject to Limitations 
+Coverage on a few types of personal property is subject to a maximum of $2,500 per occurrence. 
+ Artwork, photographs, collectibles, and memorabilia  
+ Furs and articles containing fur  
+ Jewelry, watches, precious or semiprecious stones, and articles made of precious metals  
+ Personal property used in a business (not app licable to the RCBAP and general property form) 
+ Rare books   
+37 Antiques are covered only for their functional value. 
+Coverage on personal property applies at the location described on the declarations page or at a temporary 
+location (for up to 45 days) if the property is moved to  protect it from the imminent danger of flood. For 
+coverage to apply, the removed pr operty must be placed in a fully  enclosed building “or otherwise 
+reasonably protected from the elements.” Furtherm ore, the removed property must be placed above 
+ground level or outside of an SFHA. 
+Limitations on Property in Basements or Enclosures 
+Only certain specific types of proper ty located in a basement or enclos ure are covered, and coverage is 
+severely limited, and Exhibit 4.1 shows the applicab le language, which is located in the “Property 
+Covered” section of the form (Section III).  
+ 
+38 Exhibit 4.1 
+Basement Property Coverage Limitations 
+Under Building Property Coverage:  
+We insure against direct physical  loss by or from flood to ... 
+8. Items of property in a building  enclosure below the lowest elevated floor of an elevated 
+post-FIRM  building located in Zones A1-A30, AE,  AH, AR, AR/A, AR/ AE, AR/AH, AR/A1-
+A30, V1-V30, or VE, or in a basement , regardless of the zone. Coverage is limited to the 
+following:  
+a. Any of the following items, if installed in their functioning locations and, if necessary 
+for operation, connected to a power source:  
+1. Central air conditioners;  
+2. Cisterns and the water in them;  
+3. Drywall for walls and ceilings in a  basement  and the cost of labor to nail it, 
+unfinished and unfloated and not taped, to the framing;  
+4. Electrical junction and circuit breaker boxes;  5. Electrical outlets and switches;  
+6. Elevators, dumbwaiters, and related equipment, except for related 
+equipment installed below the base flood elevation after September 30, 
+1987;  
+7. Fuel tanks and the fuel in them;  
+8. Furnaces and hot water heaters;  
+9. Heat pumps;  
+10. Nonflammable insulation in a basement ;  
+11. Pumps and tanks used in solar energy systems;  
+12. Stairways and staircases attached to the building , not separated from it by 
+elevated walkways;  
+13. Sump pumps;  
+14. Water softeners and the chemicals in them, water filters, and faucets 
+installed as an integral part of the plumbing system;  
+15. Well water tanks and pumps;  
+16. Required utility connections fo r any item in this list; and  
+17. Footings, foundations, posts, pilings , piers, or other foundation walls and 
+anchorage systems required to support a building .  
+b. Clean-up.    
+39 Exhibit 4.1 
+Basement Property Coverage Limitations 
+Under Personal Property Coverage:  
+3. Coverage for items of property in a building enclosure below the lowest elevated floor of an 
+elevated post-FIRM building  located in Zones A1- A30, AE, AH, AR, AR/A, AR/AE, AR/AH, 
+AR/A1-A30, V1-V30, or VE, or in a basement , regardless of the zone, is limited to the 
+following items, if installed in their function ing locations and, if necessary for operation, 
+connected to a power source:  
+1. Air conditioning units, portable or window type;  2. Clothes washers and dryers; and  
+Food freezers, other than walk-in, and food in any freezer.  
+Source: NFIP Standard Flood Insurance Policy—Dwelling Form.  
+Excluded Property 
+Several types of property are not covered under the NFIP dwelling form. Exhibit 4.2 provides a summary 
+of the “Property Not Covered” section of the dwe lling form. Likewise, none of these excluded items is 
+covered under the RCBAP and ge neral property forms.   
+ 
+40 Exhibit 4.2 
+Summary of Excluded Property 
+ Personal property not inside the fully enclosed building  
+ Buildings and contents located over water or seaward of mean high tide, if the building was 
+constructed after September 30, 1982  
+ Open structures, including boathouses 
+ Personal property located in, on, or over water  
+ Recreational vehicles, other than travel trailers that qualify as building property  
+ Self-propelled vehicles (except those not licensed for road use, or designed and used to 
+assist handicapped individuals, w hen located inside a building)  
+ Land, lawns, trees, plants, growing crops, and animals  
+ Accounts, bills, and evidences of debt  
+ Money and securities, bullion, stored value cards, and postage stamps  
+ Manuscripts and valuable papers  
+ Underground structures and equipment, including wells and septic systems  
+ Walks, decks, driveways, patios, and other su rfaces located outside the perimeter, exterior 
+walls of the building or the building in which the insured unit is located  
+ Tanks containing gases or liquids and simila r containers, including related equipment  
+ Buildings and contents in which more than 49 percent of the ACV of the building is below 
+ground, unless the lowest level is at or above the BFE and earth was used as insulation material in conjunction with energy efficient building processes  
+ Fences, retaining walls, seawalls, bulkheads, wharves, piers, bridges, and docks  
+ Aircraft, watercraft, and their furnishings and equipment  
+ Hot tubs and spas (other than bathroom fixtures) and swimming pools, including related 
+equipment  
+ Buildings and contents made ineligible for flood insurance by the Coastal Barrier Resources 
+Act (generally, buildings built after a specif ied date on specified coastal barrier islands) 
+ Personal property a condominium unit owner owns in common with other unit owners who 
+belong to a condominium association 
+Other Coverages (Coverage C) 
+In addition to building and personal property coverage, the NFIP po licy provides several other coverages, 
+including the following. 
+ Debris removal expenses 
+ Expenses of removing property to safety  
+ Sandbagging expenses  
+ Condominium loss assessments (dwelling form only) 
+ Pollution damage (general property form only)  
+41 Debris Removal Expenses 
+Debris removal expenses are covered, subject to the limits that apply to the building and its contents. 
+There is no debris removal sublimit. If the insured performs the debris rem oval, the insured’s labor is also 
+covered; it will be valued at the federal minimum wage. 
+The debris removal coverage in SFIP forms is not limited to the cost of removal of debris of the insured’s 
+covered property. It also pays for the removal of  a neighbor’s debris on the insured’s property. In 
+addition, coverage for the cost of removal of de bris of the insured’s own covered property applies 
+regardless of where the debris has landed.  
+Expenses of Removing Property to Safety 
+If it is necessary to move covered pe rsonal property to protect it from flood damage, not only is coverage 
+extended to apply at the location to which the propert y is removed (for up to 45 days), but coverage is 
+also provided for the reasonable expenses, up to $1,000, incurred in moving the property. Covered 
+expenses specifically include the value of the insure d’s own labor, determined at the prevailing federal 
+minimum wage. The $1,000 limit on remova l expenses is part of, rather than in addition to, the limits of 
+insurance on building and personal property, and it is not subject to the policy deductible.  
+Sandbagging Expenses 
+If the insured’s property is clearly threatened by floo d, the form provides up to $1,000 of coverage for 
+sandbags (including sand, plastic sh eeting, and lumber used in connec tion with them), fill for temporary 
+levees, pumps, and wood purchased by the insured to save the covered building from the imminent danger 
+of flooding. In order for coverage to apply, a legally authorized official must issue an evacuation order or 
+a similar type of civil order for the insured’s neighborhood, calling for measures to preserve life and 
+property. The value of the insured’s or a family me mber’s own labor at the federal minimum wage is 
+included. The $1,000 limit on sandbags, s upplies, and labor is part of, rath er than in addition to, the limits 
+of insurance on building and personal property. This coverage is not subject to the policy deductible. 
+Condominium Loss Assessments 
+If the policy covers a condominium unit, any condominium loss assessment s are insured, subject to the 
+limits that apply to the building. (A unit owner who purchases no coverage on building property would 
+not have any flood loss assessment coverage.) 
+This coverage applies to loss asses sments resulting from the direct physical loss by or from flood to the 
+building’s common elements occurring during the po licy term charged to the insured’s unit by the 
+condominium association, in accordance with the c ondominium association’s articles of association, 
+declarations, and the insured’s deed. This coverage  does not increase the dwelling limit. This additional 
+coverage does not apply to the RCBA P or general property forms.  
+Pollution Damage 
+The general property form also pays up to $10,000 fo r damage caused by pollutants to covered property if 
+the discharge or seepage of the pollutants is caused by or  is the result of flooding. This coverage does not 
+include the cost of testing for, or the monitoring of, pollutants unless required by law. This $10,000 limit 
+is part of, rather than in addition to, the limits of  insurance on the building and personal property. This 
+additional coverage does not appear in the RCBAP or dwelling forms.  
+  
+ 
+42 Increased Cost of Compliance (ICC) (Coverage D) 
+This coverage is roughly comparable to the ordina nce or law coverage in other types of property 
+insurance policies. The policy provides up to $30,000 of coverage for “increased cost of compliance.” 
+This coverage pays for increased costs resulting from the enforcement of floodplain management 
+ordinances or laws that require elevation, flood-proof ing, relocation, or demolition of a structure after 
+direct loss by flood. 
+Coverage applies only when either of  the following circumstances applies. 
+ The cost to repair a flood-damaged structure equa ls or exceeds 50 percent of its market value and 
+the state or community is enforcing a substantia l damage provision in its  floodplain management 
+law  
+ The structure qualifies as a repetitive loss structure  because it has suffered two flood losses 
+(including the current loss) paid by the NFIP pr ogram during a 10-year period, the cost of each 
+repair equaled or exceeded 25 percent of the mark et value of the structure, and the state or 
+community is enforcing a cumulative substantial damage provision or repetitive loss provision in 
+its floodplain management law. 
+No ICC coverage applies to garages or carports, pr operty located in communities participating in the 
+emergency program, structures insured under a group flood insurance policy, or condominium association 
+assessments. 
+The $30,000 limit cannot be increased. It applies in addition to the building limit shown on the 
+declarations page, unless the sum of the two limits  exceeds the maximum limit permitted under the Act 
+(the National Flood Insurance Act of 1968). This  coverage is not subject to a deductible. 
+No Time Element Coverage 
+One of the many controversial issues surrounding the NFIP  is its lack of coverage for additional living 
+expenses, loss of income, or other time element losses. Biggert-Waters19 requires the US Government 
+Accountability Office to conduct a study on the impact of expanding the flood program to include these 
+important coverages. Private flood insu rance policies often offer these options. 
+Disclosures 
+Biggert-Waters20 includes a requirement that every NFIP polic y “shall state all conditions, exclusions, and 
+other limitations pertaining to coverage … in plain E nglish, in boldface type, and in a font that is twice 
+the size of the text in the body of the policy.” Any person who fails to comply with this provision is 
+subject to a fine of up to $50,000.  
+This might have sounded good in theory. In practice,  however, a large portion of the policy’s provisions 
+qualify as conditions, exclusions, and limitations. The policy was reforma tted in October 2015 to comply 
+with this requirement, resulting in a policy that is  cluttered and difficult to read, with headings and 
+subheadings that are in a smaller font than much of the text.  
+43 Chapter 4 Review Questions 
+1. Kendrick's one-story house is insured under an  NFIP dwelling policy that provides building 
+coverage but not personal prope rty coverage. An enclosed br eezeway connects the house with 
+Kendrick's two-car garage. Because the garage is at a slightly lower elevation than the house, 
+flood waters damage the garage but do not r each the house. Kendrick's standard NFIP flood 
+insurance policy 
+A. covers Kendrick's garage under Coverage A (building property) because it is an attached 
+appurtenant structure. 
+B. covers Kendrick's garage under Cove rage B (appurtenant structures). 
+C. does not cover Kendrick's garage because he did not purchase personal property 
+coverage. 
+D. does not cover Kendrick's garage unless it is separately described in the policy. 
+2. Ann's personal property in her home is covered by an NFIP dwelling form. Of the following 
+property, which would not be subject to a maximum limit of $2,500 per occurrence? 
+A. Her expensive area carpets on the refinished hardwood floors 
+B. Her mink coat 
+C. Her diamond rings 
+D. Her original Picasso painting 
+3. The personal property in Beverly's seaside home is covered by an NFIP dwelling form. Beverly 
+moves her covered personal prope rty into her brother's hilltop home 100 miles away from the 
+shore before a hurricane hits her seaside home. Her NFIP dwelling form policy will 
+A. cover any expenses Beverly incurs in moving  her property but not cover the property 
+itself. 
+B. cover Beverly's property at her brother's home for up to $1,000. 
+C. exclude coverage on the removed property because it should be covered by her 
+homeowners policy. 
+D. provide full coverage for her covered personal property since she is storing it indoors and 
+outside an SFHA 
+4. In addition to covering the described building and personal property, a standard NFIP policy 
+dwelling form includes several additional coverag es. Which one of the following is not one of 
+these additional coverages? 
+A. Additional living expenses 
+B. Debris removal expenses 
+C. Expenses of moving property to safety 
+D. Sandbagging expenses 
+ 
+   
+ 
+44 5. The ICC coverage in an NFIP policy would apply to 
+A. a flood-damaged structure that can be repaired  but the cost of repairs equals or exceeds 
+50 percent of its market value. 
+B. garages or carports. 
+C. property located in communities particip ating in the emergency flood program. 
+D. structures insured under a group flood insurance policy.  
+45 Answers to Chapter 4 Review Questions 
+1. A. In an NFIP policy, Coverage A (building prope rty) includes additions attached to the dwelling 
+described in the declarations. 
+2. A. Artwork, furs, and jewelry are among the sev eral types of property to which a $2,500 per 
+occurrence limit applies. 
+3. D. Coverage on personal property applies for up to 45 days at a temporary location if the property 
+is moved to protect it from flooding; the removed property must be placed  above ground level or 
+outside an SFHA. 
+4. A. Coverage C includes coverage for sandbagging, debris removal, and the expenses of removing 
+property to safety. The NFIP provides no a dditional living expense, business income, extra 
+expense, or other time element coverage. 
+5. A. No ICC coverage applies to garages or carports, to property insured under the emergency 
+program, or to structures insured under a group flood insurance policy. 
+    
+ 
+46 Chapter 5 
+Covered Peril and Other Provisions 
+Overview 
+ 
+Chapter 5 continues the coverage analysis, but with  a different focus. An NFIP SFIP is essentially a 
+single-peril policy, covering losses proximately caused only by flood. This chap ter begins by reviewing 
+the definition of flood. It continues with an overvie w of key exclusions found in the policy and concludes 
+with a brief discussion of important conditions and provisions such as the valuation and coinsurance 
+provisions.  
+This chapter focuses on the dwelling form but menti ons some areas in which there is a significant 
+difference between the NFIP dwelli ng form and other NFIP forms. 
+Chapter Objectives 
+On completion of this chapter, you should be able to 
+ identify events that do or do not fall within an NFIP policy’s definition of “flood” and 
+ describe the exclusions found in a standard NFIP policy.  
+Definition of Flood 
+Coverage is provided only for “direct physical loss by or from flood,” as evidenced by physical changes 
+to the property. The definition of “flood” is shown in Exhibit 5.1. 
+ 
+47 Exhibit 5.1 
+NFIP Policy Definition of Flood 
+Flood,  as used in this flood insurance policy , means: 
+1. A general and temporary condition of partial or complete inundation of two or more acres of 
+normally dry land area or of two or more proper ties (one of which is your property) from:  
+a. Overflow of inland or tidal waters;  b. Unusual and rapid accumulation or runoff of surface waters from any source;  
+c. Mudflow.  
+2. Collapse or subsidence of land along the shore of a lake or similar body of water as a result 
+of erosion or undermining caused by waves or currents of water exceeding anticipated 
+cyclical levels that result in a flood  as defined in A.1.a.  above.  
+Source: NFIP Standard Flood Insurance Policy—Dwelling Form.  
+ 
+For coverage to apply, the flood must be a general condition that covers two or more acres of normally 
+dry land area or two or more properties, one of wh ich is the insured’s property. If floodwaters are 
+confined to the insured’s prope rty, there may be no coverage. 
+By exception to an exclusion, coverage also appli es to loss resulting from sewer  backup, sump discharges 
+or overflows, and seepage of water, if a flood in the area is the proximate cause.  
+Mudflow 
+The SFIP’s definition of “flood” explicitly encompasses a mudflow , which is defined as “a river of liquid 
+and flowing mud on the surfaces of normally dry land areas, as when earth is carried by a current of 
+water. Other earth movements, such as landslide, slope failure, or a saturated soil mass moving by 
+liquidity down a slope, are not mudflows.” 
+Mudflows can develop when water saturates the gr ound, such as from rapid snowmelt or heavy or long 
+periods of rainfall, causing a thick liquid downhill flow  of earth. Mudflows are different from other earth 
+movements, such as landslides, slope failures, and ev en moving saturated soil masses in which masses of 
+earth, rock, or debris move down a slope where there is not a flowing characteristic.  
+Exclusions 
+No coverage is provided for loss of use of, or access to , the covered property, lo ss of revenue or profits, 
+loss from interruption of business or production, or any other economic loss. Also not covered is any 
+increase in the cost of repair or rebuilding that is th e result of ordinances regulat ing construction or repair 
+of buildings, other than as provided in the $30,000 I CC coverage. Furthermore, no coverage is provided 
+for loss caused directly by earth movement (i.e ., earthquake, landslide, land subsidence, sinkholes, 
+destabilization of land that results from the accumula tion of water in subsurf ace land area, or gradual 
+erosion) even if the earth movement is caused by flood.  
+There is a distinction between mudflows  and mudslides . A flood policy may cover mudslide damage as 
+long as the mud is carried by a river or stream of wa ter. So, if a dam breaks and picks up a hillside and 
+carries it into the insured home, coverage might appl y. But a flood policy will not cover damage if a 
+hillside becomes saturated as a result of rainfall and slowly begins to move. That’s considered earth 
+movement. 
+ 
+  
+ 
+48 There are a few other noteworthy exclusions: 
+ Loss caused by the insured’s modification to the insured property that materially increases the 
+risk of flooding 
+ Loss from water, moisture, mildew, mold, or  mudslide resulting primarily from a condition 
+substantially confined to the dwelling or from a condition that is within the insured’s control  
+ Loss that is already in progress as of 12:01 a.m. of  the policy inception date, or, with respect to an 
+increase in limits, the date when the additional coverage becomes effective 
+Key Conditions and Provisions 
+Important conditions and provisions  include the reduction and reform ation of coverage provision, 
+concealment or fraud and policy voidance provision, c onditions suspending or restricting insurance, and 
+loss settlement valuation a nd coinsurance clauses.  
+Reduction and Reformation of Coverage 
+The “General Conditions” section of the polic y includes an important provision titled “ Reduction and 
+Reformation of Coverage .” This provision establishes conditio ns under which the policy will be 
+considered to provide lower limits of insurance than those shown in the declarations. When the amount of 
+premium the insurer receives is not enough to purch ase the limits requested, the policy will provide only 
+the limits that can be purchased with the amount of pr emium received. For example, if the insured applied 
+for $250,000 in property limits but the premium s ubmitted was only enough to pa y for $220,000 in annual 
+coverage, only $220,000 in lim its would be provided.  
+On discovering the insufficiency, the insurer must  advise the insured in writing of the amount of 
+additional premium due. If the insurer receives that am ount within 30 days of th e date of the insurer’s 
+written notice of the premium due, the policy will be re formed back to the incep tion date to provide the 
+originally requested limits—even if  the insufficient premium is only discovered at the time of loss. 
+Concealment or Fraud and Policy Voidance 
+Another important provision in the “General Cond itions” section of the policy, titled “Concealment or 
+Fraud and Policy Voidance,” establishes the conditions under which the policy will be considered void.  
+ If the property shown on the application is not e ligible for coverage, the policy is void from its 
+inception.  
+ If the community in which the property is locat ed was not participating in the NFIP on the 
+inception date and did not become a participati ng community during the policy term and prior to 
+any loss, the policy is also void from its inception.  
+ In the event any insured or its agent has inten tionally concealed or misrepresented any material 
+fact or circumstance, engaged in fraudulent conduct, or made fals e statements in connection with 
+the policy, the policy is void as of the date of the wrongful act. 
+Conditions Suspending or Restricting Insurance 
+This section of the policy also includes an “inc rease in hazard” type provision. The “Conditions 
+Suspending or Restricting Insurance” provision stipulat es that the insurer is not liable for loss occurring 
+while there is a hazard that is increased by any means that is within the insure d’s control or knowledge. 
+For example, if the insured altered the landscape and dr ainage configuration of his or her property in a 
+way that increased the chances of a flood loss, no fl ood coverage applies due to this provision.   
+49 Loss Settlement Valuation and Coinsurance for Dwelling Form and RCBAP Form 
+The dwelling form and the RCBAP offer the following three methods of settling losses, each of which is 
+used for a different type of property. 
+ Replacement cost 
+ Special loss settlement 
+ ACV 
+Replacement Cost 
+Under the dwelling form, replacement cost  valuation applies to a single-family dwelling if it is the 
+principal residence of the insured for at least 80 perc ent of the (a) 365 days immediately prior to the loss 
+or (b) the period of ownership, if this period is less than 365 days.  
+In addition, the limit of insurance applicable must  be 80 percent or more of the building’s full 
+replacement cost or the maximum limit allowabl e under the plan. The maximum amount of NFIP 
+coverage available is often much lower th an the building’s full replacement value. 
+When these conditions are met, the insurer agrees to pay or replace the damaged dwelling after applying 
+the deductible and without deduction for depr eciation but not to pay more than the least of the following 
+amounts. 
+ Building limit on the declarations page  
+ Cost of replacing the damaged part of the dwe lling, with materials of like kind and quality 
+ Necessary amount actually spent to repair or repl ace the damaged part of the dwelling for like use 
+Essentially the same provisions apply to any e ligible property insured under the RCBAP form.  
+For example, John Smith owns a single-family home w ith a replacement cost value of $500,000. John 
+purchases a standard NFIP dwelling policy with a lim it of $250,000. John’s home is badly damaged in a 
+flood, and John spends $100,000 to  repair the damage. John will recover $100,000. His home is not 
+insured to 80 percent of its replacement value,  but John carries the maximum amount of insurance 
+available under the NFIP. 
+Special Loss Settlement 
+In the dwelling form, the special loss settlement provi sion applies to a single-family dwelling that is a 
+manufactured or mobile home or is a travel trailer.  The home must be at least 16 feet wide when fully 
+assembled and contain at least 600 square feet. It s hould also be the insured’s principal residence. 
+For a total loss, the insurer pays the least of the following amounts. 
+ Replacement cost of the dwelling  
+ 1.5 times the ACV of the dwelling  
+ Building limit shown on the declarations page  
+For a partial loss, if the insurer determines that it is economically feasible to repair the dwelling to its pre-
+damage condition, the loss will be settled by applyi ng the replacement cost provisions mentioned above. 
+Under the RCBAP, a comparable loss provision applies to a residential condominium building that is (1) 
+a manufactured home or travel trailer or (2) at least 16 feet wide when fully assembled and contains at least 600 square feet.   
+ 
+50 Actual Cash Value (ACV)  
+ACV is the cost to replace the covered property at the time of the loss, less any applicable physical 
+depreciation.  
+This loss settlement applies to a si ngle-family dwelling not subject to replacement cost or the special loss 
+settlement valuations as well as th e following types of property. 
+ Personal property  
+ Appliances and carpets  
+ Outdoor equipment, such as awnings and aerials of any type  
+ Detached garages  
+ Two-, three-, or four-family dwellings  
+ Units that are not used exclusivel y for single-family dwelling purposes  
+ Abandoned property on the described location 
+ Dwellings that are not the insured’s principal residence  
+When the limit of insurance on the dwelling is both less than 80 percent of its full replacement cost prior 
+to the loss and less than the maximum limit ava ilable under the plan, the insurer will pay the greater  of 
+the following amounts, but no more than the limit on the dwelling. 
+ ACV of the damaged part of dwelling 
+ A proportion of the cost to repair or repl ace the damaged portion, without deduction for 
+depreciation and after applying the deductible 
+Example 
+For example, Bill Jones owns an ol der single-family home with a repl acement cost value of $500,000 and 
+purchases a standard NFIP dwelling policy with a lim it of $200,000. Bill’s home is badly damaged in a 
+flood, and he spends $100,000 to repair the damage . The ACV of the damaged portion of the structure 
+was $70,000 at the time of the loss. John will recove r $80,000. His home was not insured to at least 80 
+percent of its $500,000 replacement value, a nd Bill did not carry the $250,000 maximum amount of 
+insurance available on a dwelling building under th e NFIP. The $200,000 limit on his insurance policy 
+was 80 percent of the amount he sh ould have carried, and he will r eceive 80 percent of the amount he 
+spent on repairs—in this case, $80,000. 
+Under the RCBAP, the ACV provision applies to comp arable property such as personal property, but it 
+also pertains to a manufactured home or a travel tra iler (eligible under the RCBAP ) that does not meet the 
+conditions for the special loss settlement.  
+The RCBAP ACV provision pays the le ast of the following amounts. 
+ Applicable limits of insurance under the flood insurance policy 
+ ACV of loss 
+ Amount required to repair or replace the property wi th material of like kind and quality within a 
+reasonable period of time after the loss occurs  
+  
+51 Loss Settlement Valuation for the General Property Form 
+This form has a single loss settlement provision. The policy will pay the least  of the following amounts 
+after applying the deductible. 
+ Applicable limit of insurance under the flood insurance policy 
+ ACV 
+ Amount it would cost to repair or replace the pr operty with material of like kind and quality 
+within a reasonable period of time after the loss occurs 
+Coinsurance Penalty in the RCBAP 
+The RCBAP includes a coinsurance pena lty that applies only to the bu ilding coverage. The coinsurance 
+penalty applies at the time of a loss if the insured has not purchased insurance with a limit at least equal to 
+the amount required by one of the following criteria: 
+ 80 percent or more of the full replacement cost  of the building at the time of loss or  
+ the maximum amount of insurance under the NFIP. 
+The amount of insurance “required” in the RCBAP is similar to the coinsurance “requirement” in other 
+types of property policies with one important exception:  No coinsurance penalty is imposed if the insured 
+has purchased the maximum amount of coverage available under the NFIP. 
+When a coinsurance penalty appli es, the insured’s recovery will be  determined by using the following 
+formula.  
+Insurance Carried 
+× Amount of Loss = Limit of Recovery 
+Insurance Required 
+ 
+Where the penalty applies, building loss under the RCBA P will be adjusted based on the replacement cost 
+coverage with a coinsurance penalty. The cost of br inging the building into compliance with local codes 
+(law and ordinance) is not included in the calculation of replacement cost.  
+ 
+52 Chapter 5 Review Questions 
+1. Some insurance policies cover loss to covered pr operty from virtually any cause while others are 
+more limited in scope. A standard NFIP flood insurance policy is 
+A. A multi-peril policy that covers fl oods, mudflow, and earth movement 
+B. A single-peril policy that covers only the flood peril 
+C. An all risks policy that includes flood and other perils 
+D. An endorsement that converts a standard  homeowners policy to a multi-peril policy 
+2. A small area in Watershed, USA, has flooded due to heavy rains. Watershed is a participant in the 
+regular program with the NFIP. A resident wants to know if he is going to have coverage under 
+his flood policy for the water damage to his home and contents. He will, so long as one of two 
+criteria is met. They are: 
+A. A legally authorized FEMA official issu es an evacuation order, or the flood causes 
+damage to the insured's home. 
+B. A legally authorized FEMA official issues an evacuation order, or the flood covers two or 
+more acres of normally dry land area. 
+C. The flood covers three or more acres of norma lly dry land area, or a legally authorized 
+FEMA official issues an evacuation order. 
+D. The flood covers two or more acres of normally  dry land area or two or more properties, 
+one of which must be the insured's property 
+3. Which one of the following does an NFIP flood insurance policy cover? 
+A. Loss that is already in progress as of 12:01 a.m. of the policy inception date 
+B. Loss caused by the insured's modification to  the insured property that materially 
+increases the risk of flooding 
+C. Loss from water, moisture, mildew, mold , or mudslide resulting primarily from a 
+condition substantially confined to the dwe lling or from a condition that is within the 
+insured's control 
+D. Loss caused by an inland body of water that  exceeds its banks due to heavy snowmelt 
+4. NFIP representative Bob tells client Richard, who has applied for a flood policy, that he is 
+eligible because his community is a participant in the regular flood program. Richard has given 
+Bob all the required information, including the fl ood hazard zone where his property is located. 
+Bob tells Richard that on the first page of the fo rm is a statement specifying that the insurance is 
+based on the insurer's reliance on the accuracy of  the information that Richard has provided. 
+What will happen if it is later determined th at Richard knowingly gave Bob the wrong flood 
+hazard zone? 
+A. Nothing; the policy is still in effect. 
+B. Richard will be given a refund on the difference in premium based on the different flood 
+hazard zone. 
+C. The policy will automatically be ame nded with the correct information. 
+D. The policy will be void  
+53 5. The Indiana Condominium Association could purch ase up to $500,000 in flood insurance from 
+the NFIP. However, the association believes its building, which has an insurable value of $1 
+million, is not likely to sustain major damage if a flood occurs, so the association purchases an 
+RCBAP with a $300,000 limit. If pa rtial damage to the association building should occur, 
+A. it will be paid in full up to $400,000. 
+B. the insurer will pay 60 percent of the loss 
+C. the insurer will pay 75 percent of the loss. 
+D. the insurer will pay 80 percent of the loss.  
+ 
+54 Answers to Chapter 5 Review Questions 
+1. B. An NFIP policy is a single-peril policy th at covers losses proximately caused by only one 
+peril: flood. 
+2. D. For coverage to apply, the flood must be a ge neral condition that covers two or more acres of 
+normally dry land area or two or more properti es (one of which is the insured’s property). 
+3. D. Overflow of an inland water body qualifies as a flood that would, in most cases, be covered. 
+However, some flood losses are excluded because of their timing or lack of fortuity. 
+4. D. The policy is void as of the date of the wrongful  act in the event any insured or its agent has 
+intentionally concealed or misrepresented any ma terial fact or circumstance. Since the flood 
+hazard zone classification affects policy rating— and Bob apparently hope d his lie would reduce 
+his premium—the information would probably be considered material. 
+5. B. The amount of insurance “required” to avoid a coinsurance penalty in this case is the smaller 
+of either (a) 80 percent of its $1 million insura ble value (which is $800,000) or (b) the maximum 
+amount of insurance available, which is $500,0 00. The association carried $300,000 in coverage 
+and should have carried $500,000, so a coinsuran ce penalty applies and it will recover 3/5 or 60 
+percent of any covered loss. 
+      
+55 Chapter 6 
+Flood Insurance Legislation 
+Overview 
+ 
+Chapter 6 examines the factors that  led to the introduction of the NFIP and describes the most recent 
+developments, Biggert-Waters and the Homeowner Flood Insurance Affordability Act of 2014, which 
+rescinded some provisions of Biggert-Waters. The ch apter also examines some of the more significant 
+milestones along the way, notably the Coastal Barrier Resources Act (1982) and the National Flood 
+Insurance Reform Act (NFIRA) of 1994. 
+Chapter Objectives 
+On completion of this chapter, you should be able to 
+ summarize the purpose and effect of key legislativ e developments in the evolution of the NFIP. 
+NFIP Background 
+The traditional view is that flooding fails to qualify as  a commercially insurable risk for at least three 
+reasons: 
+ Adverse selection : Only individuals who ow n property in flood-prone areas are likely to purchase 
+flood coverage. 
+ Unaffordable premiums for insurance buyers : Premiums based on the actual level of risk would 
+be too costly for the typical household. 
+ Inadequate premiums for insurers : Private insurers probably coul d not generate premiums high 
+enough to insure against a catastrophic flood that  would simultaneously affect many insureds. 
+In the absence of private flood insurance, the fede ral government responded by instituting loss control 
+measures. Dams, levees, and other structures desi gned to restrain flood waters may actually have 
+encouraged people to build in flood zones.  
+Faced with increasing amounts of flood damage and th e high costs of disaster relief, Congress passed the 
+National Flood Insurance Act of 1968, which created the NFIP. 
+ 
+ 
+56 The NFIP had three components: 
+ Floodplain management 
+ Flood hazard mapping 
+ Flood insurance 
+The NFIP made federal flood insurance available in communities that adopt floodplain management 
+regulations that meet NFIP standards. The creation of  maps to identify flood-prone areas is an important 
+part of this program. 
+The NFIP was revised in 1969 to provide coverage for mudslides.21 
+The Flood Disaster Protection Act of 1973  restricted the use of federal funds in high-risk floodplains and 
+prohibited federally regulated, supervised, or in sured lenders from lending money on property in a 
+floodplain in a participating community that did not have flood insurance. These measures were expected 
+to ensure that most properties in these zones ha d flood insurance, but the law making insurance 
+mandatory was poorly enforced. Legislation enacted  in 1994 tightened the enforcement of these flood 
+insurance requirements and denied federal disaster aid to people who had been flooded twice and failed to 
+purchase insurance after their first flood. 
+Coastal Barrier Resources Act 
+The US Congress passed the Coastal Barrier Resources Act in 1982  to address concerns caused by 
+coastal barrier development. Coastal barriers  shield the mainland from the full force of wind, wave, and 
+tidal energies. 
+This law restricts federal expenditures and financial assistance, including flood in surance, in the Coastal 
+Barrier Resource System, a defined list of undevel oped coastal barriers mapped along the Atlantic and 
+Gulf of Mexico coasts.  
+Three important goals of this Act are to 
+ reduce the loss of human life by discourag ing development in high-risk areas;  
+ decrease wasteful spending of federal resources; and 
+ conserve natural resources associated with coastal barriers.  
+Flood insurance may not be available for property located  in coastal barriers or otherwise protected areas. 
+Property owners are generally made aware of the Coastal Barrier Resources System (CBRS) designation 
+affecting their property when they obtain a mortgage that requires flood insurance. However, there is no 
+federal mandate for the disclosure of a CBRS designation by  state and/or local officials or realtors at the 
+time of purchase or construction.  
+National Flood Insurance R eform Act (NFIRA) of 1994 
+The NFIRA established the community rating system (CRS) explained in Chapter 1, which encourages 
+communities to surpass the minimum requirement s for development within flood plains.  
+Flood Insurance Reform Act of 2004 
+Repetitive flooding of flood-prone properties, which c ontinued to have an adverse impact on the NFIP, 
+led to the June, 2004 passage of the Bunning-Bereut er-Blumenauer Flood Insura nce Reform Act of 2004. 
+This Act was designed to create a 5-year pilot progr am to “reduce losses to properties for which repetitive 
+flood insurance claim payments have been made.”   
+57 Purposes of the Act 
+The overall purposes of this Act included the following. 
+ To assist people experiencing serious and repetitiv e flood damage to solve their problems with 
+financial assistance from NFIP in part nership with communities and states 
+ To stop or mitigate the abuse of the program causing all policyholders  to pay higher flood 
+insurance premiums 
+ To advance consumer understanding and th e rights of flood insurance policyholders 
+ To establish minimum flood insurance training and education requirements for insurance agents 
+and brokers 
+In particular, the act authorized FEMA to provide financial assistance to participating communities and 
+states to carry out mitigation activities or to purchase “ severe repetitive loss properties .” Policyholders 
+who refuse a mitigation or purchase offer that meet s program requirements will be required to pay 
+increased premium rates of 150 percent following their refusal and another 150 percent following future 
+claims of more than $1,500. These rates, however, ca nnot exceed the applicable actuarially determined 
+rate.  
+Flood Insurance Claims Handbook 
+The Act directed FEMA to develop the Flood Insurance Claims Handbook22 that provides policyholders 
+with information on pursuing a claim. The handbook, di scussed further in Chapter 7, explains what to do 
+before a flood and what to do after a flood. 
+Acknowledgement Form 
+The Act also directed the FEMA director to develo p an acknowledgement form. By signing, dating, and 
+returning this document to the insu rer, the policyholder acknowledges that 
+ he or she has received a declarations page a nd a summary of coverage from the insurer,  
+ the insurer has provided information on the property’s loss history and a copy of the NFIP Flood 
+Insurance Claims Handbook , and 
+ the insured understands that he or she has an  option to purchase both building and contents 
+coverage as part of his or her policy or to purch ase building and/or contents coverage separately. 
+Supplemental Form  
+The Act also required the director to develop and prov ide insurers and agents with supplemental forms to 
+be given to all new and renewal policyholders. These fo rms included the following. 
+ The exact coverages a policyholder is purchasing 
+ Any exclusions that apply to  the coverages being purchased 
+ An explanation, accompanied by illustrations, of how lost and damaged items will be valued 
+(e.g., ACV or replacement cost) 
+ The number and dollar value of flood claims filed dur ing the life of the property and the effect of 
+filing any further claims. 
+FEMA currently provides a number of different info rmative consumer-oriented brochures that can be 
+ordered or downloaded from its website at www.fema.gov  or viewed online at www.floodsmart.gov .   
+ 
+58 Biggert-Waters Flood Insurance Reform and Modernization Act of 
+2012 
+The NFIP was intended to be a self-sustaining progr am that borrowed from the US Treasury during times 
+of above-average claims and subse quently repaid the borrowed money, with interest. However, the NFIP 
+is deeply in debt and currently ow es the US Treasury billions of dollars  that have been borrowed to pay 
+for past losses. Over a recent 4-year period, the NF IP was extended 17 times and even expired four times. 
+After each expiration, it has been retroactively rein stated. These successive interruptions, combined with 
+a variety of proposed reforms, led to the passage of the Biggert-Waters Flood Insurance Reform and 
+Modernization Act of 2012. 
+Biggert-Waters directed FEMA to submit a plan to re pay its debt within 10 years and submit periodic 
+reports on its progress, and it required FEMA to build up a reserve fund in a separate account that would 
+enable the NFIP to meet its future obligations. The reserve fund was to cover at least 1 percent of the 
+NFIP’s total claim exposure. 
+The Act was also designed to implement actuarially based flood insurance rates for at-risk structures. 
+Until now, pre-FIRM structures were entitled to subsid ized premiums, and affect ed policyholders paid 
+substantially less for their flood insurance. A significa nt portion of NFIP claims have been paid under 
+these subsidized policies. Biggert-Waters phased in prem ium increases that move from subsidized rates to 
+actuarially sound rates. This was to be done in several ways: 
+ Premiums on new policies on properties not cu rrently covered by flood insurance would be 
+charged full actuarial rates. 
+ Owners of second homes, business properties, sever e repetitive loss properties, or substantially 
+improved/damaged properties that currently be nefitted from subsidies would see their rates 
+increase by 25 percent per year until premiums met the full actuarial cost. 
+ When an area not previously designated as an SFHA was reclassified as an SFHA, due to a flood 
+map upgrade, the increased premium that resulted wa s to be phased in over a 5-year period at a 
+rate of 20 percent per year. 
+This meant that most pre-FIRM subsidized rates and grandfathered rates would be phased out over the 
+course of the next 5 years. However, the owners of primary  residences located in SFHAs would retain 
+their subsidized rates unless or until one  of the following conditions occurred. 
+ The property was sold. 
+ The policy lapsed. 
+ The property suffered severe repeated flood losses. 
+ A new policy was purchased. 
+These changes substantially increased the cost of flood insurance for many policyholders, leading to a 
+chorus of policyholder complaints.  
+Biggert-Waters also introduced many other wide-ra nging changes. These included making higher limits 
+of flood insurance available on multi-family propert ies, introducing minimum deductibles, increasing the 
+penalties for lenders that failed to  require flood coverage where required, and establishing a Technical 
+Mapping Advisory Council to ensure that FEMA adopted meaningful standards for updating and 
+maintaining flood maps. 
+ 
+ 
+  
+59 Biggert-Waters also required a number of studies dealing with a wide-ranging variety of topics such as: 
+ The possibility of including business interrupti on and/or additional living expenses coverage 
+ The private reinsurance market’s capacity to assume a portion of the NFIP’s risks 
+ Methods of increasing both par ticipation and affordability 
+Homeowner Flood Insurance Affo rdability Act of 2014 (HFIAA) 
+Biggert-Waters attempted to make the NFIP actuarially  sound by charging rates that accurately reflected 
+each insured property’s true flood risk. This meant, of course, that many polic yholders would be paying 
+more for their flood insurance. The most controvers ial changes dramatically reduced the discount, or 
+subsidy, that benefited older properties in high-risk  areas. Rates for businesses, secondary residences such 
+as vacation homes, and structures with severe repeated losses were to receive rate increases of 25 percent 
+per year until their rates reached an actuarially sound level. Other subsidized policyholders could retain 
+their subsidies until the policy lapsed or the pr operty was sold, but anybody purchasing a previously 
+subsidized home would have to pay nonsubsidized rates, which were ge nerally much higher. This made it 
+nearly impossible for many people to sell their homes.  
+HFIAA provided refunds to some policyholders, lowered the recent rate increases affecting some policies, 
+prevented some future rate increases, and introduced a surcharge on all policyholders. However, it did not 
+change all of Biggert-Waters. 
+Refunds were made to policyholders in high-risk ar eas who had been required to pay the full-risk rate 
+after purchasing a new flood policy on or after July  6, 2012. Some policyholders who renewed their 
+policies after HFIAA was enacted and whose premium increased by more than 18 percent were also 
+entitled to a refund. However, no refunds were ma de to owners of second homes, business properties, 
+severe repetitive loss properties, or substantially im proved/damaged properties th at previously benefited 
+from subsidies and saw their rates increase by 25 percent per year. 
+HFIAA provided that subsidized policies will now receive gradual rate increases rather than the 
+immediate rate increases called for in some cases by Biggert-Waters. Premiums for most subsidized 
+properties are to increase by at least 5 percent each ye ar until the premium for th e class reaches its full-
+risk rate.  
+With limited exceptions, flood insurance premiums cannot increase by more than 18 percent per year. 
+However, new policies for the following properties will continue to see 25 percent annual increase until 
+they reach their full-risk rate: 
+ Older business properties insured with subsidized rates 
+ Older secondary residences insu red with subsidized rates 
+ Severe repetitive loss properties insured with subsidized rates 
+ Buildings that have been subs tantially damaged or improved  
+Until FEMA develops further guidelines, purchasers of  Pre-FIRM property are permitted to assume the 
+previous owner’s flood insurance policy and pay the same rates.  
+HFIAA also introduced surcharges intended to offset the continuing subsidies and make the flood 
+program more financially sound. Policies on primary residences will include a $25 surcharge, and all 
+other policies will include a $250 surcharge. 
+When flood maps are updated, property owners sometim es find that their property is now in a higher risk 
+flood zone. Previously, these properties continued to  pay lower rates, but Biggert-Waters required 20 
+percent annual rate increases until the property reach ed full-risk rates. HFIAA provides that homes and 
+businesses that are remapped into a higher risk area do not receive an immediate rate increase. However, 60 rate increases will in crease between 5 and 15 percent a nnually, and no property is to receive more than an 
+18 percent increase. 
+To further improve afford ability, the new law also rai ses maximum residential dedu ctible limits from 
+$5,000 to $1 0,000. 
+HFIAA also requires FEMA to conduct an affordability study. Wit h an ey e toward  affordability, the Act 
+also encourag es FEMA to minimize the number of polici es in which flood premiums exceed 1 percent of 
+the coverage amount. This wo uld be the case, for ex ample, if a home owner would be charged more than 
+$2000 per year for $200,000 o f flood in surance coverage. 
+More Recent Developments 
+To date, federal proposals to use more actuarially s ound rates for the NFIP h ave had on ly limited success. 
+Howev er, in March 2019 the Trump administration announ ced plans to reform the NFIP with a shift to 
+fully risk-based pricing  of flood insu rance. FEMA’s current system calculates rates based on whether a 
+home falls in a desig nated flood zo ne. According  to FEMA, the reformed pro gram would begi n to assess 
+properties in dividually, using sev eral v ariables such  as hurricane rainfall, coastal surges, and proximity  to 
+bodies of water,  rather than applying a single formula fo r an entire floo d zone. FEMA plans to  implement 
+the new system on October 1, 2021.  
+61 Chapter 6 Review Questions 
+1. The Coastal Barrier Resources Act was passed in 1982. This act was not designed to 
+A. conserve natural resources associated with coastal barriers. 
+B. discourage development in high-risk ar eas, thereby furthering economic growth. 
+C. increase the availability of flood insurance fo r property in the Coastal Barrier Resource 
+System 
+D. restrict federal financial assistance for areas subject to the Act. 
+2. Spencer just received his NFIP dwelling form flood insurance policy on the home he occupies. 
+The policy's declarations page describes his house and lists the amount of building coverage that 
+applies. Spencer's policy is accompanied by an acknowledgement form. By  signing and returning 
+this form, Spencer will acknowledge all of  the following to be true EXCEPT: 
+A. Spencer has received a declarations page a nd a summary of his flood policy's coverage. 
+B. Spencer has received a Flood Insurance Claims Handbook. 
+C. Spencer realizes his policy does not cover personal property but that he can, if he wants 
+to, purchase that coverage separately. 
+D. Spencer's home does not qualify as severe repetitive loss property 
+3. The Flood Insurance Reform Act of 2004 requi red insurers to provide flood insurance 
+policyholders with information concerning 
+A. FEMA's power of imminent domain. 
+B. the distinction between mudflows and mudslides. 
+C. the distinction between the emergenc y program and the regular program. 
+D. the number and amount of previous claims on th e property and the effect of filing further 
+claims 
+4. FEMA created the Flood Insurance Claims Handbook to 
+A. provide claims adjusters with information on handling flood claims. 
+B. provide Congress with information concerning the status of claims closed and pending 
+under the NFIP. 
+C. provide policyholders with info rmation on pursuing a flood claim 
+D. satisfy the requirements of the Bigge rt-Waters Flood Insurance Reform and 
+Modernization Act of 2012. 
+     
+  
+ 
+62 5. The Homeowner Flood Insurance Affordability Act of 2014 (HFIAA) provided that a home 
+owner currently receiving a flood insuran ce subsidy who sells his or her home 
+A. could no longer transfer the current flood insurance policy to the home buyer, but the 
+buyer would continue to pay a subsidized premium. 
+B. could transfer the current flood insurance policy to the home buyer who must then pay 
+the full actuarial premium. 
+C. could transfer the current flood insurance policy to the home buyer who would continue 
+to pay the same subsidized premium 
+D. must inform the buyer of its flood zone.  
+63 Answers to Chapter 6 Review Questions 
+1. C. As a result of the Act, flood insurance may not be available for property located in coastal barriers or 
+otherwise protected areas. 
+2. D. The Act defines severe repetitive loss property, but th at issue is not part of the acknowledgement form. 
+3. D. Policyholders are to be given a form including in formation on the number and dollar value of claims 
+filed during the life of the property and the effect of filing any further claims. 
+4. C. The Flood Insurance Reform Act of 2004 directed FEMA to develop a flood insurance claims handbook 
+that provides policyholders with information on pursuing a claim. 
+5. C. Until FEMA developed further guidelines, purchasers  of Pre-FIRM property were permitted to assume 
+the previous owner’s flood insurance policy and pay the same rates. 
+ 
+    
+ 
+64 Chapter 7 
+Responsibilities 
+Overview 
+ 
+Flood insurance policyholders and the agents who sell the insurance all have certain responsibilities. 
+Chapter 7 outlines these responsibilities, with empha sis on the processes involved in handling flood 
+claims. The chapter also identifies various resources th at an agent will find helpful in obtaining further 
+information. 
+Chapter Objectives 
+On completion of this chapter, you should be able to 
+ describe the respective responsibiliti es of NFIP policyholders and agents in handling flood claims 
+and 
+ recognize important resources that assist an agen t in understanding and ha ndling flood insurance. 
+Insured’s Responsibilities 
+FEMA’s Flood Insurance Claims Handbook23 is designed to help insureds with the claims process. It 
+includes three key sections: 
+ What to do before a flood 
+ What to do after a flood 
+ Appealing the claim 
+What To Do before a Flood 
+Any flood insurance policyholder should do four thin gs long before he or she faces a flood claim: 
+ Check the declarations page of his or her policy for accuracy.  
+ Prepare and maintain a current detailed invent ory of personal property within the home or 
+business, documented by photos or videos. 
+ 
+65  Keep originals of important papers—including in surance policies—in a safe, waterproof place.  
+ Contact his or her insurance agent or insure r representative and discuss the requirements for 
+reporting a flood claim. Remember, it might be difficult to contact these people after a flood. 
+ Share an emergency contact name  and phone number with his or he r insurance agent and family. 
+It might be difficult for them to contact the insured after a flood. 
+What To Do after a Flood 
+Steps to take after a flood loss occurs include the following. 
+ Contact the insurance agent or insurer re presentative promptly to report the claim. 
+ File a notice of loss with the insurer. 
+ Separate the damaged fro m the undamaged property. 
+ Make a detailed list of damaged personal property. 
+ List areas of structural damage for the adjuster. 
+Handling the Claim  
+If the insured makes a claim, he or she must work with the insurance ad juster before, during, and after the 
+adjuster assesses the loss. Th e adjuster will use his or her understandi ng of the damage, together with any 
+documentation provided by the insured, to complete  a detailed estimate that serves as a guide when 
+obtaining bids from contractors. 
+The insured must support the claim with a proof of loss, together with supporting documentation, 
+completed and signed within 60 days of the loss. The adjuster usually provides a suggested proof of loss, 
+but it is the insured’s responsibility to make sure it is complete, accurate, a nd timely. If the flood is 
+severe, FEMA might authorize proof of loss extensi ons beyond 60 days, but it  is still the insured’s 
+responsibility to meet the 60-day or extended deadline. 
+A claim is payable after the insured and the insure r agree on the damage amount payment and the insurer 
+receives a complete, accurate, signed proof of loss.  The claim payment includes the names of anyone, 
+such as a mortgagee or lienholder, who h as a legal interest in the property. 
+An insured who later notices additional damage to covered property may file a request for additional 
+flood payment, following FEMA procedures. 
+If the insured home or business sustains damage that  the local community determines is equal to or 
+greater than 50 percent of the property’s value, th e insured may file an increased cost of compliance 
+(ICC) claim. A standard flood policy includes ICC coverage for up to $30,000. 
+Appeals Process 
+The NFIP Flood Insurance Claims Handbook  outlines the process to be followed by any insured who is 
+dissatisfied with a flood claim settlement. Before  pursuing the appeals process, FEMA encourages 
+policyholders to talk with the adjuster to determine whether relevant information has been overlooked or 
+any mistakes were made. A policyholder who is still not satisfied has three options: 
+ File an appeal within 60 days of the denial. 
+ Utilize the policy’s appraisal provision if there is disagreement concerning the amount of the 
+covered loss.  
+ 
+66  As a last resort, a claimant may sue the insure r. The policy includes a “suit against us” provision, 
+which specifies that the claimant must first have  complied with all the policy’s requirements, and 
+the suit must be started within 1 year of the insurer’s written claims denial. 
+Agency Responsibility 
+When writing flood insurance, an insuran ce agent or producer has three options: 
+ place all business with one or more WYO companies; 
+ place all flood insurance directly with the NFIP ( NFIP Direct business); or 
+ place business both with the NFIP directly and with one or more WYO companies. 
+The agent’s claims handling responsibilities vary de pending on the channel through which a policy was 
+written. In handling a WYO claim, the agent or producer should follow the WYO company’s established 
+procedures. WYO insurers that insure both th e flood and the wind loss will assign their own single 
+adjuster to a wind-and-flood claim. 
+NFIP Direct claims are normally assigned to  an NFIP-approved independent adjuster.  
+Helpful FEMA Websites 
+The FEMA websites, listed in Exhibit 7.1, contain a v ast amount of technical and practical information. 
+Exhibit 7.1 
+Key NFIP Websites 
+Website   Description   
+www.fema.gov/nfip  Provides technical information and forms for a wide audience, 
+including flood insurance adjusters, insurance professionals, lenders, state and local officials, and surveyors  
+www.floodsmart.gov  Provides information directed to consumers and businesses 
+that can benefit from flood insurance. Main sections of the 
+website include: 
+1. Flooding and Flood Risks 
+2. About the National Flood Insurance Program 
+3. Residential Coverage 
+4. Commercial Coverage 5. Preparation and Recovery 
+6. Resources 
+Flood Insurance Manual 
+One of the most important resources for insurers  and agents writing flood insurance is the NFIP Flood 
+Insurance Manual . This manual provides comprehensive info rmation on rules and regulations of the 
+program, including samples of all three flood insuran ce forms, along with relevant bulletins. It can be 
+ordered or downloaded from the FEMA website.24  
+67 Chapter 7 Review Questions 
+1. Mary purchased a flood insurance policy many years ago and recently suffered a flood loss. 
+Which of the following is not a duty she has to perform in conjunction with this claim? 
+A. Exhibit all the remains from her damaged property 
+B. Show the policy provision granting coverage to the claims adjuster 
+C. Submit to an examination under oath if the adjuster requires this 
+D. File a proof of loss within 60 days of the loss, unless FEMA waives this stipulation 
+2. Marigold disagrees with how Arthur Adjuster has determined the amount of her flood loss. He 
+advises her that she can follow the appeals pro cess to dispute his determination. The appeals 
+process may include any of the following EXCEPT: 
+A. Contacting the claims adjuster 
+B. Using the policy's appraisal provision 
+C. Contacting the state insurance department 
+D. Filing an appeal within 60 days of the denial 
+3. Technical information, forms, and other inform ation about the NFIP for a broad audience that 
+includes agents, claims representatives, lenders, st ate and local officials, and surveyors can be 
+found at 
+A. www.fdic.gov/nfip. 
+B. www.fema.gov/nfip 
+C. www.fma.com/nfip. 
+D. www.giggle.com. 
+4. Which one of the following websites is a FEMA- sponsored source of information specifically 
+directed at consumers and businesses that can benefit from flood insurance? 
+A. www.smartflood.com 
+B. www.floodsmart.gov 
+C. www.floodmanual.com 
+D. www.NIFP.gov 
+5. The NFIP Flood Insurance Manual is all of the following EXCEPT 
+A. a useful resource for insurance agents writing flood insurance. 
+B. available online. 
+C. kept up to date. 
+D. less than 20 pages long  
+ 
+68 Answers to Chapter 7 Review Questions 
+1. B. Mary has several explicit post-loss duties, but educating the adjuster is not one of them. 
+2. C. Contacting the state insurance department is not one of the recommended steps in disputing a claim 
+against the NFIP, which is a federal program. 
+3. B. FEMA provides a vast array of technical emergency management information at its website 
+www.fema.gov. Information specifically related to  the NFIP is available at www.fema.gov/nfip. 
+4. B. FEMA designed www.floodsmart.gov to provide information directed at consumers and businesses. 
+5. D. The lengthy Flood Insurance Manual, which is frequently updated, provides comprehensive information 
+on NFIP rules and regulations, as well as sample fo rms. It can be downloaded  from the FEMA website. 
+ 
+   69 Glossary 
+Most of the definitions in this glossary are taken o r adapted from FEMA’s Floo d Insurance Glossary or 
+the glossary in the NFIP Flood Insurance Manual. 
+ACO: See adjuster contro l office. 
+actual cash value (ACV): The co st to replace an insured item of property at the time of loss, less the 
+value of physical depreciatio n.  
+Adjuster Control Office ( ACO): A National Flood Insurance Program (NFIP) claims office similar to a 
+Flood Insurance Claims Office (FICO) with the exception that th e ACO does not house insured files, 
+maintain a claims examiner staff at the site, or issue claim payments. 
+alternative rates: Rates used  when a building is pre–flood insu rance rate map (FIRM),  the FIRM zone is 
+unknown, and the community wh ere the building is locat ed has no V zones.  Alternative rates may also b e 
+used for renewal of policies in communities that have converted from the emergen cy program to  the 
+regular program during a policy’s term. 
+base flo od: T he flo od having a 1 percent chance of b eing equaled or exceeded in any given year.  
+base flood elevation (BFE): The elevation shown on th e flood insuran ce rate map (FIRM) for Zones AE, 
+AH, A1–A30, AR, AR/A, AR/AE, AR/A1–A30, AR/AH, AR/AO, V1–V30, and VE that in dicates the 
+water surface elevation resulting from a flo od that h as a 1 p ercent ch ance of equaling or exceeding that 
+level in any given  year.  
+basement: Any  area of the buildin g, including any su nken room o r sunken portio n of a room, having its 
+floor below gr ound level (subgrade) on all sides.  
+BFE: See base flood elevation. 
+Biggert-Waters Flood Insurance Reform Act of 2012  (Biggert-Waters): Signed into law on July  6, 
+2012, this act reauthorizes the Natio nal Flood  Insuran ce Prog ram (NFIP) for 5 years through September 
+30, 2017, and reforms the NFIP b y making a variety of changes, many of which are designed to ensure 
+that floo d insurance rates for most prope rties more accurately reflect floo d insurance risks. 
+CCO: See Claims Coordinating Office. 
+Claims Coordina ting Office (CCO): A clearinghouse for the various insurers that are respond ing to a 
+multiperil catastrophe. Through  voluntary participatio n, all losses are reported to the CCO and are 
+processed to locate address matches among the reported cl aims. The in terest of each insurer is protected 
+as the claims coordinator maintains sole control over the policy and lo ss information. If a match is found, 
+special care is taken to  direct the assig ned adjuster(s) to a mutu ally agreeable adjustment or to have one 
+adjuster surrender his/her lo ss with the assurance that every effort will be made to replace it. 
+coastal barrier: A naturally  occurring island, san dbar, or othe r strip of land,  including coastal mainland  
+that protects the coast from sev ere wave wash.  
+Coastal Barrier Resources Act (CBRA ): Designated  certain  portions of the Gulf Coast and the East 
+Coast as undeveloped coastal barriers. These areas ar e shown  on appropriate flood insurance map panels 
+and have certain coverage restrictions.  
+ 
+70 coastal flooding: Flood that occurs when hurricanes and storms  produce heavy rains or drive ocean water 
+onto land. Storms, earthquakes, and volcanoes can cr eate tidal waves that produce coastal flooding. The 
+force of the water from tidal waves often sweeps away beaches and houses. 
+coinsurance: A penalty imposed on the loss payment unless the amount of insurance carried on the 
+damaged building is at least 80 percent of its repl acement cost or the maximum amount of insurance 
+available for that building under the National Floo d Insurance Program (NFIP), whichever is less. 
+Coinsurance applies only to building coverage unde r the residential condominium building association 
+policy (RCBAP). 
+community:  A political entity that has the authority to adopt and enforce floodplain ordinances for the 
+area under its jurisdiction. In most cases, a community is an incorporat ed city, town, township, borough, 
+village, or an unincorporated area of a county or pari sh. However, some states have statutory authorities 
+that vary from this description.  
+community rating system (CRS):  A program developed by the Fe deral Emergency Management 
+Agency (FEMA) Mitigation Division to provide ince ntives for those communities in the National Flood 
+Insurance Program (NFIP) that have gone beyond th e minimum floodplain management requirements to 
+develop extra measures to provide protection from flooding.  
+crawlspace:  An under-floor space that has its interior floor area (finished or not) no more than 5 feet 
+below the top of the next-higher floor. Craw lspaces generally have solid foundation walls. 
+CRS:  See community rating system. 
+deductible buyback:  The option whereby, for an additional pr emium, policyholders who wish to reduce 
+their deductibles from the standard deductibles of $2,000 per building loss and per contents loss for pre-
+FIRM (flood insurance rate map) risks may purch ase separate $1,000 deductibles for building and 
+contents coverages. 
+dwelling form:  The National Flood Insurance Program (NFIP) insurance policy form used to cover one- 
+to four-family dwellings. 
+elevated building:  A building that has no basement and has its lowest elevated floor raised above the 
+ground level by foundation walls, sh ear walls, posts, piers, pilings, or columns. Solid foundation 
+perimeter walls are not an acceptable means of elevating buildings in V and VE zones.  
+elevation certificate:  A certificate that verifies the elevation data of a structure on a given property 
+relative to the ground level. The elevation certificate is used by local communities and builders to ensure 
+compliance with local floodplain management ordinan ces and is used by insuran ce agents and companies 
+in the rating of flood insurance policies.  
+emergency program:  The initial phase of a community’s partic ipation in the National Flood Insurance 
+Program (NFIP). During this phase, only limited amount s of insurance are available under the Act.  
+enclosure:  That portion of an elevated building below the low est elevated floor that is either partially or 
+fully shut in by rigid walls.  
+Federal Emergency Management Agency (FEMA):  The federal agency within the Department of 
+Homeland Security that is tasked with responding to, planning for, recovering from, and mitigating 
+against man-made and natural disasters.  
+federal policy fee:  A flat charge that the policyholder must pay on each new or renewal policy to defray 
+certain administrative expenses incurred in carrying out the National Flood Insurance Program (NFIP).  
+FEMA: See Federal Emergency Management Agency. 
+FICO: See Flood Insurance Claims Office.  
+71 FIRM: See flood insurance rate map. 
+FIRMette:  User-selected portions of an official Fede ral Emergency Management  Agency (FEMA) flood 
+insurance rate map (FIRM) that the user creates online. 
+500-year floodplain:  The area that is subject to an inundation from a flood having a 0.2-percent chance 
+of being equaled or exceeded in any given year. 
+flash flooding:  Flooding caused when small and powerful fast -flowing rivers are quickly formed because 
+of excessive rainfall or dam failure, sometimes tri ggering catastrophic mudslides. Flash floods can be 
+powerful enough to carry away roads, bridges, a nd other structures, and they can occur with little 
+warning.  
+flood:  A general and temporary condition of partial or  complete inundation of two or more acres of 
+normally dry land area or of two or more properties (a t least one of which is the policyholder’s property) 
+from one of the following.  
+ Overflow of inland or tidal waters 
+ Unusual and rapid accumulation or runo ff of surface waters from any source 
+ Mudflow  
+ Collapse or subsidence of land along the shore of a lake or similar body of water as a result of 
+erosion or undermining caused by waves or current s of water exceeding anticipated cyclical 
+levels that result in a flood as defined above 
+Flood Disaster Protection Act (FDPA) of 1973:  Made the purchase of flood insurance mandatory for 
+the protection of property located in  special flood hazard areas (SFHAs).  
+flood hazard boundary map (FHBM):  Official map of a community issued by the Federal Emergency 
+Management Agency (FEMA), where the boundaries of  the flood, mudflow, and related erosion areas 
+having special hazards have been designated.  
+Flood Insurance Claims Office (FICO): A National Flood Insurance Program (NFIP) claims processing 
+office set up in a catastrophe area when a sufficient nu mber of flood claims result from a single event. 
+flood insurance rate map (FIRM):  Official map of a community on which the Federal Emergency 
+Management Agency (FEMA) has delineated both the sp ecial hazard areas and the flood zones applicable 
+to the community.  
+flood zone (zone):  A geographical area shown on a flood hazard boundary map (FHBM) or a flood 
+insurance rate map (FIRM) that reflects the severity or type of flooding in the area.  
+floodplain:  Any land area susceptible to being inundated by floodwaters from any source. See 100-year 
+floodplain and 500-year floodplain. 
+floodplain management:  The operation of an overall program of  corrective and preventive measures for 
+reducing flood damage, including but  not limited to emergency prepare dness plans, flood control works, 
+and floodplain management regulations.  
+force-placed flood insurance:  Flood insurance taken out by a lender or creditor when the property owner 
+does not carry the required insurance. 
+general property form: The National Flood Insurance Program (NFI P) insurance policy form used to 
+cover residential buildings of five fam ilies or more and nonresidential buildings. 
+   
+ 
+72 grandfathering:  An exemption based on circumstances prev iously existing. Under the National Flood 
+Insurance Program (NFIP), buildings located in  emergency program communities and pre–flood 
+insurance rate map (FIRM) buildings in  the regular program are eligible for subsidized flood insurance 
+rates . Post-FIRM buildings in the regular program bui lt in compliance with the floodplain management 
+regulations in effect at the start of construction will continue to have favorable rate treatment even though 
+higher base flood elevations (BFEs) or more restrictive,  greater risk zone designations result from FIRM 
+revisions.  
+ICC: See increased cost of compliance. 
+increased cost of compliance (ICC):  Coverage for expenses a propert y owner must incur, above and 
+beyond the cost to repair the physical damage the st ructure actually sustained from a flooding event, to 
+comply with mitigation requirements of state or local floodplain management ordinances or laws. 
+Acceptable mitigation measures are elevation, flood-pr oofing, relocation, demolit ion, or any combination 
+thereof.  
+loss in progress: A loss that is already in progress as of 12:01 a.m. on the first day of the policy term or, 
+as to any requested increase in coverage limits, a lo ss that is already in progress when the additional 
+coverage is requested. 
+lowest floor:  The lowest floor of the lowest enclosed area (including a basement). An unfinished or 
+flood-resistant enclosure, usable sole ly for parking of vehicles, buildi ng access, or storage in an area other 
+than a basement area, is not consider ed a building’s lowest floor if such enclosure is not built so as to 
+render the structure in violation of requirements.  
+mandatory purchase:  Under the provisions of the Flood Disaster Protection Act (FDPA) of 1973, 
+individuals, businesses, and others bu ying, building, or improving property located in identified areas of 
+special flood hazards within participating comm unities are required to purchase flood insurance as a 
+prerequisite for receiving any type of  direct or indirect federal financ ial assistance (e.g., any loan, grant, 
+guaranty, insurance, payment, subsidy, or disaster assistance) when the building or personal property is 
+the subject of or security for such assistance.  
+manufactured (mobile) home:  A structure built on a permanent chassis,  transported to its site in one or 
+more sections, and affixed to a permanent founda tion. “Manufactured (mobile) home” does not include 
+recreational vehicles.  
+mobile home:  See manufactured home. 
+mudflow:  A river of liquid and flowing mud on the surf aces of normally dry land areas, as when earth is 
+carried by a current of water. Other earth movements,  such as landslide, slope failure, or a saturated soil 
+mass moving by liquidity down a slope, are not mudflows. 
+National Flood Insurance Act (1968): Legislation that created the National Flood Insurance Program 
+(NFIP). 
+National Flood Insurance Program (NFIP):  A federal program enabling property owners in 
+participating communities to purchase insurance protec tion against losses from flooding. This insurance is 
+designed to provide an insurance alternative to disaster  assistance to meet the escalating costs of repairing 
+damage to buildings and their contents caused by floods.  
+National Flood Insurance Reform Act (NFIRA) of 1994:  The purpose of NFIRA was to improve the 
+financial condition of the National Flood Insurance Program (NFIP) and reduce federal expenditures for 
+disaster assistance to flood-damaged properties. The act affected every part of NFIP, insurance, mapping, 
+and floodplain management. NFIRA also gave lenders tools with which to enforce requirements for flood 
+insurance coverage mandated under the Flood Di saster Protection Act (FDPA) of 1973.  
+NFIP: See National Flood Insurance Program.  
+73 NFIP Direct: Flood insurance that the agent or producer places directly with the National Flood 
+Insurance Program (NFIP), as opposed to insurance placed through a Write-Your-Own (WYO) company. 
+NFIP participating companies:  Private insurers that write flood insurance under the Write-Your-Own 
+Program, also known as WYOs. 
+nonresidential:  Includes, but is not limited to, small business concerns, churches, schools, farm buildings 
+(including grain bins and silos), pool houses, cl ubhouses, recreational buildings, mercantile structures, 
+agricultural and industrial structures, warehouses, hot els and motels with normal room rentals for less 
+than 6 months’ duration, and nursing homes.  
+100-year floodplain:  The area that is subject to an inundation from a flood having a 1-percent chance of 
+being equaled or exceeded in any given year. 
+other residential:  Hotels and motels where the normal occupa ncy of a guest is 6 months or more; a 
+tourist home or rooming house that has more than f our roomers. A residential building (excluding hotels 
+and motels with normal room rentals for less than 6 m onths’ duration) containing more than four dwelling 
+units. Incidental occupancies such as office, professional private school, or studio occupancy, are 
+permitted if the total area of such incidental occupanc ies is limited to less than 25 percent of the total 
+floor area within the building.  
+participating community:  A community for which Federal Emer gency Management Agency (FEMA) 
+has authorized the sale of flood insurance under the National Flood Insurance Program (NFIP).  
+post-FIRM building:  A building for which construction or s ubstantial improvement occurred after 
+December 31, 1974, or on or after the effective da te of an initial flood insurance rate map (FIRM), 
+whichever is later.  
+pre-FIRM building:  A building for which construction or subs tantial improvement occurred on or before 
+December 31, 1974, or before the effective date of an initial flood insurance rate map (FIRM).  
+preferred risk policy (PRP):  A policy that offers fixed combinati ons of building/contents coverage or 
+contents-only coverage at modest, fixed premiums. The PRP has been av ailable for property located in B, 
+C, and X zones in regular program communities that meet eligibility requirements based on the property’s 
+flood loss history, but it will be phased out over a 5-year period beginni ng in October 2013.  
+private flood insurance: Insurance issued by an insu rance company authorized to do business in the state 
+where the insurance building is located that provides flood insurance at least as broad as a National Flood 
+Insurance Program (NFIP) policy. Section 100239 of  Biggert-Waters defines more specifically what 
+qualifies as private flood insurance. 
+probation surcharge (premium):  A flat charge that the policyholder must pay on each new or renewal 
+policy issued covering property in a community that  the National Flood Insurance Program (NFIP) has 
+placed on probation due to violations or deficienci es in the administration and enforcement of NFIP 
+floodplain management regulations. 
+RCBAP: See residential condominium building association policy. 
+reduction and reformation of coverage:  A standard flood insurance policy (SFIP) provision that 
+establishes conditions under which the policy will be cons idered to provide lower limits of insurance than 
+those shown in the declarations because the amount of  insurance submitted with the application was not 
+enough to support the requested limits. 
+regular program:  The final phase of a community’s partic ipation in the National Flood Insurance 
+Program (NFIP). In this phase, a flood insurance rate map is in effect and full limits of coverage are 
+available under the Act.   
+ 
+74 repetitive loss structure:  Defined in the standard flood insu rance policy (SFIP) as a National Flood 
+Insurance Program (NFIP)-insured structure if it has suffered at least two flood losses (including the 
+current loss) paid by the NFIP program during a 10-y ear period, the cost of each repair equaled or 
+exceeded 25 percent of the structure’s market value, and the state or community is enforcing a cumulative 
+substantial damage provision or re petitive loss provision in its floodplain management law. See also 
+severe repetitive loss property. 
+replacement cost value (RCV):  The cost to replace property with the same kind of material and 
+construction without deduction for depreciation.  
+reserve fund assessment: An amount dedicated to the National Flood Insurance Program (NFIP) 
+Reserve Fund as authorized by the Biggert-Wa ters Flood Insurance Reform Act of 2012. 
+residential condominium building association policy (RCBAP):  Policy issued to insure a residential 
+condominium building and all units within the building if the building is located in a regular program 
+community and at least 75 percent of the total floor area is residential. 
+river flooding:  Flooding that is normally seasonal because of snowmelt or heavy rains. Water fills the 
+river basin too quickly, and the river flows over its  banks. Water then covers the floodplain, often 
+damaging homes, and other property.  
+scheduled building policy:  A policy that requires a specific amount of insurance to be designated for 
+each building and its contents. A scheduled building policy may cover two to te n buildings owned by the 
+same owner and located at the same location (on cont iguous properties). Standard flood insurance policy 
+(SFIP) forms are used. 
+severe repetitive loss property:  For single-family properties, cons isting of one to four residences, 
+property covered under a flood insurance policy that has incurred flood insurance damage 
+ for which 4 or more separate claims payments have been made under the flood insurance policy, 
+with the amount of each such claim more than $5,000 and with the cumulative amount of such 
+claims payments totaling more than $20,000; or 
+ for which at least 2 separate claims payments have been made under such coverage, with the 
+cumulative amount of such claims exceeding the property’s value. 
+For multiple family properties, the term has “such  meaning as the [Federal Emergency Management 
+Agency] Director shall by regulation provide.”  
+See also repetitive loss structure. 
+SFHA: See special flood hazard area. 
+SFIP: See standard flood insurance policy. 
+special flood hazard area (SFHA):  A Federal Emergency Manageme nt Agency (FEMA)-identified 
+high-risk flood area where flood insurance is mandatory for properties. An area having special flood, mudflow, or flood-related erosion hazards, and shown on a flood hazard boundary map (FHBM) or a 
+flood insurance rate map (FIRM) as Zone A, AO, A1–A30, AE, A99, AH, AR, AR/A, AR/AE, AR/AH, 
+AR/AO, AR/A1–A30, V1–V30, VE, or V.  
+standard flood insurance policy (SFIP):  Policy issued to insure a building and/or its contents.  
+tentative rates: National Flood Insurance Program (NFIP) rates used to issue policies for applications 
+that fail to provide the NFIP with valid actuarial rating information. 
+waiting period:  The time between the date of appli cation and the policy effective date.  
+WYO: See Write-Your-Own program.  
+75 WYOs:  See NFIP participating companies. 
+Write-Your-Own (WYO) Program:  A cooperative undertaking of the insurance industry and the 
+Federal Emergency Manage ment Agency (FEMA) begun in October 1983. The WYO Program operates 
+within the context of the National Flood Insurance Program (NFIP) and involves private insurers that 
+issue and service NFIP policies.  
+zone:  A geographical area shown on a flood hazard boundary  map (FHBM) or a flood insurance rate map 
+(FIRM) that reflects the severity or type of flooding in the area. 76 End Notes 
+1 www.federalregister.gov/articles/2005/ 09/01/05-17444/flood-insurance-traini ng-and- education-requirements-for-
+insurance-agents . 
+2 The Flood Insurance Manual an d other resources are discussed in Chapter 7. 
+3 H.R. 4348—512, TITLE II—FLOOD INSURANCE, Subtitle A—Flood Insurance Re form and Modernization. This subtitle 
+may be cited as the “Bigger t-Water s Flood Insuran ce Reform Act of 2 012.” 
+4 This criterion d oes not apply if the lowest level is at or  above the BFE and is below ground becau se dir t has been used as 
+insulation m aterial in conjunction with energy-efficient building te chniques. 
+5 As discussed in Chapt er 6, this te rm “severe repetitiv e loss property” has a specific m eaning def ined in th e Flo od Insurance 
+Reform Act of 2004. The definition also appears in the Glossary. 
+6 Section 100208. 
+7 Section 100239 o f Biggert-Waters de fines more specifically what qua lifies as private flood insu rance. 
+8 Section 100244. 
+9 Sectio n 100222 amends th e Real Estate Se ttlement Procedures Act by adding th is requirement. 
+10 The BFE is based on the Natio nal American Vertical Datum of 1988. This system is compo sed o f vertical coordinates that the 
+National Geodetic Survey established for de fining and stating  the elevations of points on, above, or below the su rface of the 
+earth . This system is the standard reference datum for elevations.  
+11 https://msc.fema.gov/ 
+12 Section 100205. 
+13 Section 100207. 
+14 Section 100205. 
+15 The “reduction and refo rmation of coverage” condition in th e policy is discussed further in Ch apter 5 of this course. 
+16 Section 100204. 
+17 Section 100204. 
+18 Section 100210. 
+19 Section 100233. 
+20 Section 100234. 
+21 At that time, FEMA d id not distinguish between mudslid es and mudflows. 
+22 https://www.fema.gov/media-library-data/1508950641147-
+55cd79e196bc6ea15aba1c69bb9f1cef /FINAL_ClaimsHandbook.pdf 
+23 The Flood Insurance Claims Hand book can b e order ed from FEMA or downloa ded at https://www.fema.gov/media-library-
+data/1508950641147-55cd79e196bc6ea15aba1c6 9bb9f1cef/FINAL_Cla imsHandbook.pdf . 
+24 The current Flood Insurance Manual can be ordered or do wnloaded at www.fema.gov/flood-insurance-manual.  
