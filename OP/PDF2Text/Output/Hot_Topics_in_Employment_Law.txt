@@ -1,0 +1,1311 @@
+ 
+ 
+HOT TOPICS IN EMPLOYMENT 
+LAW 
+ 
+ 
+ 
+  
+ 
+© 2018 by International Risk Management Institute, Inc.® 
+ALL RIGHTS RESERVED.  THIS COURSE OR ANY PART THEREOF MAY NOT BE REPRODUCED 
+IN ANY FORM OR BY ANY MEANS WITHOUT THE WRITTEN PERMISSION OF T HE 
+PUBLISHER. 
+ 
+All course materials relating to  this course are copyrighted by  IRMI. Purchase of a course includes a 
+license for one person to use the course materials. Absent spec ific written permission from IRMI, it is not 
+permissible to distribute files containing course materials or printed versions of course materials to 
+individuals who have n ot purchased the courses. It is also not permissible to make the course materials 
+available to others over a computer network, Intranet, Internet , or any other storage, transmittal, or 
+retrieval system. 
+This publication is designed to provide accurate and authoritat ive information in regard to the subject 
+matter covered. It is sold with  the understanding that the publ isher is not engaged in rendering legal, 
+accounting, or other professional service. If professional advi ce is required, the services of a competent 
+professional should be sought. 
+  
+IRMI 
+® 
+International Risk Management Institute, Inc. ® 
+12222 Merit Drive, Suite 1600 
+Dallas, TX 75251-2266 
+(972) 960-7693 
+Fax (972) 371-5120 
+www.IRMI.com 
+International Risk Management Institute, Inc. ,® and IRMI® are registered trademarks. 
+    i Hot Topics in Employment Law 
+Contents
+Getting Started ............................................... ............................................................... .............................. 1 
+Course Overview  ............................................................................................................................. ..... 1 
+About the Presenter: Christine Sensenig, Esq. .............................................................. ....................... 1 
+Introduction ................................................................................................................. ................................ 2 
+Chapter 1 Title VII ........................................... ............................................................... ........................... 3 
+Title VII ..................................................... ............................................................... ................................ 3 
+Chapter 2 Sexual Harassment ................................... ............................................................... ................. 4 
+Introduction to Red/Yellow/Green Scenarios .................... ............................................................... ........ 4 
+Sexual Harassment ............................................. ............................................................... ....................... 4 
+Chapter 3 Sex and Religion Harassment ......................... ............................................................... .......... 7 
+Sex and Religion Harassment ................................... ............................................................... ................. 7 
+Chapter 4 Religion and National Origin/Race Harassment ........ ............................................................ 9 
+Religion and National Or igin/Race Harassment................... ............................................................... ..... 9 
+Chapter 5 Americans with Disabilities Act (ADA) ............... ............................................................... .. 13 
+Americans with Disabilities Act (ADA) ......................... ............................................................... ........ 13 
+ADA Scenarios ................................................. ...................................................................................... 14 
+Chapter 6 Pregnancy Discrimination ............................ ............................................................... ........... 18 
+Pregnancy Discrimination ...................................................................................................................... 18 
+Chapter 7 Age Discrimination in Employment Act (ADEA) ......... ....................................................... 20 
+Age Discrimination in Employment Act (ADEA) ................... .............................................................. 20 
+Chapter 8 Family and Medica l Leave Act (FMLA) .............. ............................................ ..................... 24 
+Family and Medical Leave Act (FMLA) ........................... ............................................................... ...... 24 
+Chapter 9 Retaliation ......................................... ...................................................................................... 29 
+Retaliation............................................................................................................................................... 29 
+Glossary ...................................................... ............................................................................................... 32  
+1 Getting Started 
+Course Overview 
+Insurance professionals and risk managers must be aware of expo sures arising for employment law 
+claims. Employment-related claims can be very costly, driven by  the high attorney's fees involved in these 
+claims. Many of the laws have mandatory attorney's fees that wi ll be awarded to the attorney representing 
+the employee against your company or against your client, even if only one of the many claims they have 
+asserted is proven, and even if only one portion or one claim o f the amount sought is awarded. Even when 
+there are no mandatory fees, attorney’s fees can be high, even when no damages are awarded to a 
+claimant. 
+There are a number of laws that impact employment law, but Titl e VII is the cornerstone. Title VII was 
+passed in the 1960s when demands for equal treatment was high. Title VII protects against discrimination, 
+harassment, or retaliation based on certain protected categorie s. Title VII makes it illegal for an employer 
+to fail or refuse to hire or discharge any individual, or other wise to discriminate against any individual, 
+with respect to compensation, terms, conditions, or privileges of employment because of an individual's 
+race, color, religion, sex, or national origin.  
+This course will review the Acts in detail focusing on discrimi nation based on sex, gender, religion, 
+racial, and national origin, along with insurance implications for the various exposures. 
+About the Presenter: Christine Sensenig, Esq. 
+Christine Sensenig, a partner with the firm of Hultman, Senseni g & Joshi, graduated from the University 
+of Florida Levin College of Law. She has been in practice for o ver 18 years and has conducted many 
+seminars on compliance with the m yriad of laws affecting employ ers. She conducts Form I-9 audits, 
+advises about workers’ compensa tion matters, including return t o work and the interaction between 
+workers’ compensation and the Americans with Disabilities Act, the Family Medical Leave Act, and now 
+the Genetic Information Non-Discrimination Act. She assists wit h the preparation of handbooks and then 
+training both staff and management to reduce potential exposure  when claims of harassment, 
+discrimination and retaliation arise. She investigates claims o f harassment, discrimin ation and retaliation 
+from the making of the claim t hrough the EEOC/FCHR process, and  then through litiga tion in the state 
+and federal courts. 
+Ms. Sensenig is active in the Sar asota community. She served as  Treasurer for three years and President 
+for two years of the Sarasota County Gator Club, the local Univ ersity of Florida Alumni Association. 
+She’s helped raise tens of thou sands of dollars in funds to aid  local students who are attending the 
+University of Florida. Christine has served on the Board of the  Sarasota Chapter of the Florida 
+Association of Women Lawyers and received the President’s Servi ce Award for service above and 
+beyond expectations. She currently serves on the Board of the F ederally Qualified Health Center in 
+Sarasota/North Port and the Women’s Resource Center. She is a m ember of the Sarasota County Bar, 
+Florida Bar, and American Bar A ssociations, and is also a membe r of the Labor & Employment Section 
+of each of those organizations. C hristine was recognized by her  peers as a “Florida Legal Elite” lawyer in 
+Florida Trend Magazine in 2009, 2010, 2011, 2012, 2013 and 2014 .  
+2 Introduction 
+Hi, my name is Christine Sensenig. I'm an employment attorney w ith over 20 years of experience in 
+human resources and employment law issues. We're going to discu ss how to become aware of 
+employment law issues, consid er exposures, address traditional covers limitations, and bring value to 
+your organization. Because after all, we're all in the business  of risk management.   
+3 Chapter 1 
+Title VII 
+Title VII 
+As an insurance professional and risk manager, one of the thing s you really need to be aware of is there's 
+legal exposure for employment la w claims, which c an be extremel y high as to the attorney's fees that are 
+involved in these claims. Many of the laws we're going to be ta lking about have mandatory attorney’s 
+fees that will be awarded to the attorney representing the empl oyee against your company or against your 
+client, even if only one of the many claims they've asserted is  proven, and even if only one portion or one 
+claim of the amount sought is awarded.  
+Attorney's fees are pretty much guaranteed. So let's start with  the grandfather of all civil rights laws, Title 
+VII. Title VII was passed in th e 1960s. We all know there was a  lot of turmoil, there was a lot of 
+protesting, and a lot of marching going on in the 1960s. And pe ople were demanding to be treated equally 
+, and in a way that is similar to  people who were different tha n them. 
+So we look at what Title VII actually protects. And Title VII r equires that due to a protected category, 
+you cannot have discrimination, harassment, or retaliation base d on that protective category, particularly 
+in the employment law context. So Title VII makes it illegal fo r an employer to fail or refuse to hire or 
+discharge any individual, or otherwise to discriminate against any individual with respect to 
+compensation, terms, conditions, or privileges of employment be cause of an individual's race, color, 
+religion, sex, or national origin.  
+So we pretty much reduced that to the big four. Sex, also gende r, religion, race, and national origin. The 
+other thing that Title VII prohi bits is you cannot limit, segre gate, or classify employees or applicants for 
+employees in any way which would deprive or tend to deprive tha t individual of employment 
+opportunities, or otherwise adversely affect their status as an  employee because of the individual's race, 
+religion, gender, or national origin. So let's talk about each one of those separately.   
+4 Chapter 2 
+Sexual Harassment 
+Introduction to Red/Yellow/Green Scenarios 
+I'm going to walk you through a scenario. And I want you to con sider the scenario in terms of a traffic 
+light and the colors red, yellow , and green. When you consider the facts that are presented, think about 
+whether red, you'd stop. You'd say this is not behavior anyone should be engaging in . This appears to be 
+harassing, discriminatory, retaliatory behavior. 
+Then in terms of yellow, yellow is possibly, well, I might need  more information. Or, well, it could be 
+OK, depending on context. Or, we ll, it could be OK based on tha t particular company's culture. And last 
+but not least, green, which is where you say, no problem here. Full speed ahead. I don't see any concerns. 
+Not going to stop the behavior. 
+So now that you've gotten the idea of how to think about the sc enarios. Let's start with a scenario for you 
+to consider. 
+Sexual Harassment 
+Let's consider a scenario unde r Title VII focused on sex harass ment. John, an underwriting technician, 
+persists in asking Joan, another underwriting technician in his  department, out to dinner, even though she 
+turns him down each and every time he requests a date. Would yo u consider this a red situation, a yellow 
+situation, or green situation? 
+If you selected red, you're probably relying on that notion of no means no and it does. No certainly means 
+no. So in this case, we know without a shadow of a doubt that J ohn has asked Joan out several times and 
+she has turned him down several times. What we don't know is ne cessarily how often he's done it, how 
+frequently he's done it, necessarily is it once a month, once a  week, every day, and these are things that 
+may cause people to not believe this is a red situation, but a lot of times this would be a red situation. 
+Now, if you chose yellow, you probably wanted more information.  You probably wanted to know, how 
+often was John really asking Joan out? Did he do it daily? Did he do it weekly? Did he do it monthly? A 
+lot of people also want to know , well, how did Joan necessarily  say, I don't want to go out with you? Did 
+she give a fairly lame excuse and say, my mother's coming into town. Next week my friends and I are 
+going to a movie. We already made those plans. The week after, the proverbial, I need to wash my hair. 
+Now, no always means no, but a lot of times, people try to be g entle in how they deal with someone who's 
+interested in them, who they're not interested in, and so she m ay not have been clear in her intent to not be 
+interested in John in a romantic way. Again, does this mean he gets to harass her? Absolutely not, but 
+there are times when people need  to be direct with a colleague and there's times when people don't get a 
+gentle hint . So in this particul ar case, if Joan feels that Jo hn is really making her uncomfortable, she 
+should report it to human resour ces and she should ask for thei r assistance if she doesn't feel comfortable 
+saying to John directly, I'm just not into you. 
+If you selected green, you're probably looking at this in the b roader social context and saying, well, if you 
+don't meet your spouse in college, you're going to meet them at  work, but in this case, you have to know 
+whether John is necessarily being very persistent in asking Joa n out and whether John is necessarily 
+harassing her, perhaps stalking her, making her feel very uncom fortable.  
+5 But most people look at this and say, we're grownups. Deal with  it. Be able to look at John and say, I'm 
+not interested, thank you very much, so that he can move on, bu t again, not required. So in the world of 
+harassment discrimination in the world of sex harassment polici es, what you need to make sure to do is 
+understand that if Joan is feeli ng uncomfortable, Joan should b e able to either tell John I'm not interested 
+or if she can't do that, go to HR. 
+Let me provide you with a little m ore information about John an d Joan. What if John invites Joan to a 
+great dinner at Del Frisco's Double Eagle Steakhouse, a very ni ce place with a very high price tag and 
+Joan decides she's going to go out with John, as he seems like a nice guy, a little dull, but nice and during 
+dinner she realizes he's really not her type and she'd rather k eep him in the friend zone. 
+They have a nice dinner, they part amicably, and John asks her out again after the Del Frisco's dinner. 
+Joan turns him down and John start sending Joan flowers to the office for the next few weeks and Joan 
+does not speak with John and she avoids him whenever she sees h im coming. How do you view John 
+sending Joan the flowers, even af ter having been turned down? D o you believe this is a red situation, a 
+yellow situation, or a green situation? 
+If you picked red, most likely you're still of the belief or yo u've come to the belief that no means no and 
+that Joan has made her desire t o not see John as a romantic par tner pretty clear, because after John starts 
+sending flowers, usually the response when you are receptive to  that would be, why, thank you and let's 
+go out again. Instead, John doesn't seem to be getting the hint . 
+So this is the type of situation where Joan would either say to  John, really not interested in you, thank you 
+very much, and if he doesn't get the hint, she can go on to HR or she doesn't have to approach John at all, 
+because Title VII doesn't require t hat, nor does the case law t hat governs Title VII require someone to 
+confront the person . Joan can go to HR and seek their assistanc e and say, it's just making me 
+uncomfortable. 
+Now if you picked yellow in this case, you may be looking at wh ether Joan has been clear in her 
+intentions to John, but when all is said and done, that doesn't  really matter, because what matters in the 
+world of harassment is Joan's perception of John's activity . I f she perceives this as him harassing her and 
+wanting a romantic relationship and wanting to continue engagin g with her when she doesn't want to 
+engage with him, then that's the type of situation that HR will  likely get involved, but a lot of people pick 
+yellow, because they still want Joan to be able to confront Joh n directly, but again, there's no requirement 
+that says Joan has to do that a nd again, she can seek HRs assis tance. 
+If you picked green in this situation, you are probably of the mindset that these are two grown adults, they 
+need to work it out. Not necessar ily true in the world of Title  VII. In this case, John is pursuing Joan, 
+because he is interested in a romantic relationship with her. S o gender, sex come into play. So in this kind 
+of case where Joan is not reciprocating John's affection, it's not necessarily appropriate for him to 
+continue seeking a relationship when she has sent him no clear message that she's interested. 
+Now, if Joan reports John's conduc t to HR, what can risk manage ment do to assist? Well in this case, risk 
+management can get involved to make sure that there are no othe r issues that are going on of which 
+they're not aware. Perhaps the s ituation between Joan and John has impacted the rest of the unit and risk 
+management may need to deal with s ome morale training, some tea m building, and things like that, 
+because John's conduct is not necessarily severe or pervasive. 
+It's not the type of conduct that's necessarily going to get hi m terminated. So that means Joan and John are 
+probably going to have to conti nue working together in some way , in some fashion. As we all know, 
+underwriters are not the easiest p eople to come by. So since th ey're both underwriting technicians and 
+they're both going to probably be continuing to work together, even after a report to HR, what is it that 
+you can do to assist?  
+6 Again, take into account how you may be able to informally chat  with people and say, how's it going? Do 
+you feel things are good? How do you feel the morale of the tea m is? The other thing you can do is 
+participate in any training. The re may be a need to engage in c ompany-wide harassment, discrimination, 
+and retaliation training and there may be a need to meet with J ohn periodically, so that you assist HR in 
+saying, well John, you understa nd the rules. You understand Joa n doesn't feel comfortable. How are you 
+doing? Do you have any questions o r concerns? How is the relati onship going with the rest of the team? 
+These are things you can do to m ake sure that not only morale i s kept at an appropriate level, but that 
+compliance is at the forefront of your company culture and by a ssisting with HR, you can absolutely help 
+to make sure that the company's policies and procedures are bei ng followed and that team morale and a 
+sense of camaraderie can remain intact, despite this bump in th e road.  
+7 Chapter 3 
+Sex and Religion Harassment 
+Sex and Religion Harassment 
+Gonna provide you with another scenario under Title VII. This o ne involves sex harassment and a few 
+other issues. So let's start w ith our friend Terry, who's a mai ntenance supervisor at a factory. He has 
+several calendars featuring scantily clad women on his cubicle wall, with some dating back to 2014, 
+which can all easily be seen whenever you're in Terry's office.  
+Is this a red situation, a yello w situation, or a green situati on? If you selected red, I'm sure you thought 
+you didn't want to be subjected to cleavage let alone other thi ngs that you will necessarily see in such 
+calendars, whenever you go into Terry's office. And the fact th at he's got some dating back to 2014 
+probably makes you a little uncomfortable as well. Why has it b een posted since 2014? Why hasn't 
+someone addressed it? 
+Well, maybe they haven't addressed it because they're uncomfort able. Maybe they haven't addressed it 
+because they're afraid of what Te rry may do or say. And maybe t hey haven't addressed it because they 
+didn't realize that they could or should. But this is the type of situation that someone could easily be 
+offended by being confronted w ith numerous photos of scantily c lad women in calendars that are right in 
+front of you and purposely so. 
+So, if you picked yellow, you're probably wondering, well, if t his is a maintenance supervisor, is this 
+perhaps a cultural thing? Is this  something that everybody in m aintenance is fine with? Is this something 
+that the company doesn't have an issue with because they're not  naked, they're in bikinis. They're in t-
+shirts, they're in short shorts. So that's something you can ha ve when you go to certain restaurants. 
+So a lot of people look at that  and say, well get a sense of hu mor. Or it's not really that big of a deal. But 
+remember, let's go back to Title VII and the perception of what  the perceived victim feels is the only 
+perception that matters. 
+The intent of the person, such as Terry, doesn't matter. It's w hat the person who is being exposed to it, 
+who feels offended or feels harassed, their perception matters.  
+So if you picked green, you're probably thinking, what's the co rporate culture? This isn't a problem. The 
+women aren't naked. They're in clothing, they're in bikinis. Yo u don't see an issue. 
+Now again, whether you see the i ssue doesn't matter. It's whate ver someone who's in Terry's office is 
+necessarily feeling. And if they feel harassed, or if they feel  it's inappropriate to be looking at calendars 
+and seeing a whole lot of skin, then that person has the right to say, this concerns me. I'm not comfortable. 
+So this is probably not a green situation. 
+So let's think about Terry again. Would you feel differently if  instead of waitresses in  bikinis, Terry has a 
+picture of his stunning wife Melissa in a white bikini, wearing  a lei in front of a waterfall in Hawaii from 
+his honeymoon last year? Is this a red situation, a yellow situ ation, or a green situation. 
+If you picked red, you probably did so based on the fact that s howing that much cleavage and that much 
+skin doesn't matter if it's Terry 's wife. It doesn't matter if it's someone he doesn't know in a calendar. The 
+answer is you think it's not appropriate to necessarily have pi ctures like that on display at work.  
+8 And you could be right. It, again, depends on the perception of  the person who is looking at all that skin 
+and all that cleavage and whether they feel comfortable or not.  Not whether Terry feels comfortable. And 
+not whether Terry had a fabul ous honeymoon and his wife looks g reat in the bikini. The perception of the 
+person who's looking at the picture of Melissa in the bikini ma tters. If you picked yellow, you probably 
+were wavering on whether it made  a difference as to a stranger in a bikini versus Terry 's wife in a bikini. 
+And you're wavering on, well, it's a family picture. Why should  that offend anybody? 
+Well, Melissa is still in a bikini. There's a lot of skin being  shown. And there's a lot of people who don't 
+feel that's necessarily appropriate for the workplace. So even though it's a lovely picture of his wife-- she's 
+in a waterfall, it makes him ha ppy to look at that photo and re minisce about his honeymoon-- you could 
+still be in a situation where someone feels uncomfortable looki ng at Melissa in that bikini. 
+If you chose green, you are probably relying on the fact that y ou view a family photograph very 
+differently than you do photos of strangers. And you also belie ve that it's probably not nearly as large as 
+some of the calendar photos that you may be confronted with. An d you don't have any problem with 
+Terry having a photograph of his wife Melissa from their honeym oon on his desk, because you, too, have 
+family photos on your desk. 
+But do you have family photos of you in a Speedo and your wife in a bikini on your d esk? Those are the 
+sort of things that, again, you need to consider, on whether it 's OK to be showing skin and cleavage. And 
+does it really matter that it's a relative as compared to a str anger?  
+9 Chapter 4 
+Religion and National Origin/Race Harassment 
+Religion and National Ori gin/Race Harassment 
+Remember our maintenance supervisor, Terry? I'm going to switch  the facts around a little bit for you. 
+What if instead of pictures of bik ini-clad women in posters and  calendars, or of his wife Melissa, Terry 
+has several large framed posters of the following-- John 3:16--  For God so loved the world that he gave 
+his only begotten son that whosoe ver believeth in him should no t perish but have an everlasting life. His 
+next framed poster says, Jesus loves you. And his third framed poster says, I can do all things through 
+Christ who strengthens me. 
+Is this a red situation, a yello w situation, or a green situati on? If you picked red, you were listening to the 
+protected categories under Title VII, which include religion. T erry's religion may not be the religion of 
+someone who is visiting his office. And they're being confronte d with large posters telling them that Jesus 
+loved them and that they can do all things through Christ, when  that person may be Buddhist or have an 
+entirely different religion. It could be very uncomfortable for  the person sitting in Terry's office. They 
+may feel judged by Terry if they don't share the same beliefs. 
+A lot of people confuse the f act that you can have your beliefs , you can have your opinions, but sharing 
+them at the workplace is not protected activity. You lose your First Amendment rights when you walk in 
+your employer's door. The First Amendment applies to the public  square. So, in this case if you picked 
+red, you were definitely thinking  about the perspective of the person who walks into Terry's office, is 
+confronted with these religious posters, may not agree, and may  feel uncomfortable. This would be a 
+report to HR moment because it's very unlikely that Terry is go ing to voluntarily remove those posters. 
+If you picked yellow, you were probably trying to decide. Well,  if he can have pictures of his wife in a 
+bikini, why can't he have pictures saying I believe in God, I b elieve in Christ, I believe that Christ 
+strengthens me? Is that necessarily a problem? Well, if you wor ked for the YMCA, it wouldn't be. They 
+are the Young Men's Christian Association after all. But if you  think about the fact that most 
+organizations are secular in na ture and they don't have a relig ious basis, the fact that you're walking into a 
+maintenance supervisor's office and having to be confronted wit h religious posters  could be a moment 
+where the person feels uncomfortable and they may not be able t o express, well, maybe I don't want to 
+meet in Terry's office because I have to look at those posters . A lot of people again, think, well he has the 
+right to believe in his religion. We live in the United States of America. He absolutely does. But to 
+proselytize at work is not a right he's guaranteed under the Co nstitution. 
+If you picked green, you're probably thinking I live in the Uni ted States. I can have freedom of religion. 
+Isn't that one of the things guaranteed to me? And then you hea rd in Title VII, I don't have to deal with 
+religious discrimination. And I think I'm being discriminated a gainst if I'm told I can't have these posters. 
+ 
+   
+10 Let's go back to the notion of w hat it is to be in a workplace and what it is to be in a professional 
+workplace where Title VII necessarily applies. And that is peop le have the right to work in an 
+environment free of discriminati on and harassment. So if you ha ppen to be Buddhist and you happen to 
+walk into Terry's office and sit down and the first thing you s ee is, I believe that God and Christ 
+strengthen me, and you get the impression that if you don't bel ieve that Terry's going to treat you 
+differently, that's going to impact your work relationship. It' s also going to make the Buddhist necessarily 
+feel uncomfortable. So this is the kind of situation that HR is  most likely going to get involved. 
+So let's take that situation a step further. Hasan Kain, a Musl im coworker of Terry's, tells HR that he has 
+been in Terry's office and it do es make him uncomfortable to ha ve small team meetings in Terry's office, 
+as the Christian posters make him feel unwelcome and less value d, as he does not believe Jesus loves him 
+nor does he believe Christ will he lp him do all things or stren gthen him. He has a different set of beliefs 
+and values. He has respect for Terry and how he necessarily lea ds as maintenance supervisor. But these 
+posters make him feel uncomfortable. 
+HR speaks with Terry who reluctantly takes down his framed piec es. Shortly thereafter, Hasan starts 
+finding Bible verses tucked under his wiper blades. And he's no  longer invited to the group lunch the team 
+has every Friday. Is this a red,  yellow, or green moment regard ing the Bible verses and regarding the 
+group lunch? 
+So if you picked red and you said this is a stop, this should n ot be happening moment, you're probably 
+right. Because Terry being in charg e of the group has to keep i n mind that Hasan is still part of the group. 
+So why is Hasan not being invite d to the group lunch the team h as every Friday? What changed? Well, 
+the only thing we know of that changed is our spoke with Terry and told him to take down his posters. So 
+the fact that Hasan seems to be frozen out after that happened would be an adverse employment action. 
+And you're right. This is a stop moment. This should not be hap pening. 
+If you picked yellow, you proba bly wanted to know a little bit more information, such as who's actually 
+putting the Bible verses under Hasan's wiper blades. Is it Terr y? Is it somebody else in the group? Is it 
+somebody else who just happens to be doing that for everybody a t the company? But that notion of the 
+group lunch that the team has every Friday and Hasan being no l onger invited that's a problem. 
+Now you may want to know more, a nd that's why you picked yellow . You may want to know, well, is this 
+a formal lunch? Is this the group always has lunch. Or is this an informal, hey, we're going to go to this 
+place for lunch. Why don't you join us? 
+If you picked green, you probably are of the mindset that, hey,  I don't have to invite anybody to lunch 
+who I don't want to. And you prob ably said, well, whoever's tuc king Bible verses under his window wiper 
+blades, no big deal. It is a big  deal. Because Hasan has made i t clear that he is not a Christian. He believes 
+in Islam. And he has a different value system, as well as a dif ferent belief. 
+At no time have we mentioned that Hasan is not a good employee,  that he doesn't get along with his 
+coworkers. So the fact that he made a complaint about the relig ious posters and then is being subjected to 
+Bible verses under his wiper blades and being disinvited to the  group lunch, this is a problem. And HR 
+needs to get involved again. 
+So we're back to Terry. We're b ack to Hasan. We're back to the fact that he's not being invited to lunch, 
+and those Bible verses continue to appear on his windshield. Th en someone uses a Sharpie to write a 
+racial slur on his locker. Is th is is a red, yellow, or green s ituation? 
+ 
+    
+11 I'm sure at this point those of you who picked red are feeling very comfortable with your red, saying this 
+is a stop moment. This should not be happening. Anytime we get a racial slur or an ethnic slur written on 
+someone's locker, or someone's c ar, or on someone's chair, that 's when we know we have a serious 
+problem. Because at this point we don't know who's doing it, an d we not only have a culture issue, but we 
+have a legal issue. And that is Hasan has the right to work in a discrimination-free environment. And now 
+we have not only Bible verses, not being invited to lunch, but now we have a racial or ethnic slur written 
+on his locker. So this is definitely a moment for HR to get inv olved and risk management to get involved 
+to see what it is they can do to  stop the situation from contin uing to escalate. 
+If you chose yellow, you're probably still seeking additional i nformation. You want to know who's putting 
+those Bible verses on Hasan's windshield and why is it that he' s no longer being invited to lunch. Maybe 
+he said something that offended somebody else. Maybe he's datin g somebody's ex-girlfriend. We don't 
+know. And so you're the curious type who wants a little bit mor e information. 
+But the fact that someone wrote a racial or ethnic slur on Hasa n's locker, that gets us more into a red 
+moment than a yellow moment. And HR will be certain to get invo lved. 
+For those of you that chose green, you're probably still of the  belief that boys will be boys, or perhaps, 
+you know what? This is something that they need to deal with wi thout getting the company involved. And 
+that's not an assumption that's going to help save your company  or save your company's bottom line. 
+Because Title VII provides Hasan w ith a discrimination and hara ssment-free workplace. So even though 
+you still may be on the fence here on the Bible verses or his n ot being invited to lunch, but there's no 
+being on the fence regarding racial slurs being written on Hasa n's locker. This is definitely a moment for 
+HR to get involved. 
+OK. Hasan has had a lot of probl ems in the past few weeks since  he asked Terry to-- well he asked HR to 
+have Terry put the posters down . So let's talk about what prote cted categories we have in this situation. 
+We possibly have race. We're not sure. Hasan may have converted  to Islam and changed his name. We 
+possibly may have national origin in that he may be from a coun try where Islam is the predominant 
+religion. 
+But we do know that we have a problem with religious discrimina tion under Title VII. And we have a 
+retaliation cause of action, becau se it appears that Hasan is s uffering from an adverse employment action 
+due to having made a complaint. And when that happens, you also  have an additional cause of action. 
+And remember, Title VII not only protects you from harassment a nd discrimination, it protects you from 
+retaliation for having complained about being treated different ly based on a protected category. 
+So what can you as risk do to help the company in being able to  resolve this troubling situation? One of 
+the things you might want to consider doing is monitoring or in stalling surveillance cameras . Because 
+you want to make sure that if anyone is writing racial or ethni c slurs, that stops immediately. You want to 
+know who's doing it. You also might want to know who's continui ng to tuck those Bible verses under 
+Hasan's window shield. Because that may give you an idea of whe ther it is someone on the maintenance 
+team or whether it's someone tota lly different who just may fee l like they need to proselytize and they 
+figure Hasan is a good target. 
+You also want to look at particip ating in team building or dive rsity training. You want to work with HR 
+and legal. Because you want to be able to put an emphasis on co mpliance. You want to put an emphasis 
+on we do the right thing. Becau se if you don't, we all know wha t's coming next. And that's an EEOC 
+charge. That's what's coming next . And that's where you know wi thout a shadow of a doubt, not only will 
+the company's bottom line be imp acted because attorney's fees w ill mount as a result of an EEOC charge, 
+but you'll continue to have possible morale issues, and culture  issues, and team issues as people may side 
+up as team Terry or team Hasan, and say, well, you need to do t his differently. You need to perceive this 
+in a different way.  
+12 And you're going to have a whole lot of drama when the answer i s, let's try and figure this out now. 
+Because up till now, Terry hasn't n ecessarily been a problem em ployer for you and neither has Hasan. So 
+let's see what we can do to put the company back on the right t rack and reinforce that culture of 
+compliance.  
+13 Chapter 5 
+Americans with Disabilities Act (ADA) 
+Americans with Disabilities Act (ADA) 
+Let's talk about the Americans  with Disabilities Act, otherwise  known as the ADA. The ADA is a civil 
+rights law that prohibits discrimination against individuals wi th disabilities in all areas of public life, 
+including jobs, schools, transpor tation, and all public and pri vate places that are open to the general 
+public. The purpose of the law is to make sure that people with  disabilities have the same rights and 
+opportunities as everyone else. So the ADA gives civil rights p rotections to qualified individuals with 
+disabilities, similar to those provided to individuals under Ti tle VII on the basis of race, sex, national 
+origin, or religion. 
+It also guarantees equal opportuni ty for an individual with a d isability and making sure that they can 
+receive appropriate state and local government services, teleco mmunications, and transportation. So let's 
+go back and talk about the ADA in  general and let's talk about the fact that, do you remember the last 
+time you went to a movie theater and you walked in and you got to your seat. Did you actually take stairs 
+to get halfway through or did you walk in on a ramp and the ram p led you to a very wide row with 
+wheelchair seating? Probably di dn't pay attention, because it's  become such a part of your life that it's 
+normal. 
+Same is true if you've been to a concert or a football game, an y sort of stadium activity. You walk in 
+through a ramp or you walk in through one of those ramps that g oes up and up and up in a circle like the 
+Guggenheim. That's because instead  of stairs, people with crutc hes, wheelchairs, and other disabilities can 
+have an easier time of it, because ramps are appropriate and ra mps permit access to things that, otherwise, 
+people with disabilities wouldn't have and every bathroom you'v e been in lately for any larger 
+establishment that's not historic, you'll probably notice that there's a handicapped bathroom. 
+These things have become such a part of our daily life, we don' t even think about them. We don't think 
+about the fact that when you step off a sidewalk at the end of a curb, it's not a curb at that point, it's a 
+ramp. It's been graded down. 
+These are the things that show t hat sometimes civil rights acts  work and the ADA is definitely at work on 
+a daily basis as far as public accommodations and making sure t hat people with disabilities can enjoy 
+movies and stadium activities and to be able to get into variou s businesses to enjoy the same things as 
+people who don't have disabilities get to do without having to think about, well, where do I park? How do 
+I get up those steps? How do I na vigate that curb? So these are  the things that the ADA protects in 
+general, but we're going to focus on what the ADA protects in t he employment context. 
+   
+  
+14 ADA Scenarios 
+I'm going to present you now w ith an ADA scenario. And we're go ing to start with Becca. Becca is a 
+proud veteran of the Gulf War. S he's also an amputee starting a t her left thigh, and she wears a modern 
+prosthesis. She believes in keepi ng fit and is a regular at the  company's gym. She has shared with 
+colleagues that she's training for her first Wounded Warrior Tr iathlon, and she's very excited about it. 
+And her colleagues are very supportive of her engaging in this event. 
+Becca tells HR that she's havi ng issues getting up to the third  floor, which is where her department and 
+team are located, as the elevator is constantly out of order in  the building. And she simply can't get up and 
+down three flights of stairs regularly. So she asked to have a desk on the first floor, and have conferences 
+scheduled for the first-floor conference room instead of the th ird-floor conference room. 
+So does the company have to acco mmodate Becca's request to have  her desk moved to the first floor, and 
+to have conferences be scheduled  on the first floor? If you bel ieve that this is a reasonable request, you 
+need to consider green. If you're not sure, you might want to c onsider yellow. And if you think, no way 
+does the company have to do this, think about red. 
+So if you chose red, you were pr obably focused on the fact that  Becca is fit. And we talked about her 
+being a regular at the company's gym. And you're probably think ing, well, if she can go to the gym every 
+day, and she can train for a triathlon, why can't she get up an d down the stairs? 
+Well, that's not a decision we get to make. Becca is obviously a person with a disability. She has a 
+prosthesis. Something that we can see is something we know. It' s not a question of whether she has a 
+disability. 
+What you're questioning, if you picked red, is whether she need s the accommodation to have her desk 
+moved from the third floor to the first floor. And where everyb ody else might need to be inconvenienced 
+to come from the third floor to  the first floor to accommodate Becca. So if you're focused on-- well, she's 
+training for a triathlon, she should be going up and down the s tairs-- you're not focused on the right thing. 
+What you need to focu s on is whether Becca's request is reasona ble, and whether the company can 
+accommodate her request without undu e hardship to the company. In this case, she's asking to be moved. 
+And, yes, it may inhibit some of the teamwork. But a trip to Wa lmart will probably achieve the purchase 
+of a desk, if there isn't an additional one at the company. And  asking for what is probably a weekly 
+conference to be held downstairs is probably not that big of a deal. 
+It's not necessarily going to impact the company. It's not goin g to cause hardship to the company. And it's 
+certainly not going to cost them any money. 
+Yes, I understand you're still th inking about, what about the t eam? And the cohesiveness of the team? 
+And the ability of the team to in teract with each other with Be cca downstairs? Well, that's something 
+everyone's going to have to learn how to address and accommodat e. 
+Now, if you picked yellow, you were probably focused on the fac t that Becca is very physically fit. She 
+attends the gym regularly. And , again, she's thinking, I'm goin g to train for a Wounded Warrior Triathlon. 
+So you're thinking her physical  fitness level may not warrant a  request to be granted that her desk be 
+moved from the third floor to the first floor. So you're not su re as to whether the company needs to 
+accommodate Becca's request. But you're also not sure that the company doesn't have to do that. You may 
+want a little bit more informati on. You may want to understand what the impact will be of moving 
+Becca's desk from the top floor to the bottom floor, as far as how that impacts the company's resources 
+and how that may impact the team. 
+But what we need to focus on is  whether Becca is a qualified in dividual with a disability. In this case, yes, 
+she has an obvious disability. So is her request reasonable? Is  it reasonable to say, move my desk from the 
+top floor to the bottom floor because I cannot get up and down those steps?  
+15 And, last but not least, what is t he cost to the company? Is th is an undue hardship for them to move Becca 
+from the top floor to the bottom floor? In most cases, the answ er to that will be no. But if you picked 
+yellow, you probably want to kn ow a little bit more about how t he company's space is necessarily 
+handled. But again, if it's a reasonable request, and it's an i nconsequential cost to the company, Becca's 
+request should be accommodated. 
+If you picked green, you were focused on Becca and the fact tha t she's requested an accommodation. And 
+you believe that her request is probably reasonable. You're not  focused on how physically fit she is. 
+You're not focused on her traini ng for a triathlon. You're focu sed on the fact that you have an amputee 
+who is saying, the elevator do esn't work most of the time, and I have a hard time getting up and down the 
+stairs regularly. 
+Again, it's not our decision as risk managers and human resourc e professionals and, frankly, as 
+individuals to say, well, Becca, y ou should, you know, suck it up a little bit and figure out how to get up 
+and down the stairs. Becca obviously has a disability. She's re questing an accommodation. That 
+accommodation is reasonable, as far as it doesn't seem to be pa rticularly costly in saying, well, move her 
+desk to the bottom floor. And, if you're having a team meeting on a weekly basis, move that to the bottom 
+floor. So in this case, green was probably your best answer. 
+So, as risk managers, when yo u think about reasonable accommoda tions, what would be a reasonable 
+accommodation in Becca's case? Is it reasonable to propose that  Becca move her chair and her desk to the 
+bottom floor? Most of us will probably say, well, it doesn't se em to be an unreasonable request. It 
+certainly isn't a pricey request , thinking if the only cost is going to be the purchase of a new desk, if the 
+company doesn't have one. That would be a reasonable accommodat ion. 
+So when you think about what you need to do when you are consid ering a reasonable accommodation 
+from a qualified individual with  a disability, you need to thin k of these magic words. How can we help 
+you? It's one of the few times in employment law we do have mag ic words. Most of the  time, we have to 
+sit there, shake our heads, and think about it, just the same a s anybody else. 
+But when you're dealing with a qualified individual who's askin g for a reasonable accommodation so that 
+their disability doesn't impact their ability to contribute, yo u ask, how can we help you? And you balance 
+the needs of the company with the individual's request. So as r isk management, how  do you assist with 
+Becca's particular issue? 
+Well, number one, you're going to  look at the space issues. Num ber two, you're going to look at, well, 
+what's the cost of a desk? And that's going to be nominal at be st. And number three, you're going to look 
+at the impact on the team, and how would you necessarily assist  with reducing that impact? 
+Is there a way to think about Skype meetings, or webinars, or G oTo web meetings, so that Becca can 
+participate in impromptu conferences and calls? Or is there a w ay to say, we're going to set up sort of a 
+regular meeting, so that even though you may not have a weekly meeting on every Friday morning, you're 
+going to have a Thursday lunch, so that everyone can have a cha nce to interact, and the team morale 
+remains high, and the team's ab ility to work well with each oth er also remains high. 
+So what about the feasibility of moving the entire team to a di fferent floor? That may be something to 
+consider as well. As to whether t he entire team could be reloca ted from the third floor to the first floor. 
+And some of the people on the first floor could be located to t he third floor, because they may not have 
+someone who needs the reasonable accommodation that Becca has r equested. So, again, what kind of 
+hardship would this be to the company, to engage in the analysi s of move this group of people this way, 
+this group of people that way? 
+As risk, that's going to be one  of your jobs. And one of the va lue adds you have to the company is how do 
+you balance the company's needs with Becca's needs?  
+16 Now, what if the company declines Becca's request, because they  just don't believe that she needs it? Or 
+they don't believe that they're going to be able to rearrange t he space on the first floor? Or they don't 
+believe that there's any way to m ove the entire team from the t hird floor to the first floor and move a team 
+from the first floor to the third floor? 
+And you find out a month later that Becca actually did engage i n a triathlon. She placed second in her age 
+group. She was very proud. Her team members were very proud of her. It's common knowledge 
+throughout the company that she ran the triathlon. She placed s econd. And she has described her 
+experience to many people. 
+And she meets with HR that same month and says, I'm making a co mplaint that I believe I'm being treated 
+differently at work due to my  disability. Because she still has n't been accommodated. She's still having to 
+go up and down those steps. And she's still feeling that she ne eds a reasonable accommodation in order to 
+be able to perform her work. Is Becca's making a complaint to H R a red, yellow, or green situation? In 
+other words, is the conduct she' s describing, as far as feeling  treated differently, a moment where you say, 
+stop, we need to address Becca's complaint? Yellow, not sure. O r green, no problem, we don't need to 
+address her complaint. 
+So, if you picked red, and you said, stop, we need to make sure  that we're considering balancing the 
+company's needs with Becca's need for a reasonable accommodatio n, think you've picked the right 
+category. Because even though we are probably a little distract ed by the fact that she did very well in her 
+triathlon-- she placed second in h er age group-- it doesn't mea n that she can regularly go up and down 
+three flights of stairs. She's asking again to be accommodated at work due to an obvious disability. So, in 
+this particular case, as risk man agement, you're looking at pro tecting the company's bottom line. 
+And let's think about a disabled Gulf veteran who's asking simp ly to have her desk moved in front of a 
+jury. We have a sympathetic pla intiff. We have someone who the jury is probably going to admire and 
+respect. And the fact that she ra n a triathlon and placed secon d is probably something they're going to 
+commend her for, as compared to say, well, if you could do that , you can get up and down three flights of 
+stairs. 
+So this is the type of situation where risk management needs to  be involved. And they need to be asking 
+HR, and asking the company in g eneral, how can we help Becca an d balance the needs of the company at 
+the same time? 
+If you picked yellow, you're proba bly wondering, well, she plac ed second in the triathlon. What are we 
+going to do? She placed second, s o why can't she go up and down  three flights of stairs? Well, we don't 
+know. And we don't actually get to decide that for Becca. Becca  is telling us, I am having a problem. I'm a 
+qualified individual with a di sability. I need an accommodation  to be able to do my job. 
+And we don't necessarily need to c onsider what she's doing outs ide of work, or whether that triathlon 
+impacts her ability to go up and down three flights of stairs r egularly, because even though a triathlon 
+involves running, doesn't involve running up and down stairs. S o the people who picked yellow probably 
+wanted to know a little bit more i nformation about why it is th at Becca continues to feel that a reasonable 
+accommodation will help her do he r work better, and how it is t hat that accommodation is necessary 
+because of her ability or inabilit y to walk up and down three f lights of stairs. 
+So if you picked green, I have no doubt you were focused on Bec ca's second place finish in a triathlon. 
+And you were continuing to hold onto the belief that if she can  run a triathlon, she can go up and down 
+three flights of stairs. Again , that's not a decision that we n ecessarily get to make. We're not Becca. We're 
+not the person who has a disab ility who is asking for a reasona ble accommodation to do her work. 
+We aren't the ones who have said, I really do need this. I don' t understand why I can't have a desk 
+elsewhere, and why it's that big of a deal for the company to p rovide her a desk on the bottom floor and 
+engage in team meetings-- whic h are not that frequent-- on the bottom floor when she asks for it.  
+17 So, how do you as a risk manager get involved in protecting the  company in a situation such as this? 
+Well, let's start with the basi cs. As risk management, you're u sually in charge of facilities management. 
+Did you think about trying to force the issue of getting the el evator fixed? Or start off with that very basic 
+issue of maybe that'll solve the problem all the way around. 
+And you won't have to worry about, well, how do we keep the tea m intact? And how do we deal with the 
+logistics of moving an entire team from the third floor to the first floor-- if that's the decision that's made-- 
+and displacing a team from the first floor to the third floor? Or how you deal with webinars, and how you 
+deal with Skype, and how you deal with other video conferencing ? 
+So these are the sort of basic issues that you want to look at and say, is there a simp le solution that goes 
+beyond having to engage in the interactive dialogue, and doing a whole lot of rigmarole to make sure that 
+a qualified individual with a di sability gets what they need to  perform their job? So if it's going to be too 
+expensive for this year's bu dget to necessarily fix the elevato r, then you want to get involved in protecting 
+the company to say, well, let's  work with Becca. Let's see what  it is she needs. Let's see if we can reduce 
+the amount of time she has to go up and down the stairs. 
+Why is it she has to go up and down the stairs regularly? Is sh e OK with going up and down the stairs 
+once to get to work, once to leave work? Has anybody had this c onversation with Becca, to find out what 
+exactly it is that she needs, a nd how it is that you or the com pany can look at her and say, how can we 
+help you, and mean it, and make it happen.  
+18 Chapter 6 
+Pregnancy Discrimination 
+Pregnancy Discrimination 
+Let's talk about another protected category, pregnancy. Title V II was amended to prohibit sex 
+discrimination on the basis of pregnancy. So we have the Pregna ncy Discrimination Act. 
+The terms because of sex, or on the basis of sex, include, but are not limited to, because of or on the basis 
+of pregnancy, childbirth, or re lated medical conditions; and wo men affected by pregnancy, childbirth, or 
+related medical conditions shall be treated the same for all em ployment related purposes, including 
+receipt of benefits under fringe b enefit programs, as other per sons not so affected but similar in their 
+ability or inability to work. A nd nothing in the act necessaril y shall be interpreted to permit otherwise. So 
+pregnancy is pretty much a but f or standard, in that but for th e pregnancy, the decisions wouldn't be made. 
+So now we're going to take a look at a scenario involving pregn ancy. 
+Let's talk about Mindy. She's an employee who works in the ware house as a picker gather, gathering 
+items for packages. She announces to  her team that she is three  months pregnant, and she's excited to be 
+having a Christmas baby. She r eassured her coworkers that she'd  be back to work early in the new year. 
+Mindy's always been a reliable employee, hardworking, and very encouraging to her coworkers. But she's 
+also not afraid to call someone out when they're not pulling th eir weight. The company had been 
+internally looking at options to give Mindy training opportunit ies in order to promote her to a team leader 
+supervisory position. Again, she 's impressed both her colleague s and management. 
+With Mindy's announcement that she's due to give birth during t he busiest time of the  year, the Christmas 
+holiday, the company gives the team lead supervisory position t o Fred, a longtime employee who has 
+repeatedly expressed interest in  making advancements in his car eer with the company. Is the company's 
+offer of the job to Fred a red stop moment, a yellow maybe it's  OK, or green a no problem moment? 
+If you picked red, you were probably focused on the fact that M indy seemed to be well regarded, that the 
+company had clearly been grooming her for a supervisory positio n, and that it seemed like her 
+announcement that she'd be giving birth during the busy holiday  season impacted their decision to not 
+promote her and instead promote Fred. So this is the sort of de cision that risk management should 
+probably be involved in to be abl e to ensure that not only will  the needs during the busy holiday season be 
+met, but whether they have the right team leader in place. 
+If you picked yellow, you probably wanted to know more informat ion about Fred. We heard a lot about 
+Mindy. We heard that she was reliable, hardworking, and well re spected not only by colleagues but by 
+management. But we don't know  a whole lot about Fred. 
+We know he's a long-term employee. We know he's expressed an in terest in having a promotion, but do 
+we know how he's regarded by ot her people? Do we know that he h as the respect of his colleagues and 
+management like Mindy does? And you probably want to know more about that before you say yeah, 
+don't think it was a good idea to promote Fred, or a no, Fred w as a fine candidate. He's the right man for 
+the job. 
+If you picked green, you're probably thinking it's not a proble m. Fred is a long-term employee who 
+repeatedly expressed interest. If the company thought he was qu alified, then he's qualified.  
+19 They made a decision based on the needs of the company. But we still have to consider whether that 
+decision was made because Mindy w on't be there during the busy holiday season, or whether Fred was 
+truly the best person for the job. So that's still to be a caut ionary note to picking green in this particular 
+situation. 
+As a risk manager, what do you want to know about the company's  decision to pick Fred for the position 
+instead of Mindy? Do you want t o know about Fred's managerial s kills? Do you want to know about his 
+people skills in general? Do yo u want to know how he is thought  of with his coworkers? Do you want to 
+know if he's had decision-making ability in the past? Do you wa nt to know whether he has good rapport 
+with the team that he's going to be leading? 
+Do you want to have a better idea as to how he and Mindy get al ong? Do you want to know whether that 
+department runs well because of F red's contributi ons, Mindy's c ontributions, or the entire team's 
+contributions? Those are the thi ngs you really want to have an opportunity to explore as risk management, 
+because together with HR, you can a lso decide how to best make sure the departments  are appropriately 
+staffed. 
+Now, would you have a different opinion as to the risk to the c ompany if you learned that the team that 
+decided to give the job to Fred had made the following comments  to Mindy after her announcement of her 
+Christmas baby? Mindy's supervisor stated to her in a staff mee ting that Mindy will never be able return 
+to her job and leave her baby on ce that baby is placed in her a rms. Mindy's area manager, Alice, tells 
+Mindy at lunch that babies need their mommy, and Mindy should c onsider staying home for a while. 
+How are you feeling about the promotion for Fred at this point?  Are you still feeling that that's a red 
+moment, a yellow moment, or a green moment that Fred was promot ed over Mindy based on these recent 
+comments from management? 
+Now if you picked red, and that you said OK this is a stop mome nt, this is we really don't need to think a 
+whole lot about Fred at this point, because now we're concerned  about these pregnancy-specific 
+comments that were made to Mindy . Does this put Mindy in a posi tion that she has a pregnancy 
+discrimination claim? That but f or her pregnancy, would she hav e been promoted? Wou ld she have been 
+given the team lead position? 
+So if you're in the red position of saying no, no, no, no, no, we shouldn't have Fred at this point in a 
+leadership position over Mindy based on the fact that her super visor, and her area manager, two people in 
+a position to adversely affect Mindy's employment, not coworker s, commented to her about the fact that 
+moms shouldn't be at work. 
+If you picked yellow, you probably went well, Alice told her th is at lunch. They were at a social 
+engagement. It wasn't necessarily related to work, and Alice wa s just sharing her personal opinion. 
+But how do you feel about Mindy's supervisor at a staff meeting  commenting that her opinion is Mindy 
+won't be back because once she sees that baby, she's not going back to work? You're probably wanting to 
+know a little bit more about whether  that supervisor has said o ther comments in the past, particularly in a 
+on the site, work context at a staff meeting. 
+And if you said green, this still isn't a problem, you're not w orried about it. You might want to reconsider 
+what the risks are, considering these were pregnancy-specific c omments made to a pregnant employee 
+about her future career at the company.  
+20 Chapter 7 
+Age Discrimination in Employment Act (ADEA) 
+Age Discrimination in Employment Act (ADEA) 
+Anyone over the age of 40 in the  United States is covered by th e Age Discrimination and Employment 
+Act. This is an act that provides you with the ability to have the same opportunities as someone who's 39 
+or under. That your age should not  be a factor in considering w hether you have employment 
+opportunities, promotion opportunities, or anything related to how the workplace treats you as someone 
+who's over the age of 40. 
+The ADEA was passed in 1967 . And it protects applicants and em ployees 40 years of age from 
+discrimination on the basis of their age in hiring, promotion, discharge, compensation, or terms, 
+conditions, or privileges of employment. And that one is the on e that really gets tricky. Because a lot of 
+times there can be ageist comments made in the workplace that d on't necessarily adversely impact 
+someone's employment, but still may cause someone to feel as if  they're working in a hostile 
+environment, and that their age is the reason that people are t reating them differently. 
+The ADEA, like many of the issues we've talked about previously  with Title VII and the Pregnancy 
+Discrimination Act, and the Americans with Disability Act, are enforced by the EEOC. So if you have 
+someone who believes they've been  treated differently on the ba sis of their age, you can expect an EEOC 
+charge .  
+So let's talk about an age-related scenario in the workplace. J erry's been with your co mpany for 30 years. 
+And he's turning 60 that same month. So Jerry's department plan s a surprise party to celebrate his 30th 
+work anniversary and his 60th birthday. And they invited the en tire company to attend. Jerry's actually 
+very popular. He's been a very g ood manager. People enjoy worki ng with him. And people are actually 
+delighted to have a chance to celebrate his contributions to th e company.  
+Jerry's very surprised when he w alks into the break room and se es his many coworkers there with black 
+balloons and a large black cape that says "Over the Hill" on it , with scattered candy tombstones on the 
+cake. Is this a red moment, a y ellow moment, or a green moment?  Should we stop and say, this should not 
+be happening? Is this a, well, m aybe? Or is this a green, it's all good moment?  
+So let's talk about red. There's a lot of people who are not co mfortable with aging. They're not particularly 
+happy to be celebrating birthdays showing I'm getting older. Bu t in this particular case, do we know how 
+Jerry feels? And that impacts tha t ability to say, is this a st op moment?  
+But let's also take it that step further. Many coworkers were t here. They were there to celebrate Jerry and 
+his contributions to the company as well as his birthday. Maybe  some of them were uncomfortable with 
+the black balloons, and the over the hill, and the tombstones t heme. Maybe some of them will say, I feel 
+uncomfortable, and I feel that my age was necessarily impacted as far as being treated differently because 
+I'm older. So even if Jerry wasn't necessarily offended, maybe somebody who attended was. And that may 
+turn this into a red moment.  
+  
+21 If you picked yellow, you probabl y wanted to know more about Je rry and whether this is the type of thing 
+that he would welcome, and find funny, and find just a happy mo ment in, because all of his coworkers 
+came together. And he's got a sense of humor, so the over the h ill cake didn't bother him. What about the 
+corporate culture? Is this the kind of company that regularly c elebrates birthdays in this way, and that 
+people enjoy each other's company ? And it's beyond, just go to the break room, there's a free piece of 
+cake. As compared to, let's celebrate the fact that this is our  friend. This is our colleague. This is our 
+coworker. And that we know Jerry has a sense of humor. And so w e all enjoyed getting together and 
+finding the various items, such as the black balloons, and the over the hill cake, and the candy 
+tombstones.  
+Now if you picked green, it's pr obably because you work in a co rporate culture where this type of thing is 
+completely acceptable. Everyone seems to enjoy it. Everyone see ms to partake in it. There doesn't seem to 
+be anyone who is offended by it. But just be careful. Because a t some point, Pandora's box is opened, and 
+it can't be closed. So that noti on of where the line is-- maybe  the over the hill caused someone to feel a 
+little uncomfortable. Because they're approaching an age they m ay not be comfortable with. But if you 
+picked green, it's probably because you're looking at this and thinking, Jerry is fine with it. In our 
+corporate culture, we're fine w ith it. Everyone enjoys in the f un. So what would be the problem?  
+So let's talk about what might be the problem. Do we know how J erry feels? And is Jerry the only one 
+whose feelings matter? Absolutely not. So even if Jerry thought  this was great, and he had no issues with 
+it, there may be other people in the company who feel that this  was ageist. There may be other people in 
+the company who feel that black balloons indicating that gettin g older means death is not something 
+they're comfortable with. So tho se are the things as risk manag ers we need to keep involved. Because it's 
+not always so simple as saying, o h, lighten up. Have a sense of  humor. When you have age directly being 
+targeted, which you do with an ove r the hill cake, someone may have a concern and feel as if they don't 
+have as much value as somebody who isn't over the hill.  
+So let's take the scenario a step further. At the party, a long time coworker of Jerry's, Marcy, tells a joke to 
+the crowd starting with, "Well, back when Jerry started here, t he dinosaurs roamed the Earth." It's corny. 
+It's a little cheeseball. But it got a laugh. Alan follows Marc y's joke with, "For Jerry, these days an all-
+nighter means not getting out of be d to pee." Again, it's corny . Jerry laughed. It didn't seem to be a 
+problem. Then Nilda jumps up and says, "Jerry, these days getti ng a little action means your morning 
+dose of Metamucil worked."  
+So are these jokes a red moment-- stop, shouldn't be happening- - a yellow moment-- well, maybe-- or a 
+green moment-- not a problem?  
+So if you picked red, you proba bly had a reaction to these are definitely jokes based on age. And you're 
+not comfortable with the ageis t jokes. Because you're looking a t Jerry, and you're thinking, he looks like a 
+fit, happy, active guy. These jokes don't seem appropriate. Or maybe you're looking at the faces of other 
+people in the room who are doing  the polite laugh and not neces sarily engaging in true joy at the moment, 
+as compared to, I'm going to go along with it. So the red momen t here is these are definitely age-related 
+jokes. So even if Jerry's comfo rtable with it, doesn't mean eve rybody else is.  
+So if you picked yellow, you again are probably focused on, wel l, she said Jerry laughed. So if Jerry's OK 
+with it, and everyone else seems to be OK with it-- and these a re his coworkers making these age jokes-- 
+well, why is it a problem? Maybe it isn't. So that's why you we nt with yellow. Let's go back to the 
+perception of the person who's offended is what matters, not th e intent of Alan, Marcy, or Nilda. They 
+may have been perfectly comfort able, and they thought Jerry wou ld appreciate the jokes, and that they've 
+known each other for a long time, a nd this is the sort of thing  that they have no pr oblem with as far as 
+engaging in this way with each o ther. It doesn't mean that the many other coworkers who attend the party 
+are comfortable with these age-related jokes.   
+22 So green. If you pick green, you probably, again, have a corpor ate culture, or you're familiar with these 
+type of parties, and these type o f black balloons, and over the  hill cakes, and you think, have a sense of 
+humor. It's not a problem. Again, it's not a problem until it's  a problem. And in this case, you may upset 
+somebody in the room who's not dealing well with aging, and who  says, I didn't like the jokes. I didn't 
+think they were funny. I didn' t think that just because Jerry t urned 60 that all of a sudden he has all these 
+physical problems that we need to be talking about. So green in  this case is probably not going to be your 
+best choice. But again, it could be a culture issue. But even w ith a culture issue, i f you have someone 
+who's offended, you may end up with a complaint. And you may en d up with HR involved.  
+So let's go back to, do we rea lly know how Jerry feels? And aga in, is Jerry the only one whose feelings 
+matter? Since we don't know how Jerry feels-- we know he laughe d. We know he had a moment or two 
+where he enjoyed the camarader ie. And he enjoyed the silliness.  But did he do the polite, yeah, I'll laugh, 
+but it really didn't make me happy. And I didn't like having my  age poked fun at. We don't know in this 
+particular scenario. But we also don't know, was Jerry the only  one who necessarily had to have his 
+feelings considered? No. We had ma ny coworkers at the party. An d they may not have been comfortable 
+with the ageist jokes. Or maybe they were. And that's this sort  of thing, unfortunately, we find out after 
+the fact.  
+So let's say, as the risk manager, what would you do if one of Jerry's coworkers had reached out to you to 
+assist with the party planning? W ould that be a red, oh no, I w on't get involved? Yellow, maybe? Or 
+green, absolutely, I love Jerry, moment?  
+So if you picked red, you probably were erring on the side of c aution in that, whatever's going to happen, 
+I don't want management to be a part of it moment. And that's p robably the safe way to go. At the same 
+time, maybe you've known Jerry f or a long time. And you want to  be involved in the party planning. But 
+this is also one of those moment s where maybe you get some othe r people involved as well to make sure 
+that everyone's feeling comfor table with the plans. Because 30 years is something that definitely deserves 
+a little respect and a little honor.  
+Now if you picked yellow, because as the risk manager you were trying to weigh, well, I really like Jerry. 
+I'd like to help with the party planning. Maybe if I was involv ed, things wouldn't get out of hand. But 
+even if you were involved, we had black balloons. We had a blac k cake, over the hill, and tombstone 
+candy. So this was still a moment  where you were probably gaugi ng, but in my culture, people like Jerry 
+would think this was funny. Most of us would think it was funny . And so we're going to go with that. 
+Again, just be prepared. There 's still probably a risk. And as the risk manager, as a member of the 
+management team, you being invol ved could put a stamp of approv al that the company is necessarily 
+engaging in age-related conduct.  
+So if you picked green, you're probably saying, what's the prob lem? Jerry has been with us a long time. I 
+know Jerry as a risk manager. I'm going to participate in the p arty, because I know he'd appreciate having 
+a good party thrown. Thirty years of service is something we ne ed to honor. But again, that notion of as 
+the risk manager you are a memb er of management. So unlike a co worker, unlike Marcy, and Allen, and 
+Nilda, you're actually management. And so what you do can neces sarily bind the company. So that's a 
+little bit of caution on being invo lved in party planning where  you know a protected category is going to 
+be front and center as far as the theme of the party.  
+Now, would you change your mind if Jerry had been a mentor to y ou in your early days at the company? 
+And you knew he had a great sense of humor? And you knew he'd e ngaged in this kind of humor with his 
+colleagues, this banter with his colleagues? And that he would have no problem at all with the black 
+balloons, the cake, and the tombst one candy? Is that a red, yel low, or green moment based on the fact that 
+Jerry was your mentor? Red, doesn 't matter if he's my mentor. S till not going to do it . Yellow, well, 
+maybe that mentor puts me in a different position. Or green, ye ah, it's my mentor. I'd certainly do it.   
+23 Let's go with red. He may have b een your mentor. He may have a great sense of humor. But you're 
+management. And as management, your actions bind the company. S o even though Jerry may have a 
+great sense of humor, and he loved every minute of it, and he w asn't offended in any w ay, does that mean 
+that somebody else who was 64, or somebody else who is 50, or s omeone else who just turned 40 may not 
+have been offended by the focus on the age and the age-related jokes? So as management, we still need to 
+keep that in mind.  
+Now if you picked yellow, you were probably trying to weigh you r relationship with Jerry to your duties 
+to the company as a manager. And even though Jerry's been your mentor, and even though you know he's 
+had a great sense of humor for years, you're still management. It still may be problematic later to say, yes, 
+as manager, even though he's b een my mentor, and even though I know he had no problem with it, I 
+participated in an event that was directly related to his age. And even though we're also celebrating the 
+fact that he has 30 years of service with the company, it seeme d as if the 60th birthday took over with the 
+over the hill cake.  
+Now if you picked green, you're obviously focusing on your clos e relationship with Je rry and his being a 
+mentor to you. And you want to be able to honor it in a way tha t you know Jerry would appreciate. That 
+he has a great sense of humor. That he would enjoy every minute  of this. But let's go back to the fact that 
+you're a manager. And your conduct binds the company. So as a m anager, you still need to have a sense 
+of caution about participating in an event that is obviously fo cusing on age. 
+ 
+ 
+     
+ 
+    
+ 
+     24 Chapter 8 
+Family and Medical Leave Act (FMLA) 
+Family and Medical Leave Act (FMLA) 
+Let's talk about the Family Medical Leave Act, wh ich can be the bane of the existence of many in HR and 
+risk manager. It's difficult to apply the act because of the 12 weeks of leave and necessarily how it starts 
+and how it ends, and to balance these of the company during tha t time. But the FMLA exists fo r man y 
+purposes. 
+It provid es certain employees with up to 12 weeks of unpaid, jo b-protected leave per year. It also req uires 
+their group health b enefits to be maintained during that leave. So employees are eligib le for FMLA leave 
+if they've worked for their empl oyer at least 12 months an d at least 1,250 h ours over the past 12 months 
+prior to  the request for leave,  and they w ork in a location whe re the compan y emplo ys 50 or more 
+emplo yees with in 75 miles. So those are your p arameters.  
+Whether an employee has worked the minimum 1,250 hours of servi ce is d etermined acco rding to  FLSA 
+principles, that Fair Labor Standards Act, for determining  compensable hours of work. So the FMLA 
+applies to public agencies, all public an d priv ate employers, and secondary scho ols and co mpanies with 
+50 or more employees. So if you don't have 50 employees, this d oesn't apply to you. But if you do have 
+50 emplo yees, this d efinitely will ap ply to you.  
+So employers in this particular circumsta nce must provid e an el igible employee with up to 12 weeks of 
+unpaid leave each year. And again, you get to define the y ear, whether it's a rolling year or calendar year, 
+look forward or look back, for any of the following  reasons-- for the birth and care of a newborn child of 
+an employee, fo r placement with the employee of a child for adoption or foster care, to care for an 
+immediate family m ember, spouse, child, or parent-- it's very i mportant. Notice sibling isn't necessarily 
+mentioned-- spouse, child , or parent with a serious health cond ition.   
+And it can be a person  who stands in loco parentis-- in other w ords, someone wh o served as the parent. 
+An aunt or a grandparent can sometimes serve as the parent. In  that case, they become an immediate 
+family m ember. Or to take medical leave when the employee is un able to work becau se of a serious 
+health condition of their own. That's probably the most common. There's also some leave for military 
+status and military care and th ings like that.  
+So workers comp leave, ADA, and FMLA tend  to intersect a lot. A nd it's usu ally not just one, but a 
+combination of more than one t hing. So let's talk about a scena rio. We're going to go back to  Mindy to do 
+that.  
+We're goin g to add some facts to Mindy's situatio n. She's been with the company for six years prior to 
+announcing her pregnancy. She' s eligible for FMLA, and sh e requests the full 12 weeks at the FMLA 
+leave. Her docto r completes th e necessary FMLA paperwork for the full 12 weeks of FMLA leave.  
+Keep  in min d for the birth of a child , it's not just the childb irth, but also wh at they call play with the b aby 
+time-- in  other wo rds, bon ding time.  So she has th e full 12 wee ks of leave. Her docto r has said  she needs 
+it. An d she's scheduled for her l eave starting on December 1st.  Because remember, she is excited to have 
+that Christmas baby.   
+25 On November 20th, Mindy has a work injury. She did nothing wron g. Certain boxes weren't stacked 
+properly. And when she went to pick an item out of the box, the  entire box tipped, and the items fell on 
+her, and she fell down on the fl oor. She sprained her ankle, sp rained her wrist, and had contusions on her 
+right knee and hip.  
+As Ms. Risk Manager, you were ma de aware of the accident, and y ou're a bit concerned, knowing that 
+Mindy is eight months pregnant . You personally engaged with the  adjuster via phone on November 24, 
+and the adjuster tells you that she wants to send Mindy for a C T scan.  
+Mindy has told the adjuster not  just no, but emphatically no, n o, no. She will not go for a CT scan. She 
+feels really uncomfortable because she is very pregnant. And ev en though the doctor has not provided 
+Mindy, to date, with a no-return-to-work slip, Mindy hasn't com e back to work since November 20th, the 
+date of her accident.  
+So a lot of things to consider here, but we're going to break i t down a bit. How do you deal with Mindy's 
+return to work-- the fact that sh e hasn't come back to work sin ce November 20th, she doesn't necessarily 
+have PTO time left. She's used it up during her pregnancy. She' s supposed to be going on FMLA leave on 
+December 1, and she's had a workplace accident where she's refu sing treatment.  
+So again, we're breaking this dow n to the return to work. She's  not willing to come back to work, and the 
+doctor hasn't yet provided her with a no-return-to-work slip be cause she hasn't gone for the CT scan. So in 
+thinking about all of these things  at once, as the risk manager , how do you respond to Mindy's conduct?  
+Do you keep her employed? Do you tell her she can't come back t o work? Do you tell her she's violated 
+company policy by refusing to work and that she's terminated?  
+So if you believe that Mindy's return to work and her refusal t o return to work is a stop moment, that she 
+is violating company policy, and you're going to fire her, we'r e going to tell you to pick red. If you're not 
+sure what to do, because we have so many different things inter secting, we're going to tell you yellow. 
+And if you're looking at it and saying, I'm just not going to s ee this as a problem in any way, she's 
+pregnant, of course she doesn't w ant a CT scan, no issues at al l, I want you to pick green.  
+So for those of you who picked red, you're focusing on the fact  that she's had a work comp injury. She's 
+not returned to work without an y excuse from a doctor saying sh e shouldn't be at work. You're focused on 
+the company policies, which say  no show, no call means you're t erminated.  
+But think of how many protected categories we have here. We hav e pregnancy. We have a work comp 
+injury, and we have the fact that  FMLA leave is scheduled in da ys. So you're looking at the potential for 
+pregnancy discrimination claim . You're looking for the potentia l for a work comp retaliation claim. And 
+you're also looking for the poten tial of a FMLA interference cl aim.  
+That's called a lot of zeroes. And that's also called a lot of risk for your company. So this is the time 
+where you may not want to n ecessarily take that hard line. You call in a team, you consider what's going 
+on, and you consider all of your options as well as your risks.   
+So if you picked yellow, you're not really sure what to do. I d on't blame you. This is usually a call a 
+lawyer moment. At the same time, you're an experienced risk man ager. You've got a team behind you.  
+Gather that team together. Talk about how do we address this. I  think everyone can agree that Mindy is 
+probably being very cautious in saying I don't want to hurt the  baby, I'm not doing a CT scan. I haven't 
+necessarily read a whole lot of information that makes me feel comfortable that I should be doing this at 
+eight months pregnant.  
+And you also consult Dr. Google, and you find out that, yeah, i t's probably not a good idea to necessarily 
+be having a CT scan when her accident was what? Sprains and bru ises. Now, again, we all know that can 
+get a whole lot worse. But this is definitely a caution moment,  so I don't blame you for saying maybe I 
+need a little bit more information before I make a decision.   
+26 So when you're looking at green and you're saying, no problem, we're not going to deal with this at all, 
+we're just going to let December 1st get here, we're going to j ust have no pay for that time period, and 
+we're going to let her go quietly on her FMLA leave, and we'll let the adjuster continue to do their work 
+on the workers comp side and let them know she's very pregnant and really does not feel that it's 
+appropriate to have a CT scan.  
+So as risk manager, how do yo u necessarily respond to Mindy's c onduct of saying I'm not doing this, I'm 
+not doing this, and her not returning to work? Do you call her?  Do you call the adjuster? How do you 
+necessarily deal with that?  
+Well, there's more than one way t o consider how to approach Min dy. But think about this. She's excited. 
+She's having a baby. And then she  has a work accident that she didn't cause. You heard in our scenario 
+she did nothing to make this happen.  
+So she's probably feeling scared . She's probably feeling uncert ain. She's probably worried about her 
+employment. She's worried about her job. And she's probably foc used on the fact that-- come on, I've got 
+FMLA leave in less than this many  days. Can we just get me ther e?  
+So let's talk about just getting Mindy there. Knowing that Mind y had FMLA leave planned in less than 
+two weeks from the date of her accident, you're looking at her PTO, you see she's exhausted all of the 
+leave available to her other tha n that FMLA leave that's coming  up because she had some serious 
+pregnancy-related absences and issues. She had a few issues tha t required her to be away. And again, she 
+was being cautious and making sure she was taking care of her b aby.  
+Now, the company's handbook actually says that without having a ccrued leave, having three days off will 
+result in termination. Would you t erminate Mindy on November 24 th? Because that would be her third 
+day off without a doctor's note and without having the leave th at the company says sh e has to have to be 
+off.  
+So is this a red moment of no, no, no, no, we don't terminate M indy, a yellow moment of not sure, or a 
+green moment of yeah, employee handbook says we terminate?  
+So if you picked red, saying no, no, no, no, no, I'm too worrie d about those three protected categories of 
+she's pregnant, she had a work comp injury, and she also has FM LA leave coming up-- even though the 
+handbook says you're going to be terminated, you might want to talk to HR about having a little bit more 
+wiggle room in that language in the future. Because you don't w ant to necessarily have an automatic 
+termination.  
+Because think of the situation we just talked about. These thin gs happen in real life. And so do you really 
+want to terminate an employee who's been very good for you, who  has been a value to not only to the 
+team but the company , on November 24th simply because she no lo nger has three days of PTO because of 
+pregnancy-related complications?  
+So let's take a look at yellow. If you picked yellow, you proba bly did it because, well, the handbook says 
+it. But you feel very uncomfort able, because you remember Mindy  was a valued employee by both her 
+teammates and management. You're w orried that she's pregnant wi th work comp injury on FMLA leave.  
+So even though the handbook says that, you're not quite sure th at you want to necessarily enforce that 
+handbook policy. So you're, again, going to look at maybe we ne ed to soften how that policy is written. 
+Because, of course, the ADA could also require you to have addi tional days off.  
+So those of you that said green-- she's terminated, handbook sa ys it, we follow the policy-- that can be 
+risky business, simply because following a policy without think ing about the various laws that impact that 
+particular employee and the pr otected category won't necessaril y put you into a defensible position in any 
+litigation or in any EEOC charge.   
+27 Because let's go back to that whole notion of reasonable accomm odation, and let's go back to the 
+Pregnancy Discrimination Act. And Mindy just had a work comp ac cident. So even though there's no 
+guaranteed protected leave, like under the FMLA for work comp a ccident, what kind of an employer are 
+you going to look like that when someone has an injury and they 're eight months pregnant, that you 
+terminate them within three days  of having the injury? That wil l definitely lead you not only to several 
+lawsuits, but probably a re taliation lawsuit as well.  
+One other thing I want to remind you of in this particular scen ario is possibly the ADA. We don't know if 
+Mindy has any other issues that she's never made us aware of, p erhaps. But keep this in mind. The ADA 
+says leave can be a reasonable accommodation.  
+Now, is work comp leave protect ed? No, it's not. But we also ha ve the notion of pregnancy-related leave 
+can be protected. So the fact that she was pregnant when she ha d the work comp injury may come into 
+play.  
+So let's say the company makes th e prudent and risk-averse deci sion to provide Mindy with unpaid leave 
+starting on November 21st until her FMLA leave on December 1st kicks in. And let's say that instead of 
+addressing any promotions prior t o Mindy's FMLA leave, during h er leave, Fred is actually promoted.  
+Fred engages in some department reorganization as soon as he's promoted to that team lead position, and 
+it's decided that Mindy's position will be eliminated in that d epartment. Is Fred's decision to eliminate 
+Mindy's position while she's out on FMLA leave a red, yellow, o r green moment?  
+So if you pick red, a stop-- no, Fred should not be terminating  Mindy while she's out on FMLA leave, 
+you're probably focused on the fact that during leave, that emp loyee is protected. In other words, when 
+they come back, they're supposed to return to the same or a sim ilar position.  
+However, Fred engaged a reorgani zation. He didn't just pick Min dy out because she was on FMLA leave 
+or because she had recently given  birth. He picked her out beca use he reorganized the department and 
+said we simply don't need her position. Is that defensible?  
+Well, I guess that depends on wh at the company's corporate reco rds look like. Is it necessarily a decision 
+that you want Fred making while she's out on leave? Probably no t. But it still may be-- look, we've been 
+losing money in this department for the past year and a half. T his is what we need to do to be able to 
+return the company to a positive revenue position. But again, i s that going to stop the lawsuit from 
+coming? Probably not.  
+So those of you who picked yellow, again, were being cautious. You wanted to make sure that, well, why 
+did Fred pick her position for elimination? Because back when w e said Mindy was well-liked, Mindy was 
+being considered for that promo tion. And during her leave, they  promote Fred.  
+So you've got a moment where you really want more information. You want to know about Fred's 
+background, what his personnel f ile looks like, how he's though t of by colleagues, and whether, in this 
+case, he is the better candidate than Mindy.  
+So if you picked green, you're like, you know what, reorganizat ions happen all the time. They didn't select 
+Mindy on purpose. They simply selected her position. And even t hough she's on FMLA leave, she's not 
+protected from the company doing a reorganization, which would be true. But it's still something that you 
+might want to think about before you just jump off a cliff and say it's not going to be a problem.  
+How many protected categories does Mindy have? She has pregnanc y, she has a work comp injury, and 
+now she has an FMLA issue where, during her leave, an adverse e mployment decision impacted her. So 
+could she say it's because she took leave? She certainly could allege that.  
+So as a risk manager, what do you need to know was done to defe nd the decision for the reorganization 
+and to make sure that the decision wasn't pregnancy, work comp injury, or FMLA leave related? Well, 
+you're certainly going to want to look at personnel files.   
+28 You're certainly going to want to  look at whether there was a p ossibility, possibly, for Mindy to switch to 
+another job, whether there was a possibility that Fred may have  been promoted simply because Mindy 
+wasn't there. These are all thi ngs, as risk manager, you want t o work with HR to have an opportunity to 
+explore to better put the company in a position where they will  be able to be in a defensible position and 
+be able to have that very difficult conversation with Mindy whe n she comes back.  
+What if, instead of terminating Mindy during her FMLA leave, th ey say although your position has been 
+eliminated, there is a job opening in another department where you'll make the same wages, but it's a 
+night shift position? Is moving Mi ndy to a night shift position  a red stop moment, a yellow-- maybe it will 
+be OK, or a green no problem moment?  
+Well, if you picked red, you're probably worried about the fact  that there is a big difference between a day 
+shift position and a night shift position. And there are times when moving someone from day shift to 
+night shift can be perceived as retaliatory, and it's a way to rather force somebody to quit.  
+Particularly in light of the fact that we all know Mindy is hav ing a baby-- so finding a babysitter who will 
+necessarily cover the night shift is going to be even harder. A nd we hear that complaint a lot from people 
+who are on the night shift. So this is probably a caution momen t and a stop moment where you say, yeah, 
+even though it's the same job, b asically with the same wages, t hat night shift position makes it 
+problematic.  
+So if you picked yellow, you probably did it going, well, maybe  Mindy wants the night shift. Maybe the 
+fact that she has someone who can  care for her child at night a  whole lot easier for her, and that she has 
+always wanted night shift. But do we know that? We don't know t hat without knowing what Mindy 
+wants. But that may be what you' re thinking. Well, let's find o ut what Mindy wants before we say we 
+should or shouldn't do this.  
+And if you picked green, saying, not a problem, it's the same a mount of money, we're not worried about 
+it, you want to have a moment t o step back here and say what wi ll be the impact of night shift on Mindy 
+where she's always had a day shi ft position. Would this be a mo ment where you look at the FMLA, where 
+you look at pregnancy, and you look at the fact that she had a work comp injury, and you go, yeah, you're 
+trying to force me out the door because you know this won't wor k for me. So green probably isn't going to 
+be your best choice here.  
+So as risk manager, would you have  been involved in the plannin g of the reorganization? I'm certain you 
+would've liked to have been at that table, because you would ha ve had an opportunity to say let's talk 
+about the risk. Let's talk about how much this could impact the  company as far as litigation after the fact, 
+and frankly, possibly losing a v aluable employee, because we've  said many times, Mindy was well 
+respected by both her colleagues and management.  
+What may you have done differen tly if you had been at that tabl e? You may have done a lot of things 
+differently. But at the same time, you have to get yourself inv ited to that table, even if you forced that 
+invitation, to make sure that you're there to say, look, I want  to know why are these decisions being made, 
+how they impact the team, how they impact the organization, and  how I may be able to be involved and 
+interact with all of these parti es so that we can keep the corp orate culture alive and we can keep our 
+culture of compliance alive.  
+Is Mindy protected from change  simply because she's on FMLA lea ve? No. Changes can still happen. But 
+it's better when they are a formal, company-wide reorganization  rather than just Fred and Fred's 
+department, and Fred possibly having an issue with Mindy and wa nting to move her along because she 
+may be better liked than he is.  
+So these are all issues that you and risk management need to ke ep in mind and keep that place at the table 
+so that you can have an opportunity to not only impact the orga nization, but help save the organization as 
+far as a bottom line number and as far as keeping valuable empl oyees.   
+29 Chapter 9 
+Retaliation 
+Retaliation 
+And just when you think it's safe to enter the water again, we' re going to talk about something that can 
+impact you even if you are able to prevail on the underlying cl aim that you didn't discriminate on the 
+basis of race, gender, national origin, religion, pregnancy, ag e. All those categories. 
+It's called retaliation. And retaliation is a separate cause of  action. You can sue for just retaliation. You 
+can sue for having said, I made a complaint. I was treated diff erently after making the complaint, and, 
+therefore, you have retaliated ag ainst me. So there's three ele ments to a retaliation claim. 
+The first is, one, you engage in protected activity. An employe e complains about harassment to the HR 
+department. Two, there's an adve rse action. The employee's demo ted or treated unfairly or treated 
+differently after making the complaint. And this can actually b e interpreted very broadly. And three, there 
+has to be a causal connection. You have to be able to demonstra te as the employee that the treatment was 
+because of the complaint that you made. 
+So retaliation claims are difficult, because they're based on f act, not law . It's harder to get a summary 
+judgment, which is a legal term for saying, we don't have to go  to trial. Because factual issues aren't 
+appropriate for summary judgment. Those go to trial. 
+So let's talk about an adverse action. An adverse action can be  a very slight thing. It's anything an 
+employee perceives as retaliation from the employer. Examples i nclude demotion, pretty easy. Failure to 
+promote, saying, well, but for m e having made a complaint, I wo uld have that job. 
+A lower valuation than the prior year after having made a compl aint. A change in hour s or shift. A change 
+of office or workspace. Change o f title. A change or reduction of job responsibilities so that you become 
+insignificant. Shunning, which is not going out to lunch with c olleagues, not being invited to go out to 
+lunch, not being invited to go to happy hour, not being invited  to go bowling, hunting, fishing, whatever it 
+is. 
+There was even a case where not m aking eye contact regularly wi th the employee in the hallway was 
+viewed as retaliation. Retaliation claims are the largest and f astest-growing employment claim type. So 
+out of the 97,443 charges filed with the EEOC in 2016, 42,018 o f those were retaliation claims. In other 
+words, 45.9 percent of all claims filed the EEOC included retal iation or focused on retaliation. 
+Now retaliation is usually brought in combination with another claim. In other words, I was sexually 
+harassed, I complained about it , they retaliated against me. Re taliation claims are just troubling to have to 
+defend. Because, again, even if t he employer prevails on the fa ct that someone was not sexually harassed, 
+it doesn't mean that they can't say, well, they weren't retalia ted against for having made that complaint. 
+So let's give you an example. A female employee complains of di scrimination after a promotion is given 
+to a less-qualified male. Following the complaint, her hours ch ange from 7:00 a.m. to 3:00 p.m. to the 
+night shift, 11:00 p.m. to 7:00 a.m. The lawsuit asserted discr imination in retaliation. And ultimately, that 
+particular employee lost her discrimination claim, but the reta liation claim was held to be valid.  
+30 So why that's important is that impacts risk management, becaus e attorney's fees are going to be involved. 
+So even though, in a way, they won the battle, they lost the wa r. Because their retaliation claim was going 
+to go forward. And attorney's fees were still going to be an is sue. 
+So let's talk about a workers c ompensation retaliation case. Be cause this is something you're probably 
+going to either see a lot of or experience as a risk manager. S o if an injured worker is fired in close 
+proximity to the workplace accident, the injured worker can hav e an additional cause of action against 
+their employer for workers  compensation retaliation. 
+This is a discrimination cause of action. And why that's really  important is your workers comp policy 
+doesn't cover retaliation. As a matter of fact, it specifically  excludes it. So retaliation cause of action is 
+filed in circuit civil federal court. Because it's retaliation.  It's a discrimination cause of action. 
+Which means unless your client has employment practices liabili ty insurance, there is no insurance for it, 
+and they're going to be paying th e fees for that for both their  lawyer and possibly the other side's, if they 
+lose. So it's really important to keep in mind that anybody who  is looking at terminating an employee 
+within hours-- or frankly, days a nd a few weeks-- of someone ha ving a work comp accident, you're 
+practically inviting a retaliation claim. 
+So let's talk about Mindy again, because we know she already ha d that work comp accident. Mindy is told 
+her position has been eliminated . She's offered that night shif t position, she doesn't accept it. Instead, she 
+tells you as the risk manager-- who's been working with her thr oughout her work comp leave, throughout 
+her FMLA leave-- that she believ es the company views her as a l iability and damaged goods, and she 
+wants to make a formal complaint to HR. 
+You advise HR that Mindy has a concern to share. HR reaches out  to Mindy and conducts an 
+investigation, as they should and as is stated in your company' s employee handbook. And during that 
+investigation, you learn that Fre d was concerned that Mindy was  outshining him. And that he told other 
+employees that he'd get rid of her first chance he had. 
+At the end of the investigation , HR determines that Fred's deci sion had legitimate business reasons behind 
+it, due to the reduction in orders received in that particular department. 
+So is the decision to not provide Mindy with a new job or to sa y that Fred made an inappropriate decision 
+a red moment? In other words, s top, this should not be happenin g. A yellow moment, I still need more 
+information. Or a green moment, not a problem. So let's talk ab out red, the stop moment that Fred should 
+not have been making the decisi on to get rid of Mindy, in light  of the fact that he obviously was a little 
+jealous of her and was telling other employees, I'll fire her a s soon as I have the chance. Those are the sort 
+of things that make for great deposition testimony and great te stimony on the stand at any trial. 
+Because Mindy was a valued emplo yee. Mindy was liked by managem ent coworkers. So the fact that 
+Fred may have been jealous of he r is a problem, because Fred is  male and Mindy is fem ale. But we're also 
+focused here on workers comp ret aliation. We're focused on the fact that she had an accident. And within 
+weeks of having had an accident, she's terminated. 
+Most employers wouldn't keep a poorly performing employee on th e books for months just to avoid a 
+retaliation claim. So most judges don't look at keeping an empl oyee employed as a problem. But in this 
+case, the company didn't keep Min dy employed. She was fired dur ing her leave. She was fired during her 
+FMLA leave, which, again, could be a retaliation claim under FM LA. But she was also fired within close 
+proximity to her workers comp injury. So let's say it was withi n four weeks. So that's probably going to 
+be not a good decision, to have p ermitted Fred to terminate her . And for HR to go, oh, no, we'll rely on 
+the legitimate business reasons tha t Fred said he had for elimi nating her position. 
+This is definitely a moment where-- as risk-- you want to say, I'm here to protect the company. I'm here to 
+protect the company's bottom line. And this is going to cost us  a lot of money in litig ation fees, even if we 
+prevail. You can still spend six figures in attorney's fees.  
+31 So let's take that yellow mome nt, all of our cautious people. Y ou're wondering, well, what were the 
+legitimate business reasons behi nd Fred eliminating Mindy's pos ition and terminating her? Because he 
+said it was because there was reduction in orders received in t hat department. 
+You'd want to know as risk manager, how many months of that do we have? How many years of that do 
+we have? Or do we simply have f our weeks of time? Which, of cou rse, would cause you to want to put 
+the brakes on any termination of  Mindy. Because there's simply not enough data to say, well, that was a 
+legitimate business reason to eliminate a productive employee w ho was well-liked and performing well. 
+So, green. Not a problem. You're  saying, HR conducted the inves tigation. We have confidence in HR. HR 
+says it's fine. They say we have legitimate business reasons. W e're going to go with that decision. 
+This is the take a deep breath and think about attorney's fees.  Think about how much this could cost you if 
+Mindy files a charge of discrimination, goes the route of filin g pregnancy discrimination claim, Family 
+Medical Leave Act claim, and th en hitting you on the state cour t side with the workers comp retaliation. 
+Because she was terminated within  weeks of having a work comp i njury. And other than the fact that 
+allegedly, there is a reduction in orders, she's got a beautifu l personnel file with glowing performance 
+evaluations and great comments from not only management but cow orkers. 
+So this is the opportunity for risk to get involved and say, we  want to try to make sure that we don't have 
+any issues related to discrimina tion. Whether it's work comp re taliation, a discrimination cause of action, 
+or Mindy's other protected cate gories. So let's talk about thos e protective categories for just a minute. 
+We know we have potential for wo rk comp retaliation. We know we  have pregnancy discrimination. We 
+know we have FMLA. Mindy's femal e and Fred is male, so we're go ing to add gender discrimination to 
+that. We also don't necessarily kno w Mindy's age or national or igin or race. 
+So we could be racking up the categories to six, seven, possibl y more protected categories. So this is the 
+type of situation where you want to proceed extremely cautiousl y. You want to make sure that you've 
+done the right thing for both the  company and the employee. If you have two years of data showing that 
+that particular department is poorly performing, well, you migh t have something to talk about. 
+But why Mindy? Why the choice to get rid of Mindy, who otherwis e has a beautiful record of 
+employment? Who is well-liked and respected by colleagues. Who is well-liked and respected by 
+management. 
+So in the world of retaliation, keep in mind that even though y ou may have a legitimate business reason 
+for having done what you did, if you're dealing with workers co mpensation retaliation, if it's within a few 
+short weeks of someone having a workplace injury, you are provi ding them with a retaliation cause of 
+action that they can file separat ely from any work comp claim, or from any other federal claims we 
+discussed that Mindy is likel y going to be covered under. 
+   
+ 
+    
+32 Glossary 
+ADA —See Americans with Disabilities Act. 
+ADEA —See Age Discrimination in Employment Act. 
+adverse action —One of the elements of a retaliation claim. Examples include d enial of a promotion, 
+refusal to hire, demotion, suspension, discharge, threats, repr imands, negative evaluations, harassment, 
+and change in hours. 
+Age Discrimination in Employment Act (ADEA) of 1967 —A law that prohibits the making of 
+employment decisions (e.g., hiring, promotion) based on age. It  applies to employees or applicants who 
+are 40 years or older and to companies with 20 or more employee s. The ADEA specifies various remedies 
+if a firm is found to have violated the law. Some of these incl ude hiring an applicant who was 
+discriminated against, reinstating a terminated employee, and p aying of back wages, liquidated damages, 
+“front” pay until an employee r eaches the age of 70, court cost s, and attorneys’ fees. 
+Americans with Disabilities Act (ADA) of 1990 —A federal statute passed in 1990, primarily aimed at 
+preventing discrimination in hiring persons having a “disabilit y” as defined by the Act. Under the ADA, 
+employers must afford job appli cants equal opportunity (i.e., e valuating an applicant solely on his/her 
+ability to perform the essential functions of a job, regardless  of disability) and make reasonable 
+accommodations to allow disabled employees to perform job funct ions. However, employers are relieved 
+from the reasonable accommodation requirement if it creates an “undue hardship,” such as excessive 
+costs or considerable work disr uption. Alleged violations of th e ADA are one of the leading perils 
+covered by employment practices liability insurance (EPLI) poli cies.  
+at-will employment —Employment can be terminated for cause or for no cause, at any  time, and with no 
+advance notice. The “at-will” employment doctrine is recognized  in most jurisdictions. 
+bullying —A type of conduct in which one  person harasses another person over a time period in a 
+workplace environment. Bullying is characterized by a pattern o f deliberate, hurtful, and menacing 
+behaviors. Bullying can have two aspects: physical—such as maki ng intimidating physical threats, 
+pushing, shoving, and invading an  individual’s personal space—o r psychological—such as emotional 
+intimidation that is mostly cove rt, including joking or initiat ion rites that may mask sadistic behavior. 
+Employees who claim to have been bullied by other employees are  increasingly suing employers. 
+Bullying has become so common that more than 30 of states have passed anti-bullying legislation. 
+Civil Rights Act of 1991 —A federal act that broadened the scope of Title VII of the Civ il Rights Act of 
+1964. The Civil Rights Act of 19 91 gives employees who sue thei r employers the right to a jury trial and 
+the right to recover compensatory and punitive damages. Prior t o passage of the Civil Rights Act of 1991, 
+successful claimants were entitle d only to awards of back pay a nd lost benefits and were not afforded the 
+right to a jury trial. 
+common law —Unwritten law derived from cour t case decisions based on custo m and precedent. It is 
+contrasted to statutory law. 
+ 
+ 
+  
+33 disability —A condition that incapacitates a person in some way so that he  or she cannot carry on normal 
+pursuits. The definition of “disability” in disability income p olicies varies substantially and should be 
+carefully examined. Disability may be total, partial, permanent , or temporary or a combination of these. In 
+the context of the Americans with Disabilities Act (ADA), “disa bility” is defined as a recorded or 
+perceived physical or mental impairment that substantially limi ts one or more major life activities of an 
+individual. 
+discrimination —(1) The act or process of evalua ting insurable risks and deter mining premiums on the 
+basis of likelihood of loss. Insurance laws prohibit “unfair di scrimination”—that is, the formulation of 
+rates on the basis of criteria that do not fairly measure the a ctual risk involved. (2) Unfair or illegal 
+treatment of or denial of rights to persons on the basis of cer tain arbitrarily chosen attributes or 
+characteristics, including race, g ender, religion, creed, age, medical condition, pregnancy, sexual 
+orientation/preference, physical appearance, marital status, ph ysical or mental disability, or national 
+origin. Discrimination does not usually fall within the coverag e terms of the commercial general liability 
+(CGL) policy (and may even be specifically excluded by endorsem ent) but may be covered as a form of 
+personal injury (PI) under some  umbrella policies. However, emp loyment practices liability insurance 
+(EPLI) covers a variety of employ ment-related claims, including  discrimination. 
+employment-at-will doctrine —A legal doctrine holding that, a bsent a contract for a specifi ed duration, 
+both employers and employees are free to terminate the employme nt relationship at any time, with or 
+without cause, and with or without notice. In recent years, how ever, both courts and legislatures have 
+developed a number of exceptions to this doctrine, a factor lar gely responsible for a marked increase in 
+claims alleging wrongful termination. 
+Equal Pay Act of 1963 —A federal law prohibiting pay discrimination against employees  because of their 
+gender. The Act compels businesses to pay equal wages to employ ees performing substantially equal 
+work, regardless of the sex of the individual employees. Pay di fferentials may be based on merit, 
+seniority, or any lawful factor other than sex. The Equal Pay A ct applies to all businesses regardless of the 
+number of employees. Inequalities in pay between men and women for performance of “substantially 
+equal jobs” are prohibited, unl ess the differences are due to a  factor other than sex, such as a seniority 
+system or merit system. Claims alleging violation of the Equal Pay Act are covered by employment 
+practices liability insurance (EPLI) policies. 
+fair employment practices laws —Legislation enacted in every st ate that bars discrimination by  private 
+employers against defined categories of individuals. Fair emplo yment practices laws are generally 
+broader than their federal counterparts, but they are not unifo rm in their protection. 
+Fair Labor Standards Act (FLSA) of 1938 —A law that established a national, hourly minimum wage 
+and promulgated eligibility rules for overtime pay. The Wage an d Hour Division of the US Department of 
+Labor administers the  law, and virtually all wage and hour clai ms cite a violation of the FLSA. Wage and 
+hour claims allege that workers classified by employers as “exe mpt” (and therefore ineligible for overtime 
+pay) are, in fact, entitled to ove rtime pay. Wage and hour clai ms are a serious exposure for employers; a 
+number of class action wage and hour claims have settled for mo re than $10 million. 
+Family and Medical Leave Act (FMLA) of 1993 —A law allowing employees to take up to 12 weeks 
+annually of job-protected unpaid leave. Such leaves are permitt ed in the event of a serious illness of the 
+employee or family member or the birth or placement (through ad option or foster care) of a child. The 
+law applies to employers having 50 or more employees and to emp loyees who have worked for the 
+employer for a minimum of 1,250 hours during the prior year. Ch arges of discrimination against those 
+taking leave under the Act (or by those prevented from taking l eave under the Act) can be filed with the 
+Department of Labor, which investigates and enforces claims. In  addition, an employee can sue his or her 
+employer individually. Such claims are covered by employment pr actices liability (EPL) policies. 
+FLSA —See Fair Labor Standards Act.  
+34 FMLA —See Family and Medical Leave Act. 
+hostile work environment sexual harassment —A form of sexual harassment occurring when such 
+conduct has the purpose or effect of unreasonably interfering w ith an individual’s work performance or 
+creating an intimidating, hostile , or offensive working environ ment. Coverage for suc h claims is covered 
+under employment practices liability (EPL) policies. 
+negligence —A tort involving failure to use a degree of care considered re asonable under a given set of 
+circumstances. Acts of either omission or commission or both ma y constitute negligence. The four 
+elements of negligence are a dut y owed to a plaintiff, a breach  of that duty by the defendant, proximate 
+cause, and an injury or damage suffered by the plaintiff. Liabi lity policies are designed to cover claims of 
+negligence. 
+reasonable accommodation —As defined in the Americans with Disabilities Act (ADA) of 199 0, either 
+modifications or adjustments to a job application process or a job performance process that enable a 
+qualified applicant with a disability to be considered for or p erform the position or modifications or 
+adjustments that allow the disabled worker the same benefits an d privileges afforded other similarly 
+situated employees without disabilities. This modification or j ob adjustment must be achieved without 
+imposing an undue hardship on the employer’s operations. 
+retaliation claims —Such claims result when an employee alleges discrimination bas ed on protected 
+status (e.g., race, gender, di sability), and, in retaliation fo r making such a claim, the employee is treated 
+adversely (e.g., the employee r eceives a demotion). A successfu l retaliation claim must prove three 
+elements: (1) that the employee engaged in a “protected activit y” (filing a discrimination claim, alleging 
+corporate misconduct), (2) that the employee suffered an “adver se action” (termination), and (3) that there 
+was a causal connection between t he adverse action and the prot ected activity. Employment practices 
+liability insurance (EPLI) policies cover retaliation claims. I n recent years, retaliation claims have also 
+been made in conjunction with wor kers compensation claims. That  is, employees have sued their 
+employers when, in response to f iling a workers compensation cl aim, an employer took some form of 
+adverse action against the worker  (e.g., imposing a change in w ork hours, giving the employee a 
+demotion or a reprimand). 
+sexual harassment —Conduct involving unwelcome sexua l advances, requests for sexu al favors, and 
+verbal, visual, or physical conduc t of a sexual nature. There a re two types of sexual harassment: quid pro 
+quo sexual harassment, in which sexual contact is made a condit ion of employment, and hostile 
+environment sexual harassment, in which such conduct creates an  intimidating, hostile, or offensive 
+working environment. Lawsuits against businesses that allege se xual harassment have increased 
+significantly during the past decade. Accordingly, around 1990,  the insurance market began offering 
+employment practices liability ( EPL) policies, a specialized fo rm of insurance covering claims of sexual 
+harassment as well as other employment-related torts. 
+Title VII of the Civil Rights Act of 1964 —A law prohibiting discrimination by private sector 
+employers. Title VII bars an employer from discriminating on th e basis of race, color, religion, sex, or 
+national origin in hiring, discharge, or compensation and with regard to any term s, conditions, or 
+privileges of employment. An “employer” is defined under Title VII as any person “engaged in an 
+industry affecting commerce who has 15 or more employees for ea ch working day in each of 20 or more 
+calendar weeks in the current o r preceding calendar year.” An “ employer” can be a sole proprietor, 
+partnership, or corporation. A partner is not considered an emp loyee under Title VII. The majority of 
+employment-related lawsuits alleging discrimination are brought  under Title VII. 
+ 
+  
+35 wage and hour claims —An assertion by an employee-plaintiff that his or her employer  has failed to pay 
+overtime wages owed to the employee. Within the past several ye ars, a number of high-profile, high-
+dollar wage and hour claims have  been filed on a class action b asis, a fact that has vastly increased the 
+dollar amount payable under such lawsuits. Given the magnitude of this exposure, most employment 
+practices liability insurance (EPLI) policies specifically excl ude coverage for wage and hour claims. 
+whistleblower claim —An assertion that an employee w as penalized (e.g., terminated,  demoted, 
+disciplined) for complaining of or opposing certain employer ac tions (e.g., fraudulent billing practices on 
+a government contract), refusing to engage in illegal or unethi cal conduct, or exposing such conduct via 
+testimony at a trial or administr ative hearing. Whistleblower c laims are a type of retaliation claim and are 
+covered by employment practices liability insurance (EPLI) poli cies. 
+wrongful termination —The act of terminating an emplo yee in a manner that is against  the law. In recent 
+years, erosion of the employment-at-will doctrine has been the factor most responsible for the increase in 
+claims alleging wrongful termination. Coverage for this exposur e is provided under employment practices 
+liability (EPL) policies. 
+ 
+ 
